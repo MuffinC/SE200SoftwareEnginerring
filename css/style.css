@@ -96,10 +96,6 @@ header{
     box-shadow: 0 .1rem .3rem rgba(0,0,0,.3);
 }
 
-header .logo{
-    color:blue;
-    font-size: 2.5rem;
-}
 
 header .navbar ul{
     display: flex;
@@ -114,7 +110,7 @@ header .navbar ul li{
 
 header .navbar ul li a{
     font-size: 2rem;
-    color:green;
+    color:orange;
 }
 
 header .navbar ul li a.active,
@@ -124,12 +120,17 @@ header .navbar ul li a:hover{
 
 header #login{
     font-size: 3rem;
-    color:#fff;
+    color:white;
     cursor: pointer;
 }
 
 header #login:hover{
-    color:grey;
+    color:green;
+}
+
+header .logo img{
+    width: 40px;
+
 }
 
 header #menu{
@@ -362,10 +363,11 @@ header #menu{
     }
 }
 
-.container-foot3 a:hover,
-.container-foot2 a:hover,
-.container-foot1 a:hover,
-.container-foot a:hover{
+:is(.container-foot3,
+    .container-foot2,
+    .container-foot1,
+    .container-foot) a:hover
+{
     color: green;
 }
 
