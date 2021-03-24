@@ -112,27 +112,27 @@ header .navbar ul li{
     margin:0 1rem;
 }
 
-header .navbar ul li a{
+.navbutton{
     font-size: 2rem;
     color:white;
 }
 
-header .navbar ul li a.active,
-header .navbar ul li a:hover{
+.navbutton.active,
+.navbutton:hover{
     color:orange;
 }
 
-header #login{
+#login{
     font-size: 3rem;
     color:#fff;
     cursor: pointer;
 }
 
-header #login:hover{
+#login:hover{
     color:orange;
 }
 
-header #menu{
+#menu{
     font-size: 3rem;
     color:white;
     cursor: pointer;
@@ -244,9 +244,8 @@ header #menu{
     background-attachment: fixed;
 }
 
-.internship .container,
-.course .container,
-.home .container{
+:is(.internship,.course, .home) .container
+{
     display: flex;
     align-items: center;
     justify-content: center;
@@ -308,30 +307,22 @@ header #menu{
     margin:1.5rem;  
 }
 
-.jc .box-container .box img,
-.uni .box-container .box img,
-.poly .box-container .box img{
+:is(.jc, .uni, .poly) .box-container .box img{
     height:20rem;
     width: 100%;
     object-fit: cover;
 }
-
-.jc .box-container .box .content,
-.uni .box-container .box .content,
-.poly .box-container .box .content{
+:is(.jc, .uni, .poly) .box-container .box .content
+{
     padding:1rem;
 }
 
-.jc .box-container .box .content .title,
-.uni .box-container .box .content .title,
-.poly .box-container .box .content .title{
+:is(.jc, .uni, .poly) .box-container .box .title{
     color:#444;
     font-size: 2.1rem;
 }
 
-.jc .box-container .box .content .title:hover,
-.uni .box-container .box .content .title:hover,
-.poly .box-container .box .content .title:hover{
+:is(.jc, .uni, .poly) .box-container .box .title:hover{
     text-decoration: underline;
 }
 
@@ -381,6 +372,7 @@ header #menu{
     background: linear-gradient(#3B3838,black);
 }
 
+
 .container-foot3 p{
     font-size: 1.3rem;
     display: inline-block;
@@ -389,11 +381,12 @@ header #menu{
     margin-right: 1rem
     }
 
-.container-foot3 img{
+#footerLogo{
     width: 20px;
     height: 20px;
     list-style: inline;
     margin-left: .5rem;
+    margin-bottom: -0.5rem;
 }
 
 
@@ -401,9 +394,7 @@ header #menu{
 
 
 
-
-
-/* media queries  */
+/* media queries  
 
 @media (max-width:768px){
 
