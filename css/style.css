@@ -399,6 +399,39 @@ header .navbar ul li{
 }
 
 
+.feedback .box{
+    width: 50%;
+    padding: 1rem;
+    background: #ffaeef;
+    border: #00ffff solid .2rem;
+}
+
+.feedback .box:focus,
+.feedback .box:hover{
+    border:purple solid .2rem;
+}
+
+
+.feedback .box::placeholder{
+    color: green;
+    font-size: 1.5rem;
+}
+
+.feedback .box{
+    color: blue;
+}
+
+.feedback h3{
+    color: white;
+    font-size: 1.5rem;
+    margin-top: 4rem;
+    margin-bottom: .5rem;
+    text-align: center;
+
+}
+
+
+
 
 
 
