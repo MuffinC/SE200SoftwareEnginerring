@@ -1,6 +1,5 @@
 .box{
-    width: 50%;
-    padding: 1rem;
+    width: 100%;
     background: #ffaeef;
     border: #00ffff solid .2rem;
 }
@@ -20,11 +19,21 @@
     color: blue;
 }
 
+
+.row form{
+    max-width: 50%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+
 h3{
     color: white;
     font-size: 1.5rem;
     margin-top: 4rem;
     margin-bottom: .5rem;
-    text-align: center;
+}
 
+.btn{
+    margin: 0;
 }
