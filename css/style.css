@@ -299,52 +299,6 @@ header .navbar ul li{
     padding:1rem 0;
 }
 
-.jc .box-container,
-.uni .box-container,
-.poly .box-container{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-wrap: wrap;
-}
-
-.jc .box-container .box,
-.uni .box-container .box,
-.poly .box-container .box{
-    width:35rem;
-    border:.1rem solid rgba(0,0,0,.3);
-    position: relative;
-    margin:1.5rem;  
-}
-
-:is(.jc, .uni, .poly) .box-container .box img{
-    height:20rem;
-    width: 100%;
-    object-fit: cover;
-}
-:is(.jc, .uni, .poly) .box-container .box .content
-{
-    padding:1rem;
-}
-
-:is(.jc, .uni, .poly) .box-container .box .title{
-    color:#444;
-    font-size: 2.1rem;
-}
-
-:is(.jc, .uni, .poly) .box-container .box .title:hover{
-    text-decoration: underline;
-}
-
-
-.jc .box-container .box .content p,
-.un .box-container .box .content p,
-.poly .box-container .box .content p{
-    padding:1rem 0;
-    color:#666;
-    font-size: 1.5rem;
-}
-
 .footer .footer-container1{
     display: flex;
     justify-content: space-between;

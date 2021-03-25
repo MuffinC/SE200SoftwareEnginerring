@@ -1,0 +1,43 @@
+*{
+	box-sizing: border-box;
+}
+
+.box-container{
+	display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.box{
+	width:35rem;
+    border:.1rem solid rgba(0,0,0,.3);
+    position: relative;
+    margin:1.5rem;  
+}
+
+.box img{
+	height:20rem;
+    width: 100%;
+    object-fit: cover;
+}
+
+.content{
+	padding: 1rem;
+}
+
+.title{
+	color:#444;
+    font-size: 2.1rem;
+    height: 2rem;
+}
+
+.title:hover{
+	text-decoration: underline;
+}
+
+.content p{
+	padding:1rem 0;
+    color:#666;
+    font-size: 1.5rem;
+}
