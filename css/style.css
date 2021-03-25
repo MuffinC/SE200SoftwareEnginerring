@@ -40,6 +40,15 @@ section{
     padding-top:6rem;
 }
 
+#livesearch
+  { 
+  margin:0px;
+  width:194px; 
+  }
+#txt1
+  { 
+  margin:0px;
+  } 
 
 .btn{
     padding:.4rem 1.5rem;
