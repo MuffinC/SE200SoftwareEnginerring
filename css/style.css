@@ -265,8 +265,6 @@ header .navbar ul li{
     margin-bottom: 1rem;
 }
 
-.internship img,
-.course img,
 .home img{
     flex:1 1 40rem;
     padding: .5rem 3rem .5rem .5rem;
@@ -274,14 +272,11 @@ header .navbar ul li{
     width: 50%;
 }
 
-.internship .content,
-.course .content,
+
 .home .content{
     flex:1 1 60rem;
 }
 
-.internship .content h3,
-.course .content h3,
 .home .content h3{
     font-size: 3.5rem;
     color:blue;
@@ -291,8 +286,6 @@ header .navbar ul li{
     
 }
 
-.internship .content p,
-.course .content p,
 .home .content p{
     font-size: 1.5rem;
     color:purple;
@@ -352,44 +345,6 @@ header .navbar ul li{
     margin-left: .5rem;
     margin-bottom: -0.5rem;
 }
-
-
-.feedback .box{
-    width: 50%;
-    padding: 1rem;
-    background: #ffaeef;
-    border: #00ffff solid .2rem;
-}
-
-.feedback .box:focus,
-.feedback .box:hover{
-    border:purple solid .2rem;
-}
-
-
-.feedback .box::placeholder{
-    color: green;
-    font-size: 1.5rem;
-}
-
-.feedback .box{
-    color: blue;
-}
-
-.feedback h3{
-    color: white;
-    font-size: 1.5rem;
-    margin-top: 4rem;
-    margin-bottom: .5rem;
-    text-align: center;
-
-}
-
-
-
-
-
-
 
 /* media queries  
 
