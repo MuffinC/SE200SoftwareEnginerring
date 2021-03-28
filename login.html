@@ -10,46 +10,10 @@
     <!-- custom css file link  -->
     <!-- <link rel="stylesheet" href="css/style.css"> -->
 
-    <script src="js/jquery-3.6.0.js"></script>
-
-    <script>
-        //after the user click admin login button
-        $(document).ready(function() {
-            $('#login').click(function() {
-                var email = $("#email").val();
-                var password = $("#password").val();
-                var error = true;
-                $.ajax({
-                    type: "POST",
-                    url: "logindata.json",
-                    dataType: "json",
-                    success: function(data) {
-                        $.each(data, function(key, value) {
-                            if(email == value.email && password == value.password) {
-                                error = false;
-                            }
-                        });
-
-                        if (error==false) {
-                            $("#container").hide();
-                            document.location="login.php?"
-                        }
-                        else {
-                            $("#container").text("FUCK YOU");
-                            $("#user").val('');
-                            $("password").val('');
-                        }
-                    }
-                });
-                return false;
-            });
-        });
-    </script>
-
 </head>
 
 <body>
-<form action="login.php" method="post">
+<!-- <form action="login.php" method="post"> -->
     <div class="container">
         <label for="email"><b>Email</b></label>
         <input type="text" placeholder="Enter Email" name="email" required>
@@ -67,7 +31,43 @@
         <button type="button" class="cancelbtn">Cancel</button>
         <span class="psw">Forgot <a href="#">password?</a></span>
     </div>
-</form>
+<!-- </form> -->
 
 <div class="container"> Hello </div>
 </body>
+
+<script src="js/jquery-3.6.0.js"></script>
+
+<script>
+    //after the user click admin login button
+    $(document).ready(function() {
+        $('#login').click(function() {
+            var email = $("#email").val();
+            var password = $("#password").val();
+            var error = true;
+            $.ajax({
+                type: "POST",
+                url: "logindata.json",
+                dataType: "json",
+                success: function(data) {
+                    $.each(data, function(key, value) {
+                        if(email == value.email && password == value.password) {
+                            error = false;
+                        }
+                    });
+
+                    if (error==false) {
+                        $("#container").hide();
+                    }
+                    else {
+                        $("#container").text("FUCK YOU");
+                        $("#email").val('');
+                        $("#password").val('');
+                    }
+                }
+            });
+            return false;
+        });
+    });
+</script>
+</html>
