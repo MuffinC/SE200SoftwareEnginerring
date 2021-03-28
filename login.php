@@ -6,4 +6,5 @@
     } else {
         echo "Welcome ". $_SESSION['user'];
     }
+    echo "hello";
 ?>
