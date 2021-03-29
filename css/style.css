@@ -235,7 +235,6 @@ header .navbar ul li{
     color:orange;
 }
 
-.internship h1,
 .course h1{
     font-size: 5rem;
     color: white;
@@ -244,14 +243,46 @@ header .navbar ul li{
     margin: 0;
 }
 
-.feedback,
-.internship,
-.course,
+#search-title{
+    color: white;
+    font-size: 2.5rem;
+    text-align: center;
+}
+
+
+.form-control {
+  display: block;
+  width: 100%;
+  height: calc(1.5em + 0.75rem + 2px);
+  padding: 0.375rem 0.75rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #495057;
+  background-color: #fff;
+  background-clip: padding-box;
+  border: 1px solid #ced4da;
+  border-radius: 0.25rem;
+  transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+
+#search-bar{
+    padding-bottom: 30px;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.list-group{
+    background-color: white;
+    font-size: 1.5rem;
+}
+
 .home{
     background:url(../images/home.jpg) no-repeat;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
+    padding-top: 100px;
 }
 
 :is(.internship,.course, .home) .container
@@ -300,23 +331,24 @@ header .navbar ul li{
     border-bottom: 1px solid grey;
 }
 
-.container-foot3 a,
-.container-foot2 a,
-.container-foot1 a,
-.container-foot a{
+.footer-button{
     font-size: 1.5rem;
     display: inline-block;
     margin: .5rem;
     color: white;
     text-decoration:underline;
-    margin-right: 1rem
-
+    margin-right: 1rem;
     }
+.footer-button2{
+    font-size: 1.5rem;
+    display: inline-block;
+    margin: .5rem;
+    color: white;
+    text-decoration:none;
+    margin-right: 1rem;
+}
 
-.container-foot a:hover,
-.container-foot1 a:hover,
-.container-foot2 a:hover,
-.container-foot3 a:hover{
+:is(.footer-button, .footer-button2):hover{
     color: #00feff;
     text-decoration: none;
     cursor: pointer;    
@@ -333,9 +365,7 @@ header .navbar ul li{
 .container-foot3 p{
     font-size: 1.3rem;
     display: inline-block;
-    margin: 0 1rem;
     color: white;
-    margin-right: 1rem
     }
 
 #footerLogo{

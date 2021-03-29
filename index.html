@@ -5,6 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kaching Website</title>
 
+    <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"> -->
+
     <!-- google fonts cdn link  -->
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600&display=swap" rel="stylesheet">
@@ -12,8 +14,14 @@
     <!-- font awesome cdn link  -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css">
 
+    
+  	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+  	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
     <!-- custom css file link  -->
     <link rel="stylesheet" href="css/style.css">
+
+
 
 </head>
 <body>
@@ -36,7 +44,8 @@
 <!-- header section starts  -->
 <header>
     <div id="menu" class="fas fa-bars"></div>
-    <a href="index.html" class="logo"><img src="images/KachingLogo2.png"></a>
+    <a href="index.html" class="logo"><img src="images/KachingLogo_nowords.png"></a>
+
     <nav class="navbar">
         <ul>
             <li><a class="navbutton active" href="index.html">home</a></li>
@@ -56,6 +65,13 @@
 <!-- home section starts  -->
 <section class="home" id="home">
 
+	<div id="search-bar">
+		<h3 id="search-title"><strong>Data Search of Courses and Schools</strong></h2>
+	   	<div>
+	    	<input type="text" name="search" id="search" placeholder="Search using course name, course code or school name" class="form-control" />
+	   	</div>
+	   	<ul class="list-group" id="result"></ul>
+   	</div>
 	<div class="container">
         <img src="images/course.jpg" alt="">
     	<div class="content">
@@ -91,39 +107,30 @@
 <div class="footer">
 
     <footer>
-        <div class="footer-container1">
-            <div class="container-foot">
-                    <a class = "footerLink" href="#home">home</a>
-                    <a href="#about">about</a>
-                    <a href="#course">course</a>
-                    <a href="#internship">internship</a>
-                    <a href="#aptitude">aptitude</a>
-            </div>
-
-            <div class="container-foot1">
-                    <a href="#home">contact</a>
-                    <a href="#course">Feedback</a>
-                    <a href="#course">FAQ</a>
-                </ul>
-            </div>
-        </div>
-
         <div class="footer-container2">
             <div class="container-foot2">
-                    <a href="#home">Terms of Service</a>
-                    <a href="#course">Privacy Policy</a>
+                    <a class="footer-button" href="#home">Terms of Service</a>
+                    <a class="footer-button" href="#course">Privacy Policy</a>
             </div>
 
             <div class="container-foot3">
-                    <p>2021 KACHING, inc<img id="footerLogo" src="images/KachingLogo2.png"> </p> 
-                    <p>.Singapore</p>
-                </ul>
+            		<img id="footerLogo" src="images/KachingLogo_nowords.png">
+                    <i style="color: white" class="far fa-copyright"></i>
+                    <p>2021 KACHING, inc.</p> 
+                    <p>Singapore</p>
+            </div>
+            <div class="container-foot1">
+                    <a class="footer-button2 fas fa-envelope" href="mailto:kachingntu@gmail.com" title="Send us an email!"></a>
+                    <a class="footer-button2 fas fa-paper-plane" href="subPages/feedback.html" title="Give us Feedback!"></a>
+                    <a class="footer-button2 fas fa-question-circle" href="#FAQ" title="FAQ"></a>
             </div>
         </div>
     </footer>
 </div>
 
 <!-- Footer section end -->
+
+<script src="js/searchBar.js"></script>
 
 <!-- jquery cdn link  -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
