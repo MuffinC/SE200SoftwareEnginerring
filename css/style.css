@@ -37,7 +37,11 @@ html::-webkit-scrollbar-thumb{
 section{
     min-height: 100vh;
     padding:1rem 7%;
-    padding-top:6rem;
+    padding-top:8rem;
+    background:url(../images/home.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
 }
 
 #livesearch
@@ -235,14 +239,6 @@ header .navbar ul li{
     color:orange;
 }
 
-.course h1{
-    font-size: 5rem;
-    color: white;
-    text-align: center;
-    padding: 0;
-    margin: 0;
-}
-
 #search-title{
     color: white;
     font-size: 2.5rem;
@@ -389,6 +385,10 @@ header .navbar ul li{
 
 .link-class:hover {
     background-color:#f1f1f1;
+}
+
+.fa-copyright{
+    color: white;
 }
 
 /* media queries  
