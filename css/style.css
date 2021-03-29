@@ -38,7 +38,8 @@ section{
     min-height: 100vh;
     padding:1rem 7%;
     padding-top:8rem;
-    background:url(../images/home.jpg) no-repeat;
+    /*background:url(../images/home.jpg) no-repeat;*/
+    background:url(https://media.giphy.com/media/jaOXKCxtBPLieRLI0c/giphy.gif);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -266,13 +267,6 @@ header .navbar ul li{
     font-size: 1.5rem;
 }
 
-.home{
-    background:url(../images/home.jpg) no-repeat;
-    background-size: cover;
-    background-position: center;
-    background-attachment: fixed;
-    padding-top: 100px;
-}
 
 :is(.internship,.course, .home) .container
 {
