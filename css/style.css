@@ -39,7 +39,8 @@ section{
     padding:1rem 7%;
     padding-top:8rem;
     /*background:url(../images/home.jpg) no-repeat;*/
-    background:url(https://media.giphy.com/media/jaOXKCxtBPLieRLI0c/giphy.gif);
+    /*background:url(https://media.giphy.com/media/jaOXKCxtBPLieRLI0c/giphy.gif);*/
+    background: url(https://media.giphy.com/media/MXQnyEQwBJ6eTj90L5/giphy.gif);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
