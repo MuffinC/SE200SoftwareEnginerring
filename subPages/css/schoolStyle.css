@@ -9,14 +9,6 @@
     flex-wrap: wrap;
 }
 
-.page-header{
-    /*color:#444;*/
-    color: white;
-    padding:1rem;
-    font-size: 4rem;
-    text-align: center;
-}
-
 .box{
 	width:35rem;
     border:.1rem solid rgba(0,0,0,.3);
