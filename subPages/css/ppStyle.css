@@ -1,0 +1,49 @@
+.page-header{
+	font-size: 3rem;
+	color: black;
+	text-align: left;
+}
+
+
+.container{
+	border: solid black 1px;
+	margin-left: 10%;
+	margin-right: 10%;
+	padding: 1rem;
+	background-color: white;
+	font-size: 1.5rem;
+}
+
+
+section p{
+	padding-left: 4rem;
+	margin-bottom: 1.2rem;
+}
+
+section ul{
+	padding-left: 8rem;
+	margin-bottom: 1.2rem;
+}
+
+section h2{
+	padding-top: 2rem;
+	padding-bottom: 1rem;
+	font-size: 1.6rem;
+}
+
+.sub-container{
+	border: 0.1rem solid
+}
+
+section h1{
+	color: blue;
+	font-size: 1.6rem;
+}
+
+.sub-container p,
+.sub-container h1,
+.sub-container h2 {
+	padding-left: 1rem;
+}
+
+
