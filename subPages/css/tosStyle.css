@@ -2,3 +2,11 @@ section :is(p,h2, ul){
 	color: white;
 	font-size: 1.8rem;
 }
+
+section p{
+	padding-left: 4rem;
+}
+
+section ul{
+	padding-left: 8rem;
+}
