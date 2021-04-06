@@ -1,9 +1,20 @@
-<!DOCTYPE html>
+<?php  
+    session_start();
+    if(!isset($_SESSION['username'])){
+        header('location:login.php');
+    }
+    //this just makes it u need to login to enter
+?>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kaching Website</title>
+
+<!--Login + register-->
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+
 
     <!-- google fonts cdn link  -->
     <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -23,19 +34,6 @@
 
 </head>
 <body>
-<!-- Login Page section starts  -->
-<div class="login-form">
-
-    <form action="">
-        <h3>login</h3>
-        <input type="email" placeholder="username" class="box">
-        <input type="password" placeholder="password" class="box">
-        <p>forget password? <a href="#">click here</a></p>
-        <p>don't have an account? <a href="#">register now</a></p>
-        <input type="submit" class="btn" value="login">
-        <i class="fas fa-times"></i>
-    </form>
-</div>
 
 
 <!-- header section starts  -->
@@ -53,7 +51,14 @@
             <li><a class="navbutton" href="subPages/feedback.html">feedback</a></li>
         </ul>
     </nav>
-    <div id="login" class="fas fa-user-circle"></div>
+    <!-- Login Page section starts  -->
+
+
+
+
+<h1>Welcome <?php echo $_SESSION['username'];?></h1>
+</body>
+<a class="float-right" href="logout.php"> LOGOUT</a>
 </header>
 
 <!-- header section end-->
