@@ -4,10 +4,11 @@
 	<title>
 		Login and Registration form 
 	</title>
-	<link rel="stylesheet" type="text/css" href="style.css">
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<link rel="stylesheet" type="text/css" href="css/loginStyle.css">
 </head>
 <body>
-	<div class="hero">
+	<section>
 		<div class="form-box">
 			<div class="button-box">
 				<div id="btn"></div>
@@ -36,7 +37,7 @@
 		</form>
 		</div>
 		
-	</div>
+	</section>
 	<script >
 		var x = document.getElementById("login");
 		var y = document.getElementById("register");
