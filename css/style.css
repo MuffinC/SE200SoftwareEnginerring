@@ -393,6 +393,19 @@ header .navbar ul li{
     color: white;
 }
 
+
+/* login +registration*/
+.login-left{
+    background-color: rgba(211,211,211,0.5);
+    padding: 30px;
+}
+.login-right{
+    background: #fff;
+    padding: 30px;
+}
+
+
+
 /* media queries  
 
 @media (max-width:768px){
