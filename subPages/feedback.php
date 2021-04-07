@@ -54,7 +54,7 @@
 
         <div class="form-group">
         <h3>Feedback: </h3>
-        <input type= "text" name="feedback" cols="30" rows="10" class="box input-field"required>
+        <textarea type= "text" name="feedback" cols="30" rows="10" class="box input-field"required></textarea>
         </div>
         <input type="submit" class="btn" value="Send it!">
 
