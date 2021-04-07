@@ -48,7 +48,7 @@
             <li><a class="navbutton" href="subPages/courses.html">course</a></li>
             <li><a class="navbutton" href="subPages/internship.html">internship</a></li>
             <li><a class="navbutton" href="subPages/aptitude.html">aptitude</a></li>
-            <li><a class="navbutton" href="subPages/feedback.html">feedback</a></li>
+            <li><a class="navbutton" href="subPages/feedback.php">feedback</a></li>
         </ul>
     </nav>
     <!-- Login Page section starts  -->
@@ -122,7 +122,7 @@
             </div>
             <div class="container-foot1">
                     <a class="footer-button2 fas fa-envelope" href="mailto:kachingntu@gmail.com" title="Send us an email!"></a>
-                    <a class="footer-button2 fas fa-paper-plane" href="subPages/feedback.html" title="Give us Feedback!"></a>
+                    <a class="footer-button2 fas fa-paper-plane" href="subPages/feedback.php" title="Give us Feedback!"></a>
                     <a class="footer-button2 fas fa-question-circle" href="subPages\faq.html" title="FAQ"></a>
             </div>
         </div>
