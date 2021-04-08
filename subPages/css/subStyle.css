@@ -64,6 +64,21 @@
 
 
 /*About Us*/
+.about :is(.page-header){
+    color: black;
+}
+
+#grp-img{
+    text-align: center;
+}
+
+.about-container{
+    border: solid black 2px;
+    background: white;
+    padding: 10px;
+
+}
+
 .about{
-    color: blue;
+    font-size: 18px;
 }
