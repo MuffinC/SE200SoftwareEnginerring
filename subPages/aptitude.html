@@ -38,8 +38,9 @@
 <!-- aptitude test section start-->
 <section class="apptitude">
     <h1 class="page-header">FOR APTITUDE TEST</h1>
-    <div class = "aptitude-box">
-        <iframe class = "aptitude-test" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=SJPOFSq-K0aPwOF2WpsgSqmZt_qPGKVGigkrZcFXvfJUNFZDMTcwQ1QwVDJLOEhOSkZPSUlCOTNEMy4u&embed=true" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
+    <button class="btn" id="show-aptitude" onClick='document.getElementById("ifr").src= "https://forms.office.com/Pages/ResponsePage.aspx?id=SJPOFSq-K0aPwOF2WpsgSqmZt_qPGKVGigkrZcFXvfJUNFZDMTcwQ1QwVDJLOEhOSkZPSUlCOTNEMy4u&embed=true"'>Start Test</button>
+    <div class = "aptitude-box" id = "aptitude-box">
+        <iframe class = "aptitude-test" id = "ifr" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
     </div>
 </section>
 <!-- aptitude test section end-->
@@ -73,5 +74,14 @@
 <!-- Footer section end -->
 <!-- Help bot -->
 <script src="//code.tidio.co/k6sjn4zehamzr5plcq2lwzebmaktdfsk.js" async></script>
+<script src="../js/jquery-3.6.0.js"></script>
+<script> 
+    $(document).ready(function() {
+        $("#aptitude-box").hide();
+        $("#show-aptitude").click(function(){
+            $("#aptitude-box").show();
+        });
+    });
+</script>
 </body>
 </html>
