@@ -23,7 +23,7 @@
     <a href="../homepage.php" class="logo"><img src="images/KachingLogo_nowords.png"></a>
     <nav class="navbar">
         <ul>
-            <li><a class="navbutton" href="../homepage.html">home</a></li>
+            <li><a class="navbutton" href="../homepage.php">home</a></li>
             <li><a class="navbutton" href="aboutUs.html">about</a></li>
             <li><a class="navbutton" href="courses.html">course</a></li>
             <li><a class="navbutton" href="internship.html">internship</a></li>
