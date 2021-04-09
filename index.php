@@ -16,7 +16,6 @@
 				<button type="button" class="toggle-btn" onclick="register()">Register</button>
 			</div>
 			
-		
 
 
 		<form id="login"class="input-group" action="validation.php" method="post">
@@ -24,6 +23,11 @@
 			<input type="password" class="input-field" name="password" placeholder="Enter Password" required>
 
 			<button type="submit" class="submit-btn">Login</button>
+			<button class="btn" type="button" id="forgotpass">Forgot Password?</button>
+			<div id="forgotpassform">
+				<input type="text" placeholder="Email">
+				<input type="password" placeholder="Password">
+			</div>
 		</form>
 
 
@@ -54,6 +58,18 @@
 			z.style.left="0px";
 		}
 
+	</script>
+
+	<script src="js/script.js"></script>
+	<script src="js/jquery-3.6.0.js"></script>
+
+	<script> 
+		$(document).ready(function() {
+			$("#forgotpassform").hide();
+			$("#forgotpass").click(function(){
+				$("#forgotpassform").toggle();
+			});
+		});
 	</script>
 
 </body>

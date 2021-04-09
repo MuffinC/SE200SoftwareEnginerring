@@ -97,6 +97,10 @@ section{
     margin-bottom: 10px;
 }
 
+#forgotpass{
+    margin-left: 25%;
+}
+
 header{
     width: 100%;
     display: flex;
