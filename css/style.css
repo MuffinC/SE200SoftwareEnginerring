@@ -101,43 +101,89 @@ section{
     margin-left: 25%;
 }
 
-header{
-    width: 100%;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    position: fixed;
-    top:0; left: 0;
-    z-index: 1000;
-    padding:1.5rem 7%;
-    background:var(--gradient);
-    box-shadow: 0 .1rem .3rem rgba(0,0,0,.3);
+/*header styling*/
+.navbar{
+    background: var(--gradient);
+    text-align: center;
+}
+
+.navbar ul{
+    display: inline-flex;
+    list-style: none;
+    color: white;
+}
+
+.menu-bar ul li{
+    font-size: 1.2rem;
+}
+
+.active,
+.navlist{
+    width: 12rem;
+    margin: .5rem;
+    padding: .6rem;
+}
+
+.navbar ul li a{
+    font-size: 1.8rem;
+    text-decoration: none;
+    color: white;
     text-transform: capitalize;
 }
 
-header .logo img{
-    width: 40px;
+.active, .navbar ul li:hover{
+    background: black;
+    border-radius: .2rem;
 }
 
-header .navbar ul{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    list-style: none;
+.navcourse{
+    display: none;
 }
 
-header .navbar ul li{
-    margin:0 1rem;
+.navbar ul li:hover .navcourse{
+    display: block;
+    position: absolute;
+    background: var(--gradient);
+    margin-top: .1rem;
+    margin-left: -.6rem;
 }
 
-.navbutton{
-    font-size: 2rem;
-    color:white;
+.navbar ul li:hover .navcourse ul{
+    display: block;
+    margin: 10px;
 }
 
-.navbutton.active,
-.navbutton:hover{
-    color:orange;
+.navbar ul li:hover .navcourse ul li{
+    width: 10rem;
+    padding: .1rem .5rem .5rem .1rem;
+    border-bottom: .1rem dotted white;
+    background: transparent;
+    border-radius:0;
+    text-align: center;
+}
+
+.navbar ul li:hover .navcourse ul li a{
+    font-size: 1.4rem;
+}
+
+.navbar ul li:hover .navcourse ul li:last-child{
+    border-bottom: none;
+}
+
+.navbar ul li:hover .navcourse ul li a:hover{
+    color: grey;
+}
+
+.fa-angle-down{
+    display: right;
+    margin-left: .5rem;
+}
+
+
+#logo{
+    float: left;
+    margin: 1.5rem;
+    width: 1rem;
 }
 
 .page-header{
