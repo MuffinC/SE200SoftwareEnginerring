@@ -258,6 +258,11 @@ header .navbar ul li{
     text-align: center;
 }
 
+#search{
+    border-radius: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
 
 .form-control {
   display: block;
