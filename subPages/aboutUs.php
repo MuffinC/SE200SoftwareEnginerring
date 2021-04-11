@@ -1,3 +1,7 @@
+<?php  
+    include("../auth.php");
+?>
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -47,7 +51,13 @@
             <li class="navlist"><a href="feedback.php">feedback </a></li>
         </ul>
     </nav>
-    <div></div> <!-- For formatting -->
+    <div style="background-color: black">
+        <div id="search-bar">
+            <!-- <h3 id="search-title"><strong>Data Search of Courses and Schools</strong></h3> -->
+                <input type="text" name="search" id="search" placeholder="Search using course name, course code or school name" class="form-control">
+            <ul class="list-group" id="result"></ul>
+        </div>
+    </div>
 </header>
 <!-- header section end-->
 
