@@ -9,9 +9,6 @@
 
 <!--Login + register-->
     <link rel="stylesheet" type="text/css" href="style.css">
-    <link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
-
-
     <!-- google fonts cdn link  -->
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600&display=swap" rel="stylesheet">
@@ -38,29 +35,29 @@
     <nav class="navbar">
         <a href="homepage.php" class="logo"><img src="images/KachingLogo_nowords.png"></a>
         <ul>
-            <li><a class="active" href="homepage.php">home</a></li>
-            <li><a class="navlist" href="subPages/aboutUs.html">about</a></li>
-            <li><a class="navlist" href="subPages/courses.html">course</a>
+            <li class="active"><a href="homepage.php">home</a></li>
+            <li class="navlist"><a href="subPages/aboutUs.php">about</a></li>
+            <li class="navlist"><a href="subPages/courses.php">course</a>
             	<i class="fa fa-angle-down"></i>
                 <nav class="navcourse">
                     <ul>
-                       <li><a href="subPages/poly.html">Polytechnic</a></li>
-                       <li><a href="subPages/jc.html">Junior Collegue</a></li>
-                       <li><a href="subPages/uni.html">University</a></li>
+                       <li><a href="subPages/poly.php">Polytechnic</a></li>
+                       <li><a href="subPages/jc.php">Junior Collegue</a></li>
+                       <li><a href="subPages/uni.php">University</a></li>
                     </ul>
                 </nav>
             </li>
-            <li><a class="navlist" href="subPages/internship.html">internship</a><i class="fa fa-angle-down"></i>
+            <li  class="navlist"><a href="subPages/internship.php">internship</a><i class="fa fa-angle-down"></i>
             	<nav class="navcourse">
                     <ul>
-                       <li><a href="subPages/internship.html">Engineering</a></li>
-                       <li><a href="subPages/internship.html">IT</a></li>
-                       <li><a href="subPages/internship.html">Accounting</a></li>
+                       <li><a href="subPages/internship.php">Engineering</a></li>
+                       <li><a href="subPages/internship.php">IT</a></li>
+                       <li><a href="subPages/internship.php">Accounting</a></li>
                     </ul>
                 </nav>
             </li>
-            <li><a class="navlist" href="subPages/aptitude.html">aptitude</a></li>
-            <li><a class="navlist" href="subPages/feedback.php">feedback</a></li>
+            <li class="navlist"><a href="subPages/aptitude.php">aptitude</a></li>
+            <li class="navlist"><a href="subPages/feedback.php">feedback</a></li>
         </ul>
         <div class="login-msg">
 	        <div>Welcome <?php echo $_SESSION['username'];?></div>
@@ -77,7 +74,6 @@
     <!-- Login Page section starts  -->
 
 </header>
-
 <!-- header section end-->
 
 <!-- home section starts  -->
@@ -89,7 +85,7 @@
     	<div class="content">
 	        <h3>Course</h3>
 	        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam aperiam quaerat dolor voluptas nobis voluptates illum? Inventore voluptas dolore voluptates.</p>
-	        <a href="subPages/courses.html"><button class="btn">learn more</button></a>
+	        <a href="subPages/courses.php"><button class="btn">learn more</button></a>
     	</div>
     </div>
 
@@ -98,7 +94,7 @@
     	<div class="content">
 	        <h3>Internship</h3>
 	        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam aperiam quaerat dolor voluptas nobis voluptates illum? Inventore voluptas dolore voluptates.</p>
-	        <a href="subPages/internship.html"><button class="btn">learn more</button></a>
+	        <a href="subPages/internship.php"><button class="btn">learn more</button></a>
     	</div>
     </div>
 
@@ -107,7 +103,7 @@
     	<div class="content">
 	        <h3>Aptitude Test</h3>
 	        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam aperiam quaerat dolor voluptas nobis voluptates illum? Inventore voluptas dolore voluptates.</p>
-	        <a href="subPages/aptitude.html"><button class="btn">learn more</button></a>
+	        <a href="subPages/aptitude.php"><button class="btn">learn more</button></a>
     	</div>
     </div>
 
@@ -121,8 +117,8 @@
     <footer>
         <div class="footer-container2">
             <div class="container-foot2">
-                    <a class="footer-button" href="subPages\tos.html">Terms of Service</a>
-                    <a class="footer-button" href="subPages\pp.html">Privacy Policy</a>
+                    <a class="footer-button" href="subPages\tos.php">Terms of Service</a>
+                    <a class="footer-button" href="subPages\pp.php">Privacy Policy</a>
             </div>
 
             <div class="container-foot3">
@@ -134,7 +130,7 @@
             <div class="container-foot1">
                     <a class="footer-button2 fas fa-envelope" href="mailto:kachingntu@gmail.com" title="Send us an email!"></a>
                     <a class="footer-button2 fas fa-paper-plane" href="subPages/feedback.php" title="Give us Feedback!"></a>
-                    <a class="footer-button2 fas fa-question-circle" href="subPages\faq.html" title="FAQ"></a>
+                    <a class="footer-button2 fas fa-question-circle" href="subPages/faq.php" title="FAQ"></a>
             </div>
         </div>
     </footer>
@@ -145,7 +141,7 @@
 <script src="js/searchBar.js"></script>
 
 <!-- jquery cdn link  -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script> -->
 
 <!-- custom js file link  -->
 <script src="js/script.js"></script>

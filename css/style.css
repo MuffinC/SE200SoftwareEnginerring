@@ -36,7 +36,7 @@ html::-webkit-scrollbar-thumb{
 section{
     min-height: 100vh;
     padding:1rem 7%;
-    padding-top:8rem;
+    padding-top:4rem;
     background: url(https://media.giphy.com/media/MXQnyEQwBJ6eTj90L5/giphy.gif);
     background-size: cover;
     background-position: center;
@@ -120,7 +120,18 @@ section{
     background: var(--gradient);
     text-align: center;
 }
-
+.navbar {
+  position: relative;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -ms-flex-align: center;
+  align-items: center;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  padding: 0.5rem 1rem;
+}
 .navbar ul{
     display: inline-flex;
     list-style: none;
@@ -200,6 +211,11 @@ section{
 .login-msg a{
     position: relative;
     float: right;
+    color: #0366d6;
+}
+
+.login-msg a:hover{
+    text-decoration: underline;
 }
 
 .logo img{

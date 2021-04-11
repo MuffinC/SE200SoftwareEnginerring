@@ -1,3 +1,6 @@
+<?php  
+    include("../../auth.php");
+?>
 <!DOCTYPE html>
 <html>
 <head>
@@ -14,80 +17,117 @@
     <!-- custom css file link  -->
     <link rel="stylesheet" href="../../css/style.css">
     <link rel="stylesheet" href="../css/schoolStyle.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
 </head>
 <body>
 <!-- header section starts  -->
 <header>
     <div id="menu" class="fas fa-bars"></div>
-    <a href="../index.html" class="logo"><img src="../images/KachingLogo_nowords.png"></a>
     <nav class="navbar">
+        <a href="../../homepage.php" class="logo"><img src="../images/KachingLogo_nowords.png"></a>
         <ul>
-            <li><a class="navbutton" href="../../homepage.php">home</a></li>
-            <li><a class="navbutton" href="../aboutUs.html">about</a></li>
-            <li><a class="navbutton active" href="../courses.html">course</a></li>
-            <li><a class="navbutton" href="../internship.html">internship</a></li>
-            <li><a class="navbutton" href="../aptitude.html">aptitude</a></li>
-            <li><a class="navbutton" href="../feedback.php">feedback</a></li>
+            <li class="navlist"><a href="../../homepage.php">home</a></li>
+            <li class="navlist"><a href="../aboutUs.php">about</a></li>
+            <li class="active"><a href="../courses.php">course</a>
+                <i class="fa fa-angle-down"></i>
+                <nav class="navcourse">
+                    <ul>
+                       <li><a href="../poly.php">Polytechnic</a></li>
+                       <li><a href="../jc.php">Junior Collegue</a></li>
+                       <li><a href="../uni.php">University</a></li>
+                    </ul>
+                </nav>
+            </li>
+            <li  class="navlist"><a href="../internship.php">internship</a><i class="fa fa-angle-down"></i>
+                <nav class="navcourse">
+                    <ul>
+                       <li><a href="../internship.php">Engineering</a></li>
+                       <li><a href="../internship.php">IT</a></li>
+                       <li><a href="../internship.php">Accounting</a></li>
+                    </ul>
+                </nav>
+            </li>
+            <li class="navlist"><a href="../aptitude.php">aptitude</a></li>
+            <li class="navlist"><a href="../feedback.php">feedback</a></li>
         </ul>
+        <div class="login-msg">
+            <div>Welcome <?php echo $_SESSION['username'];?></div>
+            <a href="../../logout.php"> LOGOUT</a>
+        </div>
     </nav>
-    <div></div> <!-- For formatting -->
+    <div style="background-color: black">
+        <div id="search-bar">
+            <!-- <h3 id="search-title"><strong>Data Search of Courses and Schools</strong></h3> -->
+                <input type="text" name="search" id="search" placeholder="Search using course name, course code or school name" class="form-control">
+            <ul class="list-group" id="result"></ul>
+        </div>
+    </div>
+    <!-- Login Page section starts  -->
 </header>
 <!-- header section end-->
 
 <!-- poly start-->
 <section class="poly"> <!-- Change classes of poly, jc and uni to school? -->
-<h1 class="page-header">Temesak Polytechnic</h1>    
+<h1 class="page-header">Nanyang Polytechnic</h1>    
 <div class="box-container">
     <div class="box">
-        <img src="images/BUS-tp.png" alt="TP Logo">
+        <img src="images/BA-nyp.jpeg" alt="TP Logo">
         <div class="content">
-            <a href="#tpb" class="title">Business</a>
+            <a href="#nypbm" class="title">Business Management</a>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, beatae. Modi quos excepturi id quibusdam? Molestiae quis nihil non debitis!</p>
         </div>
     </div>
 
     <div class="box">
-        <img src="images/engineering-tp.png" alt="NYP Logo">
+        <img src="images/Engineer-nyp.jpeg" alt="NYP Logo">
         <div class="content">
-            <a href="#tpe" class="title">Engineering</a>
+            <a href="#nype" class="title">Engineering</a>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, beatae. Modi quos excepturi id quibusdam? Molestiae quis nihil non debitis!</p>
         </div>
     </div>
 
     <div class="box">
-        <img src="images/as-tp.png" alt="NP Logo">
+        <img src="images/CLS-nyp.jpeg" alt="NP Logo">
         <div class="content">
-            <a href="#tpas" class="title">Applied Sciences</a>
+            <a href="#nypcls" class="title">Chemical & Life Sciences</a>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, beatae. Modi quos excepturi id quibusdam? Molestiae quis nihil non debitis!</p>
         </div>
     </div>
 
     <div class="box">
-        <img src="images/it-tp.png" alt="SP Logo">
+        <img src="images/IT-nyp.jpeg" alt="SP Logo">
         <div class="content">
-            <a href="#tpit" class="title">Informatics & IT</a>
+            <a href="#nypit" class="title">Infocomation Technology</a>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, beatae. Modi quos excepturi id quibusdam? Molestiae quis nihil non debitis!</p>
         </div>
     </div>
 
     <div class="box">
-        <img src="images/design-tp.png" alt="RP Logo">
+        <img src="images/Design-nyp.jpeg" alt="RP Logo">
         <div class="content">
-            <a href="#tpd" class="title">Design</a>
+            <a href="#nypd" class="title">Design</a>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, beatae. Modi quos excepturi id quibusdam? Molestiae quis nihil non debitis!</p>
         </div>
     </div>
 
     <div class="box">
-        <img src="images/hss-tp.png" alt="RP Logo">
+        <img src="images/HSS-nyp.jpeg" alt="RP Logo">
         <div class="content">
-            <a href="#tphss" class="title">Humanities & Social Sciences</a>
+            <a href="#nyphss" class="title">Health & Social Sciences</a>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, beatae. Modi quos excepturi id quibusdam? Molestiae quis nihil non debitis!</p>
         </div>
     </div>
 
     <div class="box">
-        <img src="images/pfp-tp.jpeg" alt="RP Logo">
+        <img src="images/IDM-nyp.jpeg" alt="RP Logo">
+        <div class="content">
+            <a href="#nypidm" class="title">Interactive & Digital Media</a>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, beatae. Modi quos excepturi id quibusdam? Molestiae quis nihil non debitis!</p>
+        </div>
+    </div>
+
+    <div class="box">
+        <img src="images/pfp-nyp.jfif" alt="RP Logo">
         <div class="content">
             <a href="#rpfp" class="title">Polytechnic Foundation Programme</a>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, beatae. Modi quos excepturi id quibusdam? Molestiae quis nihil non debitis!</p>
@@ -105,8 +145,8 @@
     <footer>
         <div class="footer-container2">
             <div class="container-foot2">
-                    <a class="footer-button" href="../tos.html">Terms of Service</a>
-                    <a class="footer-button" href="../pp.html">Privacy Policy</a>
+                    <a class="footer-button" href="../tos.php">Terms of Service</a>
+                    <a class="footer-button" href="../pp.php">Privacy Policy</a>
             </div>
 
             <div class="container-foot3">
@@ -118,13 +158,14 @@
             <div class="container-foot1">
                     <a class="footer-button2 fas fa-envelope" href="mailto:kachingntu@gmail.com" title="Send us an email!"></a>
                     <a class="footer-button2 fas fa-paper-plane" href="../feedback.php" title="Give us Feedback!"></a>
-                    <a class="footer-button2 fas fa-question-circle" href="../faq.html" title="FAQ"></a>
+                    <a class="footer-button2 fas fa-question-circle" href="../faq.php" title="FAQ"></a>
             </div>
         </div>
     </footer>
 </div>
 
 <!-- Footer section end -->
+<script src="js/searchBar.js"></script>
 <!-- Help bot -->
 <script src="//code.tidio.co/k6sjn4zehamzr5plcq2lwzebmaktdfsk.js" async></script>
 </body>
