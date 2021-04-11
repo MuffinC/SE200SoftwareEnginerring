@@ -35,13 +35,8 @@
 <!-- header section starts  -->
 <header>
     <div id="menu" class="fas fa-bars"></div>
-    
     <nav class="navbar">
-    	<a href="homepage.php" class="logo"><img src="images/KachingLogo_nowords.png"></a>
-        <ul>
-            <li><a class="active" href="homepage.php">home</a></li>
-    <nav class="navbar">
-    	<a href="index.html" class="logo"><img src="images/KachingLogo_nowords.png"></a>
+        <a href="homepage.php" class="logo"><img src="images/KachingLogo_nowords.png"></a>
         <ul>
             <li><a class="active" href="homepage.php">home</a></li>
             <li><a class="navlist" href="subPages/aboutUs.html">about</a></li>
@@ -71,8 +66,6 @@
 	        <div>Welcome <?php echo $_SESSION['username'];?></div>
 			<a href="logout.php"> LOGOUT</a>
     	</div>
-        <h1>Welcome <?php echo $_SESSION['username'];?></h1>
-		<a class="float-right" href="logout.php"> LOGOUT</a>
     </nav>
     <div style="background-color: black">
 	    <div id="search-bar">
