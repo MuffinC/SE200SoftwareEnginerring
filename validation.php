@@ -1,26 +1,28 @@
 <?php
+require('db.php');
 session_start();
-//localhost/phpmyadmin , then u login, default is root and password is blank
-$con=mysqli_connect('localhost','root','');
-mysqli_select_db($con,'userregistration');
-//this is now ripping the data from the form via post
-$name = $_POST["user"];
-$pass = $_POST["password"];
-
-$s ="select * from usertable where name = '$name' && password = '$pass'";
-
-$result = mysqli_query($con,$s);
-
-$num = mysqli_num_rows($result);
-
-if($num ==1){
-	$_SESSION['username'] = $name;
-	header('location:homepage.php');
-	//need to setup login page
-
-}else{
-	header('location:index.php');
-	// failed log in
-	
+// If form submitted, insert values into the database.
+if (isset($_POST['username'])){
+        // removes backslashes
+ $username = stripslashes($_REQUEST['username']);
+        //escapes special characters in a string
+ $username = mysqli_real_escape_string($con,$username);
+ $password = stripslashes($_REQUEST['password']);
+ $password = mysqli_real_escape_string($con,$password);
+ //Checking is user existing in the database or not
+        $query = "SELECT * FROM `userstable` WHERE username='$username'
+and password='".md5($password)."'"; //md5 is encyrmption value to un wind it
+ $result = mysqli_query($con,$query) or die(mysql_error());
+ $rows = mysqli_num_rows($result);
+        if($rows==1){
+     $_SESSION['username'] = $username;
+            // Redirect user to index.php
+     header("Location: homepage.php");
+         }else{
+ echo "<div class='form'>
+<h3>Username/password is incorrect.</h3>
+<br/>Click here to  <a href='index.php'>try again.</a></div>";
+ }
 }
 ?>
+
