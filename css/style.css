@@ -499,9 +499,16 @@ section{
 
 
 
-/* media queries  
+
 
 @media (max-width:768px){
+    
+    .col-sm-100{
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        width: 100% !important;
+        margin-left: 0% !important;
+    }
 
     html{
         font-size: 55%;
@@ -509,13 +516,33 @@ section{
 
     header #menu{
         display: block;
+        color: black;
+        background-color: purple;
+    }
+
+    .fas{
+        text-align: center;
+    }
+
+    .container>.content>p{
+        display: block;
+        margin:auto;
+        width: 60%;
+        word-wrap: wrap;
+        word-break: break-all;
+        padding-top: 30px;
+    }
+
+    .container>.content>a>button{
+        margin-right:150px;
     }
 
     header .navbar{
         position: fixed;
         top:-120%; left:0;
         width:100%;
-        background:#444;
+        background:dark purple;
+        z-index: 1000;
     }
 
     header .navbar ul{

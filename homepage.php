@@ -65,7 +65,7 @@
     	</div>
     </nav>
     <div style="background-color: black">
-	    <div id="search-bar">
+	    <div id="search-bar" class="col-sm-100">
 			<!-- <h3 id="search-title"><strong>Data Search of Courses and Schools</strong></h3> -->
 	    		<input type="text" name="search" id="search" placeholder="Search using course name, course code or school name" class="form-control">
 			<ul class="list-group" id="result"></ul>
@@ -80,7 +80,7 @@
 <section class="home" id="home">
 
 	
-	<div class="container">
+	<div class="container col-sm-100">
         <img src="images/course.jpg" alt="">
     	<div class="content">
 	        <h3>Course</h3>
@@ -89,7 +89,7 @@
     	</div>
     </div>
 
-	<div class="container">
+	<div class="container col-sm-100">
         <img src="images/Internships.jpg" alt="">
     	<div class="content">
 	        <h3>Internship</h3>
@@ -98,7 +98,7 @@
     	</div>
     </div>
 
-	<div class="container">
+	<div class="container col-sm-100">
         <img src="images/aptitude.png" alt="">
     	<div class="content">
 	        <h3>Aptitude Test</h3>

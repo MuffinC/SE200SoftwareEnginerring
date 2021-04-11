@@ -19,6 +19,8 @@
     <link rel="stylesheet" href="css/subStyle.css">
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
 </head>
 <body>
 
@@ -58,7 +60,7 @@
         </div>
     </nav>
     <div style="background-color: black">
-        <div id="search-bar">
+        <div id="search-bar" class="col-sm-100">
             <!-- <h3 id="search-title"><strong>Data Search of Courses and Schools</strong></h3> -->
                 <input type="text" name="search" id="search" placeholder="Search using course name, course code or school name" class="form-control">
             <ul class="list-group" id="result"></ul>
@@ -121,7 +123,11 @@
 
 <!-- Footer section end -->
 <script src="js/searchBar.js"></script>
+
+<script src="js/script.js"></script>
+
 <!-- Help bot -->
 <script src="//code.tidio.co/k6sjn4zehamzr5plcq2lwzebmaktdfsk.js" async></script>
+
 </body>
 </html>

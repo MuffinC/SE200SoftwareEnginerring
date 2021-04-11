@@ -57,7 +57,7 @@
         </div>
     </nav>
     <div style="background-color: black">
-        <div id="search-bar">
+        <div id="search-bar" class="col-sm-100">
             <!-- <h3 id="search-title"><strong>Data Search of Courses and Schools</strong></h3> -->
                 <input type="text" name="search" id="search" placeholder="Search using course name, course code or school name" class="form-control">
             <ul class="list-group" id="result"></ul>

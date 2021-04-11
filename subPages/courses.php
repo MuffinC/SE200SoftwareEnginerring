@@ -57,7 +57,7 @@
         </div>
     </nav>
     <div style="background-color: black">
-        <div id="search-bar">
+        <div id="search-bar" class="col-sm-100">
             <!-- <h3 id="search-title"><strong>Data Search of Courses and Schools</strong></h3> -->
                 <input type="text" name="search" id="search" placeholder="Search using course name, course code or school name" class="form-control">
             <ul class="list-group" id="result"></ul>
@@ -74,7 +74,7 @@
         <div class="content">
             <h3>Junior College</h3>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam aperiam quaerat dolor voluptas nobis voluptates illum? Inventore voluptas dolore voluptates.</p>
-            <a href="jc.html"><button class="btn">Explore Now</button></a>
+            <a href="jc.php"><button class="btn">Explore Now</button></a>
         </div>
     </div>
 
@@ -83,7 +83,7 @@
         <div class="content">
             <h3>Polytechnic</h3>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam aperiam quaerat dolor voluptas nobis voluptates illum? Inventore voluptas dolore voluptates.</p>
-            <a href="poly.html"><button class="btn">Explore Now</button></a>
+            <a href="poly.php"><button class="btn">Explore Now</button></a>
         </div>
     </div>
 
@@ -92,7 +92,7 @@
         <div class="content">
             <h3>Local University</h3>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam aperiam quaerat dolor voluptas nobis voluptates illum? Inventore voluptas dolore voluptates.</p>
-            <a href="uni.html"><button class="btn">Explore Now</button></a>
+            <a href="uni.php"><button class="btn">Explore Now</button></a>
         </div>
     </div>
 </section>
