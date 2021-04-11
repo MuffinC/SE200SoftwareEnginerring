@@ -197,11 +197,14 @@ section{
     font-size: 2rem;
 }
 
+<<<<<<< HEAD
 .login-msg a{
     position: relative;
     float: right;
 }
 
+=======
+>>>>>>> 0ed1c11df0f00b020033c67c4b29460bb6889394
 .logo img{
     float: left;
     width: 40px;

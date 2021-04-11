@@ -1,9 +1,5 @@
 <?php  
-    session_start();
-    if(!isset($_SESSION['username'])){
-        header('location:login.php');
-    }
-    //this just makes it u need to login to enter
+    include("auth.php");
 ?>
 <html lang="en">
 <head>
@@ -39,11 +35,18 @@
 <!-- header section starts  -->
 <header>
     <div id="menu" class="fas fa-bars"></div>
+<<<<<<< HEAD
     
+    <nav class="navbar">
+    	<a href="homepage.php" class="logo"><img src="images/KachingLogo_nowords.png"></a>
+        <ul>
+            <li><a class="active" href="homepage.php">home</a></li>
+=======
     <nav class="navbar">
     	<a href="index.html" class="logo"><img src="images/KachingLogo_nowords.png"></a>
         <ul>
             <li><a class="active" href="homepage.php">home</a></li>
+>>>>>>> 0ed1c11df0f00b020033c67c4b29460bb6889394
             <li><a class="navlist" href="subPages/aboutUs.html">about</a></li>
             <li><a class="navlist" href="subPages/courses.html">course</a>
             	<i class="fa fa-angle-down"></i>
@@ -67,10 +70,15 @@
             <li><a class="navlist" href="subPages/aptitude.html">aptitude</a></li>
             <li><a class="navlist" href="subPages/feedback.php">feedback</a></li>
         </ul>
+<<<<<<< HEAD
         <div class="login-msg">
 	        <div>Welcome <?php echo $_SESSION['username'];?></div>
 			<a href="logout.php"> LOGOUT</a>
     	</div>
+=======
+        <h1>Welcome <?php echo $_SESSION['username'];?></h1>
+		<a class="float-right" href="logout.php"> LOGOUT</a>
+>>>>>>> 0ed1c11df0f00b020033c67c4b29460bb6889394
     </nav>
     <div style="background-color: black">
 	    <div id="search-bar">
@@ -80,7 +88,11 @@
 		</div>
 	</div>
     <!-- Login Page section starts  -->
+<<<<<<< HEAD
     
+=======
+
+>>>>>>> 0ed1c11df0f00b020033c67c4b29460bb6889394
 </header>
 
 <!-- header section end-->
