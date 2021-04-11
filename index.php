@@ -21,7 +21,7 @@
 		<form id="login"class="input-group" action="validation.php" method="post">
 			<input type="text" class="input-field" name="username" placeholder="Username" required>
 			<input type="password" class="input-field" name="password" placeholder="Enter Password" required>
-
+			<p>Forget password?<a href="#">Click here</a></p>			
 			<button type="submit" class="submit-btn">Login</button>
 		</form>
 
