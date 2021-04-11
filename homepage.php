@@ -1,9 +1,5 @@
 <?php  
-    session_start();
-    if(!isset($_SESSION['username'])){
-        header('location:login.php');
-    }
-    //this just makes it u need to login to enter
+    include("auth.php");
 ?>
 <html lang="en">
 <head>
