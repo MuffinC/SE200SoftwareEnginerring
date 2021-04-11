@@ -171,6 +171,7 @@ section{
     background: var(--gradient);
     margin-top: .1rem;
     margin-left: -.6rem;
+    z-index: 1000;
 }
 
 .navbar ul li:hover .navcourse ul{

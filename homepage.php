@@ -80,7 +80,7 @@
 <section class="home" id="home">
 
 	
-	<div class="container col-sm-100">
+	<div class="container">
         <img src="images/course.jpg" alt="">
     	<div class="content">
 	        <h3>Course</h3>
@@ -89,7 +89,7 @@
     	</div>
     </div>
 
-	<div class="container col-sm-100">
+	<div class="container">
         <img src="images/Internships.jpg" alt="">
     	<div class="content">
 	        <h3>Internship</h3>
@@ -98,7 +98,7 @@
     	</div>
     </div>
 
-	<div class="container col-sm-100">
+	<div class="container">
         <img src="images/aptitude.png" alt="">
     	<div class="content">
 	        <h3>Aptitude Test</h3>
