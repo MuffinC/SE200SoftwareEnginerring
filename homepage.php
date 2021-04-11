@@ -39,26 +39,48 @@
 <!-- header section starts  -->
 <header>
     <div id="menu" class="fas fa-bars"></div>
-    <a href="index.html" class="logo"><img src="images/KachingLogo_nowords.png"></a>
-
+    
     <nav class="navbar">
+    	<a href="index.html" class="logo"><img src="images/KachingLogo_nowords.png"></a>
         <ul>
-            <li><a class="navbutton active" href="index.html">home</a></li>
-            <li><a class="navbutton" href="subPages/aboutUs.html">about</a></li>
-            <li><a class="navbutton" href="subPages/courses.html">course</a></li>
-            <li><a class="navbutton" href="subPages/internship.html">internship</a></li>
-            <li><a class="navbutton" href="subPages/aptitude.html">aptitude</a></li>
-            <li><a class="navbutton" href="subPages/feedback.php">feedback</a></li>
+            <li><a class="active" href="homepage.php">home</a></li>
+            <li><a class="navlist" href="subPages/aboutUs.html">about</a></li>
+            <li><a class="navlist" href="subPages/courses.html">course</a>
+            	<i class="fa fa-angle-down"></i>
+                <nav class="navcourse">
+                    <ul>
+                       <li><a href="subPages/poly.html">Polytechnic</a></li>
+                       <li><a href="subPages/jc.html">Junior Collegue</a></li>
+                       <li><a href="subPages/uni.html">University</a></li>
+                    </ul>
+                </nav>
+            </li>
+            <li><a class="navlist" href="subPages/internship.html">internship</a><i class="fa fa-angle-down"></i>
+            	<nav class="navcourse">
+                    <ul>
+                       <li><a href="subPages/internship.html">Engineering</a></li>
+                       <li><a href="subPages/internship.html">IT</a></li>
+                       <li><a href="subPages/internship.html">Accounting</a></li>
+                    </ul>
+                </nav>
+            </li>
+            <li><a class="navlist" href="subPages/aptitude.html">aptitude</a></li>
+            <li><a class="navlist" href="subPages/feedback.php">feedback</a></li>
         </ul>
+        <div class="login-msg">
+	        <div>Welcome <?php echo $_SESSION['username'];?></div>
+			<a href="logout.php"> LOGOUT</a>
+    	</div>
     </nav>
+    <div style="background-color: black">
+	    <div id="search-bar">
+			<!-- <h3 id="search-title"><strong>Data Search of Courses and Schools</strong></h3> -->
+	    		<input type="text" name="search" id="search" placeholder="Search using course name, course code or school name" class="form-control">
+			<ul class="list-group" id="result"></ul>
+		</div>
+	</div>
     <!-- Login Page section starts  -->
-
-
-
-
-<h1>Welcome <?php echo $_SESSION['username'];?></h1>
-</body>
-<a class="float-right" href="logout.php"> LOGOUT</a>
+    
 </header>
 
 <!-- header section end-->
@@ -66,13 +88,7 @@
 <!-- home section starts  -->
 <section class="home" id="home">
 
-	<div id="search-bar">
-		<h3 id="search-title"><strong>Data Search of Courses and Schools</strong></h2>
-	   	<div>
-	    	<input type="text" name="search" id="search" placeholder="Search using course name, course code or school name" class="form-control" />
-	   	</div>
-	   	<ul class="list-group" id="result"></ul>
-   	</div>
+	
 	<div class="container">
         <img src="images/course.jpg" alt="">
     	<div class="content">

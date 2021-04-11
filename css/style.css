@@ -101,6 +101,20 @@ section{
     margin-left: 25%;
 }
 
+/*header{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: fixed;
+    top:0; left: 0;
+    z-index: 1000;
+    padding:1.5rem 7%;
+    background:var(--gradient);
+    box-shadow: 0 .1rem .3rem rgba(0,0,0,.3);
+    text-transform: capitalize;
+}
+*/
 /*header styling*/
 .navbar{
     background: var(--gradient);
@@ -179,11 +193,20 @@ section{
     margin-left: .5rem;
 }
 
+.login-msg div{
+    font-size: 2rem;
+}
 
-#logo{
+.login-msg a{
+    position: relative;
+    float: right;
+}
+
+.logo img{
     float: left;
-    margin: 1.5rem;
-    width: 1rem;
+    width: 40px;
+    margin-top: 5px;
+    margin-left: 20px;
 }
 
 .page-header{
@@ -299,7 +322,7 @@ section{
 }
 
 #search-title{
-    color: white;
+    color: black;
     font-size: 2.5rem;
     text-align: center;
 }
@@ -308,7 +331,16 @@ section{
     border-radius: 30px;
     padding-top: 10px;
     padding-bottom: 10px;
+    border: solid 2px black;
 }
+
+#search-bar{
+    padding-top: 3px;
+    padding-bottom: 3px;
+    margin-left: 25%;
+    margin-right: 32%;
+}
+
 
 .form-control {
   display: block;
@@ -326,11 +358,6 @@ section{
   transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
 }
 
-#search-bar{
-    padding-bottom: 30px;
-    margin-left: 20%;
-    margin-right: 20%;
-}
 
 .list-group{
     background-color: white;
@@ -452,17 +479,6 @@ section{
 
 .fa-copyright{
     color: white;
-}
-
-
-/* login +registration*/
-.login-left{
-    background-color: rgba(211,211,211,0.5);
-    padding: 30px;
-}
-.login-right{
-    background: #fff;
-    padding: 30px;
 }
 
 
