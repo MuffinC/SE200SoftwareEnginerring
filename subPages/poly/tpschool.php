@@ -26,15 +26,6 @@
     <nav class="navbar">
         <a href="../../homepage.php" class="logo"><img src="../images/KachingLogo_nowords.png"></a>
         <ul>
-<<<<<<< HEAD:subPages/poly/tpschool.html
-            <li><a class="navbutton" href="../homepage.php">Home</a></li>
-            <li><a class="navbutton" href="aboutUs.html">About</a></li>
-            <li><a class="navbutton active" href="courses.html">Courses</a></li>
-            <li><a class="navbutton" href="internship.html">Internships</a></li>
-            <li><a class="navbutton" href="aptitude.html">Aptitude Test</a></li>
-            <li><a class="navbutton" href="feedback.php">Feedback</a></li>
-            <li><a class="navbutton" href="searchbox.html">Live Search Box</a></li>
-=======
             <li class="navlist"><a href="../../homepage.php">home</a></li>
             <li class="navlist"><a href="../aboutUs.php">about</a></li>
             <li class="active"><a href="../courses.php">course</a>
@@ -58,7 +49,6 @@
             </li>
             <li class="navlist"><a href="../aptitude.php">aptitude</a></li>
             <li class="navlist"><a href="../feedback.php">feedback</a></li>
->>>>>>> 50097a485d4e76e0ce4516738864ca95e2b7c59d:subPages/poly/tpschool.php
         </ul>
         <div class="login-msg">
             <div>Welcome <?php echo $_SESSION['username'];?></div>
@@ -83,54 +73,54 @@
     <div class="box">
         <img src="images/BUS-tp.png" alt="TP Logo">
         <div class="content">
-            <a href="#tpb" class="title">Business</a>
+            <a href="tpbizcourses.php" class="title">Business</a>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, beatae. Modi quos excepturi id quibusdam? Molestiae quis nihil non debitis!</p>
-            <a class="LearnMoreLink center" href="tpbizcourses.html"><em>Click Here to Learn More</em></a>
+            <a class="LearnMoreLink center" href="#"><em>Click Here to Learn More</em></a>
         </div>
     </div>
 
     <div class="box">
         <img src="images/engineering-tp.png" alt="NYP Logo">
         <div class="content">
-            <a href="#tpe" class="title">Engineering</a>
+            <a href="tpengcourses.php" class="title">Engineering</a>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, beatae. Modi quos excepturi id quibusdam? Molestiae quis nihil non debitis!</p>
-            <a class="LearnMoreLink center" href="tpengcourses.html"><em>Click Here to Learn More</em></a>
+            <a class="LearnMoreLink center" href="#"><em>Click Here to Learn More</em></a>
         </div>
     </div>
 
     <div class="box">
         <img src="images/as-tp.png" alt="NP Logo">
         <div class="content">
-            <a href="#tpas" class="title">Applied Sciences</a>
+            <a href="tpascourses.php" class="title">Applied Sciences</a>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, beatae. Modi quos excepturi id quibusdam? Molestiae quis nihil non debitis!</p>
-            <a class="LearnMoreLink center" href="tpascourses.html"><em>Click Here to Learn More</em></a>
+            <a class="LearnMoreLink center" href="#"><em>Click Here to Learn More</em></a>
         </div>
     </div>
 
     <div class="box">
         <img src="images/it-tp.png" alt="SP Logo">
         <div class="content">
-            <a href="#tpit" class="title">Informatics & IT</a>
+            <a href="tpictcourses.php" class="title">Informatics & IT</a>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, beatae. Modi quos excepturi id quibusdam? Molestiae quis nihil non debitis!</p>
-            <a class="LearnMoreLink center" href="tpictcourses.html"><em>Click Here to Learn More</em></a>
+            <a class="LearnMoreLink center" href="#"><em>Click Here to Learn More</em></a>
         </div>
     </div>
 
     <div class="box">
         <img src="images/design-tp.png" alt="RP Logo">
         <div class="content">
-            <a href="#tpd" class="title">Design</a>
+            <a href="tpdescourses.php" class="title">Design</a>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, beatae. Modi quos excepturi id quibusdam? Molestiae quis nihil non debitis!</p>
-            <a class="LearnMoreLink center" href="tpdescourses.html"><em>Click Here to Learn More</em></a>
+            <a class="LearnMoreLink center" href="#"><em>Click Here to Learn More</em></a>
         </div>
     </div>
 
     <div class="box">
         <img src="images/hss-tp.png" alt="RP Logo">
         <div class="content">
-            <a href="#tphss" class="title">Humanities & Social Sciences</a>
+            <a href="tphsscourses.php" class="title">Humanities & Social Sciences</a>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, beatae. Modi quos excepturi id quibusdam? Molestiae quis nihil non debitis!</p>
-            <a class="LearnMoreLink center" href="tphsscourses.html"><em>Click Here to Learn More</em></a>
+            <a class="LearnMoreLink center" href="#"><em>Click Here to Learn More</em></a>
         </div>
     </div>
 </div>

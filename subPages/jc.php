@@ -25,15 +25,6 @@
     <nav class="navbar">
         <a href="../homepage.php" class="logo"><img src="images/KachingLogo_nowords.png"></a>
         <ul>
-<<<<<<< HEAD:subPages/jc.html
-            <li><a class="navbutton" href="../homepage.php">Home</a></li>
-            <li><a class="navbutton" href="aboutUs.html">About</a></li>
-            <li><a class="navbutton active" href="courses.html">Courses</a></li>
-            <li><a class="navbutton" href="internship.html">Internships</a></li>
-            <li><a class="navbutton" href="aptitude.html">Aptitude Test</a></li>
-            <li><a class="navbutton" href="feedback.php">Feedback</a></li>
-            <li><a class="navbutton" href="searchbox.html">Live Search Box</a></li>
-=======
             <li class="navlist"><a href="../homepage.php">home</a></li>
             <li class="navlist"><a href="aboutUs.php">about</a></li>
             <li class="active"><a href="courses.php">course</a>
@@ -57,7 +48,6 @@
             </li>
             <li class="navlist"><a href="aptitude.php">aptitude</a></li>
             <li class="navlist"><a href="feedback.php">feedback</a></li>
->>>>>>> 50097a485d4e76e0ce4516738864ca95e2b7c59d:subPages/jc.php
         </ul>
         <div class="login-msg">
             <div>Welcome <?php echo $_SESSION['username'];?></div>

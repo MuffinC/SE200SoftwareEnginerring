@@ -4,10 +4,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Polytechnics</title>
-	<!-- google fonts cdn link  -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ngee Ann Polytechnic - School of Engineering - Course Directory</title>
+    <!-- google fonts cdn link  -->
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600&display=swap" rel="stylesheet">
 
@@ -16,7 +16,9 @@
 
     <!-- custom css file link  -->
     <link rel="stylesheet" href="../../css/style.css">
-    <link rel="stylesheet" href="../css/schoolStyle.css">
+    <link rel="stylesheet" href="css/polyCourseStyle.css">
+
+    <!-- ajax/jQuery library dependency cdn link -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
 </head>
 <body>
@@ -67,72 +69,11 @@
 <!-- header section end-->
 
 <!-- poly start-->
-<section class="poly"> <!-- Change classes of poly, jc and uni to school? -->
-<h1 class="page-header">Nanyang Polytechnic</h1>    
-<div class="box-container">
-    <div class="box">
-        <img src="images/BA-nyp.jpeg" alt="TP Logo">
-        <div class="content">
-            <a href="#nypbm" class="title">Business Management</a>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, beatae. Modi quos excepturi id quibusdam? Molestiae quis nihil non debitis!</p>
-            <a class="LearnMoreLink center" href="#"><em>Click Here to Learn More</em></a>
-        </div>
+<section> 
+    <h1 class="page-header">Course Directory</h1>
+    <div class="courseDir">
+        <ul id="courseData"></ul>
     </div>
-
-    <div class="box">
-        <img src="images/Engineer-nyp.jpeg" alt="NYP Logo">
-        <div class="content">
-            <a href="#nype" class="title">Engineering</a>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, beatae. Modi quos excepturi id quibusdam? Molestiae quis nihil non debitis!</p>
-            <a class="LearnMoreLink center" href="#"><em>Click Here to Learn More</em></a>
-        </div>
-    </div>
-
-    <div class="box">
-        <img src="images/CLS-nyp.jpeg" alt="NP Logo">
-        <div class="content">
-            <a href="#nypcls" class="title">Chemical & Life Sciences</a>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, beatae. Modi quos excepturi id quibusdam? Molestiae quis nihil non debitis!</p>
-            <a class="LearnMoreLink center" href="#"><em>Click Here to Learn More</em></a>
-        </div>
-    </div>
-
-    <div class="box">
-        <img src="images/IT-nyp.jpeg" alt="SP Logo">
-        <div class="content">
-            <a href="#nypit" class="title">Infocomation Technology</a>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, beatae. Modi quos excepturi id quibusdam? Molestiae quis nihil non debitis!</p>
-            <a class="LearnMoreLink center" href="#"><em>Click Here to Learn More</em></a>
-        </div>
-    </div>
-
-    <div class="box">
-        <img src="images/Design-nyp.jpeg" alt="RP Logo">
-        <div class="content">
-            <a href="#nypd" class="title">Design</a>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, beatae. Modi quos excepturi id quibusdam? Molestiae quis nihil non debitis!</p>
-            <a class="LearnMoreLink center" href="#"><em>Click Here to Learn More</em></a>
-        </div>
-    </div>
-
-    <div class="box">
-        <img src="images/HSS-nyp.jpeg" alt="RP Logo">
-        <div class="content">
-            <a href="#nyphss" class="title">Health & Social Sciences</a>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, beatae. Modi quos excepturi id quibusdam? Molestiae quis nihil non debitis!</p>
-            <a class="LearnMoreLink center" href="#"><em>Click Here to Learn More</em></a>
-        </div>
-    </div>
-
-    <div class="box">
-        <img src="images/IDM-nyp.jpeg" alt="RP Logo">
-        <div class="content">
-            <a href="#nypidm" class="title">Interactive & Digital Media</a>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, beatae. Modi quos excepturi id quibusdam? Molestiae quis nihil non debitis!</p>
-            <a class="LearnMoreLink center" href="#"><em>Click Here to Learn More</em></a>
-        </div>
-    </div>
-</div>
 </section>
 <!-- poly Page section end  -->
 
@@ -167,4 +108,29 @@
 <!-- Help bot -->
 <script src="//code.tidio.co/k6sjn4zehamzr5plcq2lwzebmaktdfsk.js" async></script>
 </body>
+
+<script>
+    $.getJSON('polydata.json', function (polydata) {
+        var resp = polydata;
+        for(kk in resp)
+        {
+            if(kk=="NP")
+            {
+                var j = resp[kk];
+                for(k in j)
+                {
+                    if(k=="School of Engineering")
+                    {
+                        var i = j[k];
+                        for(key in i)
+                        {
+                            $('#courseData').append('<li class="list-group-item list-group"><strong class="courseHeader">'+key+'</strong> | <strong class="courseHeader"> Year: '+i[key].year+'</strong> | <strong class="courseHeader"> Type: '+i[key].elr2b2_type+'</strong> | <strong class="courseHeader"> ELR2B2: '+i[key].elr2b2+'</strong> | <strong class="courseHeader"> Planned Intake: '+i[key].planned_intake+'</strong> | <span><strong class="courseHeader"> Course Code: '+i[key].course_code+'</strong></span> | <p>'+i[key].course_description+'</p> <a target="_blank" href = "'+i[key].reference+'"><em>Click Here to Learn More</em></a></li>');
+                        }
+                    }
+                }
+            }
+        }
+    });
+</script>
+
 </html>
