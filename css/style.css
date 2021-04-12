@@ -285,7 +285,10 @@ header .navbar ul li{
 
 .list-group-item{
     padding-bottom: 1rem;
-    border-bottom: solid black 1px;
+    padding-top: 1rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    border-bottom: solid black 3px;
 }
 
 
@@ -399,6 +402,42 @@ header .navbar ul li{
     color: white;
 }
 
+.instiButton {
+    border-radius: 10rem;
+    width: 9rem;
+    background-color: navy;
+    color: white;
+}
+
+.center {
+    margin: 0;
+    position: absolute;
+    top: 90%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+.courseDir{
+    color: black;
+    font-size: 2rem;
+    text-align: justify;
+}
+
+.courseDiv{
+    position: absolute; 
+    left: 22%;
+    right: 2%;
+}
+
+.courseHeader{
+    color: orange;
+}
+
+.LearnMoreLink{
+    text-transform: capitalize;
+    font-size: 1.4rem;
+}
 
 /* login +registration*/
 .login-left{
