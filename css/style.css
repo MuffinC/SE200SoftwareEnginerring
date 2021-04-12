@@ -522,7 +522,27 @@ section{
     font-size: 1.4rem;
 }
 
+.subject-box{
+    width: 10%;
+    float: left;
+    margin-left:40%;
+    margin-right:5%;
+}
 
+.grade-box{
+    width: 5%;
+    float: left;
+}
+
+.grades-container:after{
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.form-select{
+    background-color: #D3D3D3;
+}
 
 @media (max-width:768px){
     
