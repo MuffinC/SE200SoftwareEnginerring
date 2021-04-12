@@ -1,26 +1,29 @@
 <?php
-session_start();
-header('location:index.php');
-//localhost/phpmyadmin , then u login, default is root and password is blank
-$con=mysqli_connect('localhost','root','');
-mysqli_select_db($con,'userregistration');
-//this is now ripping the data from the form via post
-$name = $_POST["user"];
-$pass = $_POST["password"];
-$emas = $_POST["email"];
+require('db.php');
+// If form submitted, insert values into the database.
+if (isset($_REQUEST['username'])){
+        // removes backslashes
+ $username = stripslashes($_REQUEST['username']);
+        //escapes special characters in a string
+ $username = mysqli_real_escape_string($con,$username); 
+ $email = stripslashes($_REQUEST['email']);
+ $email = mysqli_real_escape_string($con,$email);
 
-$s ="select * from usertable where name = '$name'";
+ $password = stripslashes($_REQUEST['password']);
+ $password = mysqli_real_escape_string($con,$password);
+ 
+ $trn_date = date("Y-m-d H:i:s");
+        $query = "INSERT into `userstable` (username, password, email, trn_date)
 
-$result = mysqli_query($con,$s);
+VALUES ('$username', '".md5($password)."', '$email', '$trn_date')";
+//.md5 encrympts the password to be stored into database
+        $result = mysqli_query($con,$query);
 
-$num = mysqli_num_rows($result);
-
-if($num ==1){
-	echo "Username already taken";
-
-}else{
-	$reg= "insert into usertable(name,password,email) values('$name','$pass','$emas')";
-	mysqli_query($con,$reg);
-	echo "Registration successful";
-}
+        if($result){
+            echo "<div class='form'>
+<h3>You are registered successfully.</h3>
+<br/>Click here to <a href='index.php'>Login</a></div>";
+        }
+    }
 ?>
+
