@@ -123,15 +123,6 @@
             <a target="_blank" class="LearnMoreLink center" href="https://www.nyp.edu.sg/schools/shss.html"><em>Click Here to Learn More</em></a>
         </div>
     </div>
-
-    <div class="box">
-        <img src="images/IDM-nyp.jpeg" alt="RP Logo">
-        <div class="content">
-            <a href="#nypidm" class="title">Interactive & Digital Media</a>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, beatae. Modi quos excepturi id quibusdam? Molestiae quis nihil non debitis!</p>
-            <a class="LearnMoreLink center" href=""><em>Click Here to Learn More</em></a>
-        </div>
-    </div>
 </div>
 </section>
 <!-- poly Page section end  -->

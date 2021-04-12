@@ -27,6 +27,10 @@
     padding: 10px;
 }
 
+.uni .box{
+    height: 50rem;
+}
+
 .thumbnail{
     text-align: center;
 }
