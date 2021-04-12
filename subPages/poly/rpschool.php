@@ -75,7 +75,7 @@
         <div class="content">
             <a href="rpascourses.php" class="title">Applied Science</a>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, beatae. Modi quos excepturi id quibusdam? Molestiae quis nihil non debitis!</p>
-            <a class="LearnMoreLink center" href="#"><em>Click Here to Learn More</em></a>
+            <a target="_blank" class="LearnMoreLink center" href="https://www.rp.edu.sg/sas"><em>Click Here to Learn More</em></a>
         </div>
     </div>
 
@@ -84,7 +84,7 @@
         <div class="content">
             <a href="rpengcourses.php" class="title">Engineering</a>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, beatae. Modi quos excepturi id quibusdam? Molestiae quis nihil non debitis!</p>
-            <a class="LearnMoreLink center" href="#"><em>Click Here to Learn More</em></a>
+            <a target="_blank" class="LearnMoreLink center" href="https://www.rp.edu.sg/seg"><em>Click Here to Learn More</em></a>
         </div>
     </div>
 
@@ -93,7 +93,7 @@
         <div class="content">
             <a href="rphospcourses.php" class="title">Hospitality</a>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, beatae. Modi quos excepturi id quibusdam? Molestiae quis nihil non debitis!</p>
-            <a class="LearnMoreLink center" href="#"><em>Click Here to Learn More</em></a>
+            <a target="_blank" class="LearnMoreLink center" href="https://www.rp.edu.sg/soh"><em>Click Here to Learn More</em></a>
         </div>
     </div>
 
@@ -102,7 +102,7 @@
         <div class="content">
             <a href="rpiccourses.php" class="title">Infocomm</a>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, beatae. Modi quos excepturi id quibusdam? Molestiae quis nihil non debitis!</p>
-            <a class="LearnMoreLink center" href="#"><em>Click Here to Learn More</em></a>
+            <a target="_blank" class="LearnMoreLink center" href="https://www.rp.edu.sg/soi"><em>Click Here to Learn More</em></a>
         </div>
     </div>
 
@@ -111,7 +111,7 @@
         <div class="content">
             <a href="rpmccourses.php" class="title">Management and Communication</a>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, beatae. Modi quos excepturi id quibusdam? Molestiae quis nihil non debitis!</p>
-            <a class="LearnMoreLink center" href="#"><em>Click Here to Learn More</em></a>
+            <a target="_blank" class="LearnMoreLink center" href="https://www.rp.edu.sg/smc"><em>Click Here to Learn More</em></a>
         </div>
     </div>
 
@@ -120,7 +120,7 @@
         <div class="content">
             <a href="rpshlcourses.php" class="title">Sports, Health and Leisure</a>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, beatae. Modi quos excepturi id quibusdam? Molestiae quis nihil non debitis!</p>
-            <a class="LearnMoreLink center" href="#"><em>Click Here to Learn More</em></a>
+            <a target="_blank" class="LearnMoreLink center" href="https://www.rp.edu.sg/shl"><em>Click Here to Learn More</em></a>
     </div>
 
     </div>
@@ -129,7 +129,7 @@
         <div class="content">
             <a href="rptacourses.php" class="title">Technology for the Arts</a>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, beatae. Modi quos excepturi id quibusdam? Molestiae quis nihil non debitis!</p>
-            <a class="LearnMoreLink center" href="#"><em>Click Here to Learn More</em></a>
+            <a target="_blank" class="LearnMoreLink center" href="https://www.rp.edu.sg/sta"><em>Click Here to Learn More</em></a>
         </div>
     </div>
 </div>

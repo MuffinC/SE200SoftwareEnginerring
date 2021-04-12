@@ -75,7 +75,7 @@
         <div class="content">
             <a href="tpbizcourses.php" class="title">Business</a>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, beatae. Modi quos excepturi id quibusdam? Molestiae quis nihil non debitis!</p>
-            <a class="LearnMoreLink center" href="#"><em>Click Here to Learn More</em></a>
+            <a target="_blank" class="LearnMoreLink center" href="https://www.tp.edu.sg/bus"><em>Click Here to Learn More</em></a>
         </div>
     </div>
 
@@ -84,7 +84,7 @@
         <div class="content">
             <a href="tpengcourses.php" class="title">Engineering</a>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, beatae. Modi quos excepturi id quibusdam? Molestiae quis nihil non debitis!</p>
-            <a class="LearnMoreLink center" href="#"><em>Click Here to Learn More</em></a>
+            <a target="_blank" class="LearnMoreLink center" href="https://www.tp.edu.sg/eng"><em>Click Here to Learn More</em></a>
         </div>
     </div>
 
@@ -93,7 +93,7 @@
         <div class="content">
             <a href="tpascourses.php" class="title">Applied Sciences</a>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, beatae. Modi quos excepturi id quibusdam? Molestiae quis nihil non debitis!</p>
-            <a class="LearnMoreLink center" href="#"><em>Click Here to Learn More</em></a>
+            <a target="_blank" class="LearnMoreLink center" href="https://www.tp.edu.sg/asc"><em>Click Here to Learn More</em></a>
         </div>
     </div>
 
@@ -102,7 +102,7 @@
         <div class="content">
             <a href="tpictcourses.php" class="title">Informatics & IT</a>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, beatae. Modi quos excepturi id quibusdam? Molestiae quis nihil non debitis!</p>
-            <a class="LearnMoreLink center" href="#"><em>Click Here to Learn More</em></a>
+            <a target="_blank" class="LearnMoreLink center" href="https://www.tp.edu.sg/iit"><em>Click Here to Learn More</em></a>
         </div>
     </div>
 
@@ -111,7 +111,7 @@
         <div class="content">
             <a href="tpdescourses.php" class="title">Design</a>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, beatae. Modi quos excepturi id quibusdam? Molestiae quis nihil non debitis!</p>
-            <a class="LearnMoreLink center" href="#"><em>Click Here to Learn More</em></a>
+            <a target="_blank" class="LearnMoreLink center" href="https://www.tp.edu.sg/des"><em>Click Here to Learn More</em></a>
         </div>
     </div>
 
@@ -120,7 +120,7 @@
         <div class="content">
             <a href="tphsscourses.php" class="title">Humanities & Social Sciences</a>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, beatae. Modi quos excepturi id quibusdam? Molestiae quis nihil non debitis!</p>
-            <a class="LearnMoreLink center" href="#"><em>Click Here to Learn More</em></a>
+            <a target="_blank" class="LearnMoreLink center" href="https://www.tp.edu.sg/hss"><em>Click Here to Learn More</em></a>
         </div>
     </div>
 </div>

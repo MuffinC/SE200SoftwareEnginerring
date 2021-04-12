@@ -75,7 +75,7 @@
         <div class="content">
             <a href="npbacourses.php" class="title">Business & Accountancy</a>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, beatae. Modi quos excepturi id quibusdam? Molestiae quis nihil non debitis!</p>
-            <a class="LearnMoreLink center" href="#"><em>Click Here to Learn More</em></a>
+            <a target="_blank" class="LearnMoreLink center" href="https://www.np.edu.sg/ba"><em>Click Here to Learn More</em></a>
         </div>
     </div>
 
@@ -84,7 +84,7 @@
         <div class="content">
             <a href="npdecourses.php" class="title">Design & Environment</a>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, beatae. Modi quos excepturi id quibusdam? Molestiae quis nihil non debitis!</p>
-            <a class="LearnMoreLink center" href="#"><em>Click Here to Learn More</em></a>
+            <a target="_blank" class="LearnMoreLink center" href="https://www.np.edu.sg/de"><em>Click Here to Learn More</em></a>
         </div>
     </div>
 
@@ -93,7 +93,7 @@
         <div class="content">
             <a href="npengcourses.php" class="title">Engineering</a>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, beatae. Modi quos excepturi id quibusdam? Molestiae quis nihil non debitis!</p>
-            <a class="LearnMoreLink center" href="#"><em>Click Here to Learn More</em></a>
+            <a target="_blank" class="LearnMoreLink center" href="https://www.np.edu.sg/soe"><em>Click Here to Learn More</em></a>
         </div>
     </div>
 
@@ -102,7 +102,7 @@
         <div class="content">
             <a href="nplsctcourses.php" class="title">Life Sciences & Chemical Technology</a>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, beatae. Modi quos excepturi id quibusdam? Molestiae quis nihil non debitis!</p>
-            <a class="LearnMoreLink center" href="#"><em>Click Here to Learn More</em></a>
+            <a target="_blank" class="LearnMoreLink center" href="https://www.np.edu.sg/lsct"><em>Click Here to Learn More</em></a>
         </div>
     </div>
 
@@ -111,7 +111,7 @@
         <div class="content">
             <a href="npictcourses.php" class="title">InfoComm Technology</a>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, beatae. Modi quos excepturi id quibusdam? Molestiae quis nihil non debitis!</p>
-            <a class="LearnMoreLink center" href="#"><em>Click Here to Learn More</em></a>
+            <a target="_blank" class="LearnMoreLink center" href="https://www.np.edu.sg/ict"><em>Click Here to Learn More</em></a>
         </div>
     </div>
 
@@ -120,7 +120,7 @@
         <div class="content">
             <a href="npfmscourses.php" class="title">Film & Media Studies</a>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, beatae. Modi quos excepturi id quibusdam? Molestiae quis nihil non debitis!</p>
-            <a class="LearnMoreLink center" href="#"><em>Click Here to Learn More</em></a>
+            <a target="_blank" class="LearnMoreLink center" href="https://www.np.edu.sg/fms"><em>Click Here to Learn More</em></a>
         </div>
     </div>
 
@@ -129,7 +129,7 @@
         <div class="content">
             <a href="nphsscourses.php" class="title">Humanities & Social Sciences</a>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, beatae. Modi quos excepturi id quibusdam? Molestiae quis nihil non debitis!</p>
-            <a class="LearnMoreLink center" href="#"><em>Click Here to Learn More</em></a>
+            <a target="_blank" class="LearnMoreLink center" href="https://www.np.edu.sg/hms"><em>Click Here to Learn More</em></a>
         </div>
     </div>
 
@@ -138,7 +138,7 @@
         <div class="content">
             <a href="nphscourses.php" class="title">Health Sciences</a>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, beatae. Modi quos excepturi id quibusdam? Molestiae quis nihil non debitis!</p>
-            <a class="LearnMoreLink center" href="#"><em>Click Here to Learn More</em></a>
+            <a target="_blank" class="LearnMoreLink center" href="https://www.np.edu.sg/hs"><em>Click Here to Learn More</em></a>
         </div>
     </div>
 </div>

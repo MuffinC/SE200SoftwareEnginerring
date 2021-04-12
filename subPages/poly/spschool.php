@@ -75,7 +75,7 @@
         <div class="content">
             <a href="#spabe" class="title">Architecture & the Built Environment</a>
             <p>ABE provides student-centred learning and broadbased training to encourage creativity and innovation.</p>
-            <a class="LearnMoreLink center" href="#"><em>Click Here to Learn More</em></a>
+            <a target="_blank" class="LearnMoreLink center" href="https://www.sp.edu.sg/abe"><em>Click Here to Learn More</em></a>
         </div>
     </div>
 
@@ -84,7 +84,7 @@
         <div class="content">
             <a href="#tpb" class="title">Business</a>
             <p>School of Business is recognised for quality business education at the diploma level. Our diplomas are highly valued by employers and widely accredited by reputable universities globally for admission to accelerate degree programmes.</p>
-            <a class="LearnMoreLink center" href="#"><em>Click Here to Learn More</em></a>
+            <a target="_blank" class="LearnMoreLink center" href="https://www.sp.edu.sg/sb"><em>Click Here to Learn More</em></a>
         </div>
     </div>
 
@@ -93,7 +93,7 @@
         <div class="content">
             <a href="#tpcls" class="title">Chemical & Life Sciences</a>
             <p>Students acquire relevant experience in chemicals and life sciences sectors through workbased learning.</p>
-            <a class="LearnMoreLink center" href="#"><em>Click Here to Learn More</em></a>
+            <a target="_blank" class="LearnMoreLink center" href="https://www.sp.edu.sg/cls"><em>Click Here to Learn More</em></a>
         </div>
     </div>
 
@@ -102,7 +102,7 @@
         <div class="content">
             <a href="#tpc" class="title">Computing</a>
             <p>SoC trains IT progessionals to become key players in these growing job markets.</p>
-            <a class="LearnMoreLink center" href="#"><em>Click Here to Learn More</em></a>
+            <a target="_blank" class="LearnMoreLink center" href="https://www.sp.edu.sg/soc"><em>Click Here to Learn More</em></a>
         </div>
     </div>
 
@@ -111,7 +111,7 @@
         <div class="content">
             <a href="#tpmad" class="title">Media, Arts & Deisgn</a>
             <p>Nuturing the enxt wave of creative professionals to re-imagine possibilities, turn them into realitym and transform workplaces, communities and the world.</p>
-            <a class="LearnMoreLink center" href="#"><em>Click Here to Learn More</em></a>
+            <a target="_blank" class="LearnMoreLink center" href="https://www.sp.edu.sg/mad"><em>Click Here to Learn More</em></a>
         </div>
     </div>
 
@@ -120,7 +120,7 @@
         <div class="content">
             <a href="#tpmae" class="title">SP Engineering</a>
             <p>MAE has a proud tradition of excellence and a good national and international reputation.</p>
-            <a class="LearnMoreLink center" href="#"><em>Click Here to Learn More</em></a>
+            <a target="_blank" class="LearnMoreLink center" href="https://www.sp.edu.sg/engineering"><em>Click Here to Learn More</em></a>
         </div>
     </div>
 
@@ -129,7 +129,7 @@
         <div class="content">
             <a href="#tpsma" class="title">Singapore Maritime Academy</a>
             <p>SMA stands at the forefront of maritime education and training with sophisticated laboratories and workshops.</p>
-            <a class="LearnMoreLink center" href="#"><em>Click Here to Learn More</em></a>
+            <a target="_blank" class="LearnMoreLink center" href="https://www.sp.edu.sg/sma"><em>Click Here to Learn More</em></a>
         </div>
     </div>
 </div>
