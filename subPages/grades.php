@@ -31,7 +31,7 @@
         <a href="../homepage.php" class="logo"><img src="images/KachingLogo_nowords.png"></a>
         <ul>
             <li class="navlist"><a href="../homepage.php">home</a></li>
-            <li class="active"><a href="aboutUs.php">about</a></li>
+            <li class="navlist"><a href="aboutUs.php">about</a></li>
             <li class="navlist"><a href="courses.php">course</a>
                 <i class="fa fa-angle-down"></i>
                 <nav class="navcourse">
