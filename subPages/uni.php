@@ -73,6 +73,8 @@
         <img src="images/ntu_logo.png" alt="NTU Logo">
         <div class="content">
             <a target="_blank" href="https://www.ntu.edu.sg/" class="title">Nanyang Technological University (NTU)</a>
+        </div>
+        <div class="subcontent">
         	<ul>
 	            <li><a target="_blank" class="programme" href="https://www.ntu.edu.sg/business">College of Business</a></li>
 	            <li><a target="_blank" class="programme" href="https://www.ntu.edu.sg/engineering">College of Engineering</a></li>
@@ -92,6 +94,8 @@
         <img src="images/nus_logo.jpg" alt="NUS Logo">
         <div class="content">
             <a target="_blank" href="https://www.nus.edu.sg/" class="title">National University of Singapore (NUS)</a>
+        </div>
+        <div class="subcontent">
 	        <ul>
 	            <li><a target="_blank" class="programme" href="https://chs.nus.edu.sg/">College of Humanities and Sciences</a></li>
 	            <li><a target="_blank" class="programme" href="https://bschool.nus.edu.sg/">Business & Accountancy</a></li>
@@ -115,6 +119,8 @@
         <img src="images/sit_logo.png" alt="SIT Logo">
         <div class="content">
             <a target="_blank" href="https://www.singaporetech.edu.sg/" class="title">Singapore Institute of Technology (SIT)</a>
+        </div>
+        <div class="subcontent">
 	        <ul>
 	            <li><a target="_blank" class="programme" href="https://www.singaporetech.edu.sg/undergraduate-programmes/engineering">Engineering</a></li>
 	            <li><a target="_blank" class="programme" href="https://www.singaporetech.edu.sg/undergraduate-programmes/chemical-engineering-and-food-technology">Chemical Engineering and Food Technology</a></li>
@@ -130,6 +136,8 @@
         <img src="images/smu_logo.png" alt="SMU Logo">
         <div class="content">
             <a target="_blank" href="https://www.smu.edu.sg/" class="title">Singapore Management University (SMU)</a>
+        </div>
+        <div class="subcontent">
 	        <ul>
 	            <li><a target="_blank" class="programme" href="https://admissions.smu.edu.sg/programmes/school-accountancy/school-accountancy">School of Accountancy</a></li>
 	            <li><a target="_blank" class="programme" href="https://admissions.smu.edu.sg/programmes/lee-kong-chian-school-business/lee-kong-chian-school-business">Lee Kong Chian School of Business</a></li>
