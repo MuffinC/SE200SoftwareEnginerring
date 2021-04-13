@@ -80,7 +80,7 @@
         <img src="images/course.jpg" alt="">
     	<div class="content">
 	        <a href="subPages/courses.php"><h3>Course</h3>
-	        <p>We have collated the courses offered by various Universities, Polytechnics and Junior Colleges all for your viewing convenience!. Discover them now!</p></a>
+	        <p>We have collated the courses offered by various Universities, Polytechnics and Junior Colleges all for your viewing convenience. Discover them now!</p></a>
 	        <a href="subPages/courses.php"><button class="btn">Learn more</button></a>
     	</div>
     </div>
@@ -89,7 +89,7 @@
         <img src="images/Internships.jpg" alt="">
     	<div class="content">
 	        <a href="subPages/internship.php"><h3>Internship</h3>
-	        <p>We have collated the courses offered by various companies all for your viewing convenience!. Discover them now!</p></a>
+	        <p>We have collated the courses offered by various companies all for your viewing convenience. Discover them now!</p></a>
 	        <a href="subPages/internship.php"><button class="btn">Learn more</button></a>
     	</div>
     </div>
