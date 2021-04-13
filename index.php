@@ -15,7 +15,7 @@
 				<button type="button" class="toggle-btn" onclick="login()">Log in</button>
 				<button type="button" class="toggle-btn" onclick="register()">Register</button>
 			</div>
-			
+<image src="images/logo.jpg" margin-left=200px width=40px></image>			
 
 
 		<form id="login"class="input-group" action="validation.php" method="post">
