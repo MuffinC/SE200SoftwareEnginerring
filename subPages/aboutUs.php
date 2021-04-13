@@ -79,7 +79,7 @@
 		</div>
 		
 		<div>
-			Hello! we are Kaching Corporated. Firstly, You may ask, what is this website about? and how did it all began? <br>
+			Hello! We are Kaching Corporated. Firstly, You may ask, what is this website about? And how did it all began? <br>
 			Well it started with problems pertaining to the registration process of Singapores' tertiary education and the growing pains of applying for them. We have also heard from our peers that sometimes the course they have chosen was not the right fit for them and ultimately leading to them changing their field of study down the road. Personally, the team and I can relate to such an experience as we too made the wrong choice at the time. Eventually, resulting in the creation of this very company and website.
 			<br>
 			<br>
@@ -87,9 +87,8 @@
 			Cheers and hope to hear from you in the new future.
 			<br>
 			<br>
-			Yeo Li Ting
-			<br>
-			Lead Developer of Kaching Corp. 
+            From, <br>
+            Kaching Corp Team
 		</div>
 	</div>
 </section>

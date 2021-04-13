@@ -11,9 +11,7 @@
 .thumbnail{
 	flex:1 1 40rem;
     padding: .5rem 3rem .5rem .5rem;
-    height: 20rem;
-    object-fit: fill;
-
+    height: 25rem;
 }
 
 .content{
@@ -29,7 +27,7 @@
 }
 
 .content p{
-	font-size: 1.5rem;
+	font-size: 2rem;
     color:white;
     padding:1rem 0;
 }
@@ -65,21 +63,26 @@
 
 
 /*About Us*/
-.about :is(.page-header){
-    color: black;
+.about div{
+    font-size: 2.5rem;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.about :is(.page-header, div){
+    color: white;
 }
 
 #grp-img{
     text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 .about-container{
-    border: solid black 2px;
-    background: white;
-    padding: 10px;
-
+    background: rgba(200,200,200,0.2);
+    border-radius: 20px;
+    padding-bottom: 1rem;
+    margin-bottom: 1rem;
 }
 
-.about{
-    font-size: 18px;
-}

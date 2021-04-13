@@ -37,7 +37,7 @@ section{
     min-height: 100vh;
     padding:1rem 7%;
     padding-top:4rem;
-    background: url(https://media.giphy.com/media/MXQnyEQwBJ6eTj90L5/giphy.gif);
+    background: url(https://media.giphy.com/media/RHIKETUlUINYvV7CAO/giphy.gif);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -322,16 +322,19 @@ section{
     align-items: center;
     justify-content: center;
     position: relative;
-    background: rgba(0,5,0,0.8);
+    background: rgba(200,200,200,0.2);
     padding-bottom: 1rem;
-    margin-bottom: 1rem;
+    padding-top: 1rem;
+    padding-left: 1rem;
+    margin-bottom: 2rem;
+    border-radius: 20px;
 }
 
 .home img{
     flex:1 1 40rem;
     padding: .5rem 3rem .5rem .5rem;
-    height:20rem;
-    width: 50%;
+    height: 25rem;
+    object-fit: contain;
 }
 
 
@@ -349,7 +352,7 @@ section{
 }
 
 .home .content p{
-    font-size: 1.5rem;
+    font-size: 2rem;
     color:white;
     padding:1rem 0;
 }

@@ -86,7 +86,7 @@
     </div>
 
 	<div class="container">
-        <img src="images/Internships.jpg" alt="">
+        <img src="images/Internships.png" alt="">
     	<div class="content">
 	        <a href="subPages/internship.php"><h3>Internship</h3>
 	        <p>We have collated the courses offered by various companies all for your viewing convenience!. Discover them now!</p></a>
@@ -174,7 +174,7 @@
 </script>
 
 <!-- custom js file link  -->
-<!-- <script src="js/script.js"></script> -->
+<script src="js/script.js"></script>
 
 <script src="//code.tidio.co/k6sjn4zehamzr5plcq2lwzebmaktdfsk.js" async></script>
 </body>
