@@ -178,7 +178,7 @@
         <div class="content">
             <a target="_blank" href="https://nationaljc.moe.edu.sg/" class="title">National Junior College (NJC)</a>
             <p>National Junior College is the first junior college to be established in Singapore. Founded on 20 January 1969, National Junior College offers a two-year course for pre-university students and a six-year Integrated Programme, both leading up to the Singapore-Cambridge GCE Advanced Level qualification. </p>
-            <p class="jc-curr"> <em>Want to find out more about their academic curriculum?</em> <button class="instiButton" target="_blank" href='https://nationaljc.moe.edu.sg/curriculum/'>Click Here!</a> </p>
+            <p class="jc-curr"> <em>Want to find out more about their academic curriculum?</em> <a class="instiButton" target="_blank" href='https://nationaljc.moe.edu.sg/curriculum/'>Click Here!</a> </p>
         </div>
     </div>
 
