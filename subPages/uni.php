@@ -61,28 +61,31 @@
         </div>
     </div>
     <!-- Login Page section starts  -->
+
 </header>
 <!-- header section end-->
 
 <!-- uni Page section starts  -->
-<section class="uni" id="uni">
+<section class="uni">
 <h1 class="page-header">LOCAL UNIVERSITY LISTING</h1>    
 <div class="box-container">
     <div class="box">
         <img src="images/ntu_logo.png" alt="NTU Logo">
         <div class="content">
-            <a href="#ntu" class="title">Nanyang Technological University (NTU)</a>
+            <a target="_blank" href="https://www.ntu.edu.sg/" class="title">Nanyang Technological University (NTU)</a>
+        </div>
+        <div class="subcontent">
         	<ul>
-	            <li><a class="programme" href="../homepage.php">College of Business</a></li>
-	            <li><a class="programme" href="aboutUs.php">College of Engineering</a></li>
-	            <li><a class="programme" href="courses.php">College of Humanities, Arts & Social Sciences</a></li>
-	            <li><a class="programme" href="internship.php">College of SCience</a></li>
-	            <li><a class="programme" href="aptitude.php">Lee Kong Chian School of Medicine</a></li>
-	            <li><a class="programme" href="feedback.php">S. Rajaratnam School of International Studies</a></li>
-	            <li><a class="programme" href="aboutUs.php">National Institute of Education</a></li>
-	            <li><a class="programme" href="internship.php">Double Majors Programmes</a></li>
-	            <li><a class="programme" href="aptitude.php">Double Degree Programmes</a></li>
-	            <li><a class="programme" href="feedback.php">Part-Time Programmes</a></li>
+	            <li><a target="_blank" class="programme" href="https://www.ntu.edu.sg/business">College of Business</a></li>
+	            <li><a target="_blank" class="programme" href="https://www.ntu.edu.sg/engineering">College of Engineering</a></li>
+	            <li><a target="_blank" class="programme" href="https://www.ntu.edu.sg/hass">College of Humanities, Arts & Social Sciences</a></li>
+	            <li><a target="_blank" class="programme" href="https://www.ntu.edu.sg/science">College of Science</a></li>
+	            <li><a target="_blank" class="programme" href="https://www.ntu.edu.sg/medicine">Lee Kong Chian School of Medicine</a></li>
+	            <li><a target="_blank" class="programme" href="https://www.rsis.edu.sg/">S. Rajaratnam School of International Studies</a></li>
+	            <li><a target="_blank" class="programme" href="https://nie.edu.sg/">National Institute of Education</a></li>
+	            <li><a target="_blank" class="programme" href="https://www.ntu.edu.sg/admissions/undergraduate-programmes?listingKeyword=&disciplines=all&programmelevels=double-major&programmetypes=all&page=1">Double Majors Programmes</a></li>
+	            <li><a target="_blank" class="programme" href="https://www.ntu.edu.sg/admissions/undergraduate-programmes?listingKeyword=&disciplines=all&programmelevels=double-degree&programmetypes=all&page=1">Double Degree Programmes</a></li>
+	            <li><a target="_blank" class="programme" href="https://www.ntu.edu.sg/admissions/undergraduate-programmes?listingKeyword=&disciplines=all&programmelevels=all&programmetypes=part-time&page=1">Part-Time Programmes</a></li>
         	</ul>
         </div>
     </div>
@@ -90,22 +93,24 @@
     <div class="box">
         <img src="images/nus_logo.jpg" alt="NUS Logo">
         <div class="content">
-            <a href="#nus" class="title">National University of Singapore (NUS)</a>
+            <a target="_blank" href="https://www.nus.edu.sg/" class="title">National University of Singapore (NUS)</a>
+        </div>
+        <div class="subcontent">
 	        <ul>
-	            <li><a class="programme" href="../index.php">College of Humanities and Sciences</a></li>
-	            <li><a class="programme" href="aboutUs.php">Business & Accountancy</a></li>
-	            <li><a class="programme" href="courses.php">Computing</a></li>
-	            <li><a class="programme" href="internship.php">Dentistry</a></li>
-	            <li><a class="programme" href="aptitude.php">Design & Environment</a></li>
-	            <li><a class="programme" href="feedback.php">Engineering</a></li>
-	            <li><a class="programme" href="aboutUs.php">Law</a></li>
-	            <li><a class="programme" href="courses.php">Medicine</a></li>
-	            <li><a class="programme" href="internship.php">Nursing</a></li>
-	            <li><a class="programme" href="aptitude.php">Pharmacy</a></li>
-	            <li><a class="programme" href="feedback.php">Music</a></li>
-	            <li><a class="programme" href="internship.php">Double Majors Programmes</a></li>
-	            <li><a class="programme" href="aptitude.php">Double Degree Programmes</a></li>
-	            <li><a class="programme" href="feedback.php">Part-Time Programmes</a></li>
+	            <li><a target="_blank" class="programme" href="https://chs.nus.edu.sg/">College of Humanities and Sciences</a></li>
+	            <li><a target="_blank" class="programme" href="https://bschool.nus.edu.sg/">Business & Accountancy</a></li>
+	            <li><a target="_blank" class="programme" href="https://www.comp.nus.edu.sg/">Computing</a></li>
+	            <li><a target="_blank" class="programme" href="https://www.dentistry.nus.edu.sg/">Dentistry</a></li>
+	            <li><a target="_blank" class="programme" href="https://www.sde.nus.edu.sg/">Design & Environment</a></li>
+	            <li><a target="_blank" class="programme" href="https://www.eng.nus.edu.sg/">Engineering</a></li>
+	            <li><a target="_blank" class="programme" href="https://law.nus.edu.sg/">Law</a></li>
+	            <li><a target="_blank" class="programme" href="https://medicine.nus.edu.sg/">Medicine</a></li>
+	            <li><a target="_blank" class="programme" href="https://medicine.nus.edu.sg/nursing/">Nursing</a></li>
+	            <li><a target="_blank" class="programme" href="https://pharmacy.nus.edu.sg/">Pharmacy</a></li>
+	            <li><a target="_blank" class="programme" href="https://www.ystmusic.nus.edu.sg/">Music</a></li>
+	            <li><a target="_blank" class="programme" href="https://www.nus.edu.sg/oam/docs/default-source/admissions/a-dmp.pdf">Double Majors Programmes</a></li>
+	            <li><a target="_blank" class="programme" href="https://www.nus.edu.sg/registrar/academic-information-policies/undergraduate-students/special-programmes/double-degree-programmes">Double Degree Programmes</a></li>
+	            <li><a target="_blank" class="programme" href="https://scale.nus.edu.sg/programmes/undergraduate-programmes">Part-Time Programmes</a></li>
 	        </ul>
         </div>
     </div>
@@ -113,14 +118,16 @@
     <div class="box">
         <img src="images/sit_logo.png" alt="SIT Logo">
         <div class="content">
-            <a href="#sit" class="title">Singapore Institute of Technology (SIT)</a>
+            <a target="_blank" href="https://www.singaporetech.edu.sg/" class="title">Singapore Institute of Technology (SIT)</a>
+        </div>
+        <div class="subcontent">
 	        <ul>
-	            <li><a class="programme" href="../index.php">Engineering</a></li>
-	            <li><a class="programme" href="aboutUs.php">Chemical Engineering and Food Technology</a></li>
-	            <li><a class="programme" href="courses.php">Infocomm Technology</a></li>
-	            <li><a class="programme" href="internship.php">Health and Social Sciences</a></li>
-	            <li><a class="programme" href="feedback.php">Design and Specialised Businesses</a></li>
-	            <li><a class="programme" href="feedback.php">Part-Time Programmes</a></li>
+	            <li><a target="_blank" class="programme" href="https://www.singaporetech.edu.sg/undergraduate-programmes/engineering">Engineering</a></li>
+	            <li><a target="_blank" class="programme" href="https://www.singaporetech.edu.sg/undergraduate-programmes/chemical-engineering-and-food-technology">Chemical Engineering and Food Technology</a></li>
+	            <li><a target="_blank" class="programme" href="https://www.singaporetech.edu.sg/undergraduate-programmes/infocomm-technology">Infocomm Technology</a></li>
+	            <li><a target="_blank" class="programme" href="https://www.singaporetech.edu.sg/undergraduate-programmes/health-and-social-sciences">Health and Social Sciences</a></li>
+	            <li><a target="_blank" class="programme" href="https://www.singaporetech.edu.sg/undergraduate-programmes/design-and-specialised-businesses">Design and Specialised Businesses</a></li>
+	            <li><a target="_blank" class="programme" href="https://sitlearn.singaporetech.edu.sg/">Part-Time Programmes</a></li>
 	        </ul>
         </div>
     </div>
@@ -128,14 +135,16 @@
     <div class="box">
         <img src="images/smu_logo.png" alt="SMU Logo">
         <div class="content">
-            <a href="#smu" class="title">Singapore Management University (SMU)</a>
+            <a target="_blank" href="https://www.smu.edu.sg/" class="title">Singapore Management University (SMU)</a>
+        </div>
+        <div class="subcontent">
 	        <ul>
-	            <li><a class="programme" href="../index.php">School of Accountancy</a></li>
-	            <li><a class="programme" href="aboutUs.php">Lee Kong Chian School of Business</a></li>
-	            <li><a class="programme" href="courses.php">School of Law</a></li>
-	            <li><a class="programme" href="internship.php">School of Economics</a></li>
-	            <li><a class="programme" href="aptitude.php">School of Computing and Information Systems</a></li>
-	            <li><a class="programme" href="feedback.php">School of Social Sciences</a></li>
+	            <li><a target="_blank" class="programme" href="https://admissions.smu.edu.sg/programmes/school-accountancy/school-accountancy">School of Accountancy</a></li>
+	            <li><a target="_blank" class="programme" href="https://admissions.smu.edu.sg/programmes/lee-kong-chian-school-business/lee-kong-chian-school-business">Lee Kong Chian School of Business</a></li>
+	            <li><a target="_blank" class="programme" href="https://admissions.smu.edu.sg/programmes/yong-pung-how-school-law/yong-pung-how-school-law">School of Law</a></li>
+	            <li><a target="_blank" class="programme" href="https://admissions.smu.edu.sg/programmes/school-economics/school-economics">School of Economics</a></li>
+	            <li><a target="_blank" class="programme" href="https://admissions.smu.edu.sg/programmes/school-computing-and-information-systems/school-computing-and-information-systems-0">School of Computing and Information Systems</a></li>
+	            <li><a target="_blank" class="programme" href="https://admissions.smu.edu.sg/programmes/school-social-sciences/school-social-sciences">School of Social Sciences</a></li>
 	        </ul>
         </div>
     </div>
@@ -143,19 +152,19 @@
     <div class="box">
         <img src="images/suss_logo.jpg" alt="SUSS Logo">
         <div class="content">
-            <a href="#suss" class="title">Singapore University of Social Sciences (SUSS)</a>
+            <a target="_blank" href="https://www.suss.edu.sg/" class="title">Singapore University of Social Sciences (SUSS)</a>
 	          <ul>
-	            <li><a class="programme" href="../index.php">Bachelor of Accountancy</a></li>
-	            <li><a class="programme" href="aboutUs.php">Bachelor of Early Childhood Education with Minor</a></li>
-	            <li><a class="programme" href="courses.php">Bachelor of Human Resource Management with Minor</a></li>
-	            <li><a class="programme" href="courses.php">Bachelor of Public Safety and Security with Minor</a></li>
-	            <li><a class="programme" href="courses.php">Bachelor of Science in Business Analytics with Minor</a></li>
-	            <li><a class="programme" href="courses.php">Bachelor of Science in Finance with Minor</a></li>
-	            <li><a class="programme" href="courses.php">Bachelor of Science in Marketing with Minor</a></li>
-	            <li><a class="programme" href="courses.php">
+	            <li><a target="_blank" class="programme" href="https://www.suss.edu.sg/programmes/detail/bachelor-of-accountancy-ftacc">Bachelor of Accountancy</a></li>
+	            <li><a target="_blank" class="programme" href="https://www.suss.edu.sg/programmes/detail/bachelor-of-early-childhood-education-with-minor-ftece">Bachelor of Early Childhood Education with Minor</a></li>
+	            <li><a target="_blank" class="programme" href="https://www.suss.edu.sg/programmes/detail/bachelor-of-human-resource-management-with-minor-fthrm">Bachelor of Human Resource Management with Minor</a></li>
+	            <li><a target="_blank" class="programme" href="https://www.suss.edu.sg/programmes/detail/bachelor-of-public-safety-and-security-ftpss">Bachelor of Public Safety and Security with Minor</a></li>
+	            <li><a target="_blank" class="programme" href="https://www.suss.edu.sg/programmes/detail/bachelor-of-science-in-business-analytics-with-minor-ftbsba">Bachelor of Science in Business Analytics with Minor</a></li>
+	            <li><a target="_blank" class="programme" href="https://www.suss.edu.sg/programmes/detail/bachelor-of-science-in-finance-with-minor-ftfnce">Bachelor of Science in Finance with Minor</a></li>
+	            <li><a target="_blank" class="programme" href="https://www.suss.edu.sg/programmes/detail/bachelor-of-science-in-marketing-with-minor-ftmktg">Bachelor of Science in Marketing with Minor</a></li>
+	            <li><a target="_blank" class="programme" href="https://www.suss.edu.sg/programmes/detail/bachelor-of-science-in-supply-chain-management-with-minor-ftscm">
 	            Bachelor of Science in Supply Chain Management with Minor</a></li>
-	            <li><a class="programme" href="internship.php">Bachelor of Social Work with Minor</a></li>
-	            <li><a class="programme" href="aptitude.php">Part-Time Programmes</a></li>
+	            <li><a target="_blank" class="programme" href="https://www.suss.edu.sg/programmes/detail/bachelor-of-social-work-with-minor-ftswk">Bachelor of Social Work with Minor</a></li>
+	            <li><a target="_blank" class="programme" href="https://www.suss.edu.sg/part-time-undergraduate?utm_source=suss_website&utm_medium=homepage&utm_campaign=homepage_card_part_time_undergraduate&utm_content=part_time_undergraduate">Part-Time Programmes</a></li>
 	        </ul>
         </div>
     </div>
@@ -163,15 +172,15 @@
     <div class="box">
         <img src="images/sutd_logo.png" alt="SUTD Logo">
         <div class="content">
-            <a href="#sutd" class="title">Singapore University of Technology and Design (SUTD)</a>
+            <a target="_blank" href="https://www.sutd.edu.sg/" class="title">Singapore University of Technology and Design (SUTD)</a>
         </div>
         <div class="subcontent">
 			<ul>
-	            <li><a class="programme" href="../index.php">Architecture and Sustainable Design</a></li>
-	            <li><a class="programme" href="aboutUs.php">Design and Artificial Intelligence</a></li>
-	            <li><a class="programme" href="courses.php">Engineering Product Development</a></li>
-	            <li><a class="programme" href="internship.php">Engineering Systems and Design</a></li>
-	            <li><a class="programme" href="aptitude.php">Information Systems Technology and Design</a></li>
+	            <li><a target="_blank" class="programme" href="https://asd.sutd.edu.sg/programme/bachelor-of-science-architecture-and-sustainable-design/">Architecture and Sustainable Design</a></li>
+	            <li><a target="_blank" class="programme" href="https://dai.sutd.edu.sg/">Design and Artificial Intelligence</a></li>
+	            <li><a target="_blank" class="programme" href="https://epd.sutd.edu.sg/education/undergraduate/curriculum-structure/">Engineering Product Development</a></li>
+	            <li><a target="_blank" class="programme" href="https://esd.sutd.edu.sg/academics/undergraduate-programme/">Engineering Systems and Design</a></li>
+	            <li><a target="_blank" class="programme" href="https://istd.sutd.edu.sg/education/undergraduate/curriculum-overview/">Information Systems Technology and Design</a></li>
 	        </ul>
         </div>
     </div>

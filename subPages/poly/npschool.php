@@ -26,15 +26,6 @@
     <nav class="navbar">
         <a href="../../homepage.php" class="logo"><img src="../images/KachingLogo_nowords.png"></a>
         <ul>
-<<<<<<< HEAD:subPages/poly/npschool.html
-            <li><a class="navbutton" href="../homepage.php">Home</a></li>
-            <li><a class="navbutton" href="aboutUs.html">About</a></li>
-            <li><a class="navbutton active" href="courses.html">Courses</a></li>
-            <li><a class="navbutton" href="internship.html">Internships</a></li>
-            <li><a class="navbutton" href="aptitude.html">Aptitude Test</a></li>
-            <li><a class="navbutton" href="feedback.php">Feedback</a></li>
-            <li><a class="navbutton" href="searchbox.html">Live Search Box</a></li>
-=======
             <li class="navlist"><a href="../../homepage.php">home</a></li>
             <li class="navlist"><a href="../aboutUs.php">about</a></li>
             <li class="active"><a href="../courses.php">course</a>
@@ -58,7 +49,6 @@
             </li>
             <li class="navlist"><a href="../aptitude.php">aptitude</a></li>
             <li class="navlist"><a href="../feedback.php">feedback</a></li>
->>>>>>> 50097a485d4e76e0ce4516738864ca95e2b7c59d:subPages/poly/npschool.php
         </ul>
         <div class="login-msg">
             <div>Welcome <?php echo $_SESSION['username'];?></div>
@@ -77,78 +67,78 @@
 <!-- header section end-->
 
 <!-- poly start-->
-<section class="poly"> <!-- Change classes of poly, jc and uni to school? -->
+<section class="poly"> 
 <h1 class="page-header">Ngee Ann Polytechnic</h1>    
 <div class="box-container">
     <div class="box">
         <img src="images/BA-np.jpg" alt="TP Logo">
         <div class="content">
-            <a href="#npbm" class="title">Business & Accountancy</a>
+            <a href="npbacourses.php" class="title">Business & Accountancy</a>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, beatae. Modi quos excepturi id quibusdam? Molestiae quis nihil non debitis!</p>
-            <a class="LearnMoreLink center" href="npbacourses.html"><em>Click Here to Learn More</em></a>
+            <a target="_blank" class="LearnMoreLink center" href="https://www.np.edu.sg/ba"><em>Click Here to Learn More</em></a>
         </div>
     </div>
 
     <div class="box">
         <img src="images/DE-np.jpg" alt="RP Logo">
         <div class="content">
-            <a href="#npbe" class="title">Design & Environment</a>
+            <a href="npdecourses.php" class="title">Design & Environment</a>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, beatae. Modi quos excepturi id quibusdam? Molestiae quis nihil non debitis!</p>
-            <a class="LearnMoreLink center" href="npdecourses.html"><em>Click Here to Learn More</em></a>
+            <a target="_blank" class="LearnMoreLink center" href="https://www.np.edu.sg/de"><em>Click Here to Learn More</em></a>
         </div>
     </div>
 
     <div class="box">
         <img src="images/SOE-np.jpg" alt="NYP Logo">
         <div class="content">
-            <a href="#npe" class="title">Engineering</a>
+            <a href="npengcourses.php" class="title">Engineering</a>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, beatae. Modi quos excepturi id quibusdam? Molestiae quis nihil non debitis!</p>
-            <a class="LearnMoreLink center" href="npengcourses.html"><em>Click Here to Learn More</em></a>
+            <a target="_blank" class="LearnMoreLink center" href="https://www.np.edu.sg/soe"><em>Click Here to Learn More</em></a>
         </div>
     </div>
 
     <div class="box">
         <img src="images/LSCT-np.jpg" alt="NP Logo">
         <div class="content">
-            <a href="#npas" class="title">Life Sciences & Chemical Technology</a>
+            <a href="nplsctcourses.php" class="title">Life Sciences & Chemical Technology</a>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, beatae. Modi quos excepturi id quibusdam? Molestiae quis nihil non debitis!</p>
-            <a class="LearnMoreLink center" href="nplsctcourses.html"><em>Click Here to Learn More</em></a>
+            <a target="_blank" class="LearnMoreLink center" href="https://www.np.edu.sg/lsct"><em>Click Here to Learn More</em></a>
         </div>
     </div>
 
     <div class="box">
         <img src="images/ICT-np.jpg" alt="SP Logo">
         <div class="content">
-            <a href="#npidt" class="title">InfoComm Technology</a>
+            <a href="npictcourses.php" class="title">InfoComm Technology</a>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, beatae. Modi quos excepturi id quibusdam? Molestiae quis nihil non debitis!</p>
-            <a class="LearnMoreLink center" href="npictcourses.html"><em>Click Here to Learn More</em></a>
+            <a target="_blank" class="LearnMoreLink center" href="https://www.np.edu.sg/ict"><em>Click Here to Learn More</em></a>
         </div>
     </div>
 
     <div class="box">
         <img src="images/FMS-np.jpg" alt="RP Logo">
         <div class="content">
-            <a href="#npmd" class="title">Film & Media Studies</a>
+            <a href="npfmscourses.php" class="title">Film & Media Studies</a>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, beatae. Modi quos excepturi id quibusdam? Molestiae quis nihil non debitis!</p>
-            <a class="LearnMoreLink center" href="npfmscourses.html"><em>Click Here to Learn More</em></a>
+            <a target="_blank" class="LearnMoreLink center" href="https://www.np.edu.sg/fms"><em>Click Here to Learn More</em></a>
         </div>
     </div>
 
     <div class="box">
         <img src="images/HMS-np.jpg" alt="RP Logo">
         <div class="content">
-            <a href="#nph" class="title">Humanities & Social Sciences</a>
+            <a href="nphsscourses.php" class="title">Humanities & Social Sciences</a>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, beatae. Modi quos excepturi id quibusdam? Molestiae quis nihil non debitis!</p>
-            <a class="LearnMoreLink center" href="nphsscourses.html"><em>Click Here to Learn More</em></a>
+            <a target="_blank" class="LearnMoreLink center" href="https://www.np.edu.sg/hms"><em>Click Here to Learn More</em></a>
         </div>
     </div>
 
     <div class="box">
         <img src="images/HS-np.jpg" alt="RP Logo">
         <div class="content">
-            <a href="#nphs" class="title">Health Sciences</a>
+            <a href="nphscourses.php" class="title">Health Sciences</a>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, beatae. Modi quos excepturi id quibusdam? Molestiae quis nihil non debitis!</p>
-            <a class="LearnMoreLink center" href="nphscourses.html"><em>Click Here to Learn More</em></a>
+            <a target="_blank" class="LearnMoreLink center" href="https://www.np.edu.sg/hs"><em>Click Here to Learn More</em></a>
         </div>
     </div>
 </div>

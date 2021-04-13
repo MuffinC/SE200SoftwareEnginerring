@@ -1,0 +1,16 @@
+.courseDir{
+    color: black;
+    font-size: 2rem;
+    text-align: justify;
+}
+
+.courseDiv{
+    position: absolute; 
+    left: 22%;
+    right: 2%;
+}
+
+.courseHeader{
+    color: orange;
+}
+

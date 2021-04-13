@@ -26,15 +26,6 @@
     <nav class="navbar">
         <a href="../../homepage.php" class="logo"><img src="../images/KachingLogo_nowords.png"></a>
         <ul>
-<<<<<<< HEAD:subPages/poly/rpschool.html
-            <li><a class="navbutton" href="../homepage.php">Home</a></li>
-            <li><a class="navbutton" href="aboutUs.html">About</a></li>
-            <li><a class="navbutton active" href="courses.html">Courses</a></li>
-            <li><a class="navbutton" href="internship.html">Internships</a></li>
-            <li><a class="navbutton" href="aptitude.html">Aptitude Test</a></li>
-            <li><a class="navbutton" href="feedback.php">Feedback</a></li>
-            <li><a class="navbutton" href="searchbox.html">Live Search Box</a></li>
-=======
             <li class="navlist"><a href="../../homepage.php">home</a></li>
             <li class="navlist"><a href="../aboutUs.php">about</a></li>
             <li class="active"><a href="../courses.php">course</a>
@@ -58,7 +49,6 @@
             </li>
             <li class="navlist"><a href="../aptitude.php">aptitude</a></li>
             <li class="navlist"><a href="../feedback.php">feedback</a></li>
->>>>>>> 50097a485d4e76e0ce4516738864ca95e2b7c59d:subPages/poly/rpschool.php
         </ul>
         <div class="login-msg">
             <div>Welcome <?php echo $_SESSION['username'];?></div>
@@ -83,63 +73,63 @@
     <div class="box">
         <img src="images/ap-rp.jpg" alt="TP Logo">
         <div class="content">
-            <a href="#rpas" class="title">Applied Science</a>
+            <a href="rpascourses.php" class="title">Applied Science</a>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, beatae. Modi quos excepturi id quibusdam? Molestiae quis nihil non debitis!</p>
-            <a class="LearnMoreLink center" href="rpascourses.html"><em>Click Here to Learn More</em></a>
+            <a target="_blank" class="LearnMoreLink center" href="https://www.rp.edu.sg/sas"><em>Click Here to Learn More</em></a>
         </div>
     </div>
 
     <div class="box">
         <img src="images/engineering-rp.jpg" alt="NYP Logo">
         <div class="content">
-            <a href="#rpe" class="title">Engineering</a>
+            <a href="rpengcourses.php" class="title">Engineering</a>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, beatae. Modi quos excepturi id quibusdam? Molestiae quis nihil non debitis!</p>
-            <a class="LearnMoreLink center" href="rpengcourses.html"><em>Click Here to Learn More</em></a>
+            <a target="_blank" class="LearnMoreLink center" href="https://www.rp.edu.sg/seg"><em>Click Here to Learn More</em></a>
         </div>
     </div>
 
     <div class="box">
         <img src="images/hospitality-rp.jpg" alt="NP Logo">
         <div class="content">
-            <a href="#rph" class="title">Hospitality</a>
+            <a href="rphospcourses.php" class="title">Hospitality</a>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, beatae. Modi quos excepturi id quibusdam? Molestiae quis nihil non debitis!</p>
-            <a class="LearnMoreLink center" href="rphospcourses.html"><em>Click Here to Learn More</em></a>
+            <a target="_blank" class="LearnMoreLink center" href="https://www.rp.edu.sg/soh"><em>Click Here to Learn More</em></a>
         </div>
     </div>
 
     <div class="box">
         <img src="images/info-rp.jpg" alt="SP Logo">
         <div class="content">
-            <a href="#rpi" class="title">Infocomm</a>
+            <a href="rpiccourses.php" class="title">Infocomm</a>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, beatae. Modi quos excepturi id quibusdam? Molestiae quis nihil non debitis!</p>
-            <a class="LearnMoreLink center" href="rpiccourses.html"><em>Click Here to Learn More</em></a>
+            <a target="_blank" class="LearnMoreLink center" href="https://www.rp.edu.sg/soi"><em>Click Here to Learn More</em></a>
         </div>
     </div>
 
     <div class="box">
         <img src="images/MC-rp.jpg" alt="RP Logo">
         <div class="content">
-            <a href="#rpmc" class="title">Management and Communication</a>
+            <a href="rpmccourses.php" class="title">Management and Communication</a>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, beatae. Modi quos excepturi id quibusdam? Molestiae quis nihil non debitis!</p>
-            <a class="LearnMoreLink center" href="rpmccourses.html"><em>Click Here to Learn More</em></a>
+            <a target="_blank" class="LearnMoreLink center" href="https://www.rp.edu.sg/smc"><em>Click Here to Learn More</em></a>
         </div>
     </div>
 
     <div class="box">
         <img src="images/shl-rp.jpg" alt="RP Logo">
         <div class="content">
-            <a href="#rpmc" class="title">Sports, Health and Leisure</a>
+            <a href="rpshlcourses.php" class="title">Sports, Health and Leisure</a>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, beatae. Modi quos excepturi id quibusdam? Molestiae quis nihil non debitis!</p>
-            <a class="LearnMoreLink center" href="rpshlcourses.html"><em>Click Here to Learn More</em></a>
+            <a target="_blank" class="LearnMoreLink center" href="https://www.rp.edu.sg/shl"><em>Click Here to Learn More</em></a>
     </div>
 
     </div>
         <div class="box">
         <img src="images/ta-rp.jpg" alt="RP Logo">
         <div class="content">
-            <a href="#rpta" class="title">Technology for the Arts</a>
+            <a href="rptacourses.php" class="title">Technology for the Arts</a>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, beatae. Modi quos excepturi id quibusdam? Molestiae quis nihil non debitis!</p>
-            <a class="LearnMoreLink center" href="rptacourses.html"><em>Click Here to Learn More</em></a>
+            <a target="_blank" class="LearnMoreLink center" href="https://www.rp.edu.sg/sta"><em>Click Here to Learn More</em></a>
         </div>
     </div>
 </div>

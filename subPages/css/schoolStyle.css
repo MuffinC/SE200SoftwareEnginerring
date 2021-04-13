@@ -27,6 +27,10 @@
     padding: 10px;
 }
 
+.uni .box{
+    height: 50rem;
+}
+
 .thumbnail{
     text-align: center;
 }
@@ -60,3 +64,4 @@
     margin-top: 1rem;
     font-size: 1rem;
 }
+
