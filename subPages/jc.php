@@ -79,7 +79,7 @@
         <div class="content">
             <a target="_blank" href="https://asrjc.moe.edu.sg/" class="title">Anderson Serangoon Junior College (ASRJC)</a>
             <p>Anderson Serangoon Junior College is a junior college located in Yio Chu Kang, Singapore, offering two-year pre-university courses leading to the Singapore-Cambridge GCE Advanced Level examinations. ASRJC has been affirmed as one of the leading junior colleges in Singapore for value-added academic performances.</p>
-            <p class="jc-curr"> <em>Want to find out more about their academic curriculum?</em> <button class="instiButton" onclick="window.location.href='https://asrjc.moe.edu.sg/academic-curriculum/';">Click Here!</button> </p>
+            <p class="jc-curr"> <em>Want to find out more about their academic curriculum?</em> <a class="instiButton" target="_blank" href ="https://asrjc.moe.edu.sg/academic-curriculum/">Click Here!</a> </p>
         </div>
     </div>
 
@@ -90,7 +90,7 @@
         <div class="content">
             <a target="_blank" href="https://acjc.moe.edu.sg/" class="title">Anglo-Chinese Junior College (ACJC)</a>
             <p>Anglo-Chinese Junior College is a junior college in Singapore that offers a two-year pre-university programme leading to the Singapore-Cambridge GCE Advanced Level examination.</p>
-            <p class="jc-curr"> <em>Want to find out more about their academic curriculum?</em> <button class="instiButton" onclick="window.location.href='https://acjc.moe.edu.sg/ac-experience/academics/subjects';">Click Here!</button> </p>
+            <p class="jc-curr"> <em>Want to find out more about their academic curriculum?</em> <a class="instiButton" target="_blank" href="https://acjc.moe.edu.sg/ac-experience/academics/subjects">Click Here!</a> </p>
         </div>
     </div>
 
@@ -101,7 +101,7 @@
         <div class="content">
             <a target="_blank" href="https://www.acsindep.moe.edu.sg/" class="title">Anglo-Chinese IB Junior College (ACS(I))</a>
             <p>Anglo-Chinese School (Independent) is a Methodist school in Singapore. Founded in 1886 by the Rev William Fitzjames Oldham, it was recognised as an IB World School in 2005, and has since consistently ranked among the top 3 schools worldwide that offer the IB Diploma Programme.</p>
-            <p class="jc-curr"> <em>Want to find out more about their academic curriculum?</em> <button class="instiButton" onclick="window.location.href='https://www.acsindep.moe.edu.sg/the-acs-independent-experience/integrated-programme/curriculum-overview/';">Click Here!</button> </p>
+            <p class="jc-curr"> <em>Want to find out more about their academic curriculum?</em> <a class="instiButton" target="_blank" href='https://www.acsindep.moe.edu.sg/the-acs-independent-experience/integrated-programme/curriculum-overview/'>Click Here!</a> </p>
         </div>
     </div>
 
@@ -112,7 +112,7 @@
         <div class="content">
             <a target="_blank" href="https://cjc.moe.edu.sg/" class="title">Catholic Junior College (CJC)</a>
             <p>Catholic Junior College is a junior college in Singapore, offering a two-year course for pre-university students leading to the Singapore-Cambridge GCE Advanced Level examination. Founded in 1975, Catholic Junior College was the third junior college to be established in Singapore.</p>
-            <p class="jc-curr"> <em>Want to find out more about their academic curriculum?</em> <button class="instiButton" onclick="window.location.href='https://cjc.moe.edu.sg/education';">Click Here!</button> </p>
+            <p class="jc-curr"> <em>Want to find out more about their academic curriculum?</em> <a class="instiButton" target="_blank" href='https://cjc.moe.edu.sg/education'>Click Here!</a> </p>
         </div>
     </div>
 
@@ -123,7 +123,7 @@
         <div class="content">
             <a target="_blank" href="https://dunmanhigh.moe.edu.sg/" class="title">Dunman High School (DHS)</a>
             <p>Dunman High School is an autonomous co-educational secondary school with its current campus situated in Kallang, Singapore, offering the Integrated Programme and the Special Assistance Plan. It was originally located in West Kallang.</p>
-            <p class="jc-curr"> <em>Want to find out more about their academic curriculum?</em> <button class="instiButton" onclick="window.location.href='https://dunmanhigh.moe.edu.sg/academic/';">Click Here!</button> </p>
+            <p class="jc-curr"> <em>Want to find out more about their academic curriculum?</em> <a class="instiButton" target="_blank" href='https://dunmanhigh.moe.edu.sg/academic/'>Click Here!</a> </p>
         </div>
     </div>
 
@@ -134,7 +134,7 @@
         <div class="content">
             <a target="_blank" href="https://eunoiajc.moe.edu.sg/" class="title">Eunoia Junior College (EJC)</a>
             <p>Eunoia Junior College is a junior college in Singapore which offers Integrated Programme with Catholic High School, Singapore Chinese Girls' School and CHIJ Saint Nicholas Girls' School. It is located in Bishan, close to Bright Hill MRT station and Bishan MRT station. </p>
-            <p class="jc-curr"> <em>Want to find out more about their academic curriculum?</em> <button class="instiButton" onclick="window.location.href='https://eunoiajc.moe.edu.sg/curriculum/subject-combinations/';">Click Here!</button> </p>
+            <p class="jc-curr"> <em>Want to find out more about their academic curriculum?</em> <a class="instiButton" target="_blank" href='https://eunoiajc.moe.edu.sg/curriculum/subject-combinations/'>Click Here!</a> </p>
         </div>
     </div>
 
@@ -145,7 +145,7 @@
         <div class="content">
             <a target="_blank" href="https://www.hci.edu.sg/" class="title">Hwa Chong Junior College (HCI)</a>
             <p>Hwa Chong Institution is an independent institution in Singapore offering secondary and pre-university education.</p>
-            <p class="jc-curr"> <em>Want to find out more about their academic curriculum?</em> <button class="instiButton" onclick="window.location.href='https://www.hci.edu.sg/admissions/admissions-and-studies-high-school/academic-programmes';">Click Here!</button> </p>
+            <p class="jc-curr"> <em>Want to find out more about their academic curriculum?</em> <a class="instiButton" target="_blank" href='https://www.hci.edu.sg/admissions/admissions-and-studies-high-school/academic-programmes'>Click Here!</a> </p>
         </div>
     </div>
 
@@ -156,7 +156,7 @@
         <div class="content">
             <a target="_blank" href="https://jpjc.moe.edu.sg/" class="title">  Jurong Pioneer Junior College (JPJC)</a>
             <p>Jurong Pioneer Junior College is a junior college in Singapore offering a two-year pre-university course leading up to the Singapore-Cambridge GCE Advanced Level examination. The college is was formed from the merger of Jurong Junior College and Pioneer Junior College in January 2019. </p>
-            <p class="jc-curr"> <em>Want to find out more about their academic curriculum?</em> <button class="instiButton" onclick="window.location.href='https://jpjc.moe.edu.sg/about-jpjc/subject-combination';">Click Here!</button> </p>
+            <p class="jc-curr"> <em>Want to find out more about their academic curriculum?</em> <a class="instiButton" target="_blank" href='https://jpjc.moe.edu.sg/about-jpjc/subject-combination'>Click Here!</a> </p>
         </div>
     </div>
 
@@ -167,7 +167,7 @@
         <div class="content">
             <a target="_blank" href="https://nanyangjc.moe.edu.sg/" class="title">Nanyang Junior College (NYJC)</a>
             <p>Nanyang Junior College is a junior college in Singapore next to Lorong Chuan MRT station, offering two-year pre-university courses leading up to the GCE Advanced Level examinations.</p>
-            <p class="jc-curr"> <em>Want to find out more about their academic curriculum?</em> <button class="instiButton" onclick="window.location.href='https://nanyangjc.moe.edu.sg/life-at-nyjc/academic-programmes/subjects-offered-in-nyjc/';">Click Here!</button> </p>
+            <p class="jc-curr"> <em>Want to find out more about their academic curriculum?</em> <a class="instiButton" target="_blank" onclick="window.location.href='https://nanyangjc.moe.edu.sg/life-at-nyjc/academic-programmes/subjects-offered-in-nyjc/';">Click Here!</a> </p>
         </div>
     </div>
 
@@ -178,7 +178,7 @@
         <div class="content">
             <a target="_blank" href="https://nationaljc.moe.edu.sg/" class="title">National Junior College (NJC)</a>
             <p>National Junior College is the first junior college to be established in Singapore. Founded on 20 January 1969, National Junior College offers a two-year course for pre-university students and a six-year Integrated Programme, both leading up to the Singapore-Cambridge GCE Advanced Level qualification. </p>
-            <p class="jc-curr"> <em>Want to find out more about their academic curriculum?</em> <button class="instiButton" onclick="window.location.href='https://nationaljc.moe.edu.sg/curriculum/';">Click Here!</button> </p>
+            <p class="jc-curr"> <em>Want to find out more about their academic curriculum?</em> <a class="instiButton" target="_blank" href='https://nationaljc.moe.edu.sg/curriculum/'>Click Here!</a> </p>
         </div>
     </div>
 
@@ -189,7 +189,7 @@
         <div class="content">
             <a target="_blank" href="http://www.ri.edu.sg/" class="title">Raffles Junior College (RI)</a>
             <p>The former Raffles Junior College was a junior college in Singapore offering pre-university education. The college was founded in 1982 following a separation from the pre-university section of Raffles Institution. Raffles Junior College was merged as the college section of Raffles Institution on 1 January 2009.</p>
-            <p class="jc-curr"> <em>Want to find out more about their academic curriculum?</em> <button class="instiButton" onclick="window.location.href='http://www.ri.edu.sg/learning-at-ri/year-5-6';">Click Here!</button> </p>
+            <p class="jc-curr"> <em>Want to find out more about their academic curriculum?</em> <a class="instiButton" target="_blank" href='http://www.ri.edu.sg/learning-at-ri/year-5-6'>Click Here!</a> </p>
         </div>
     </div>
 
@@ -200,7 +200,7 @@
         <div class="content">
             <a target="_blank" href="https://rivervalleyhigh.moe.edu.sg/" class="title">River Valley Junior College (RVHS)</a>
             <p>River Valley High School is an autonomous educational institution that offers the Integrated Programme in Singapore. Founded in 1956, one of the Special Assistance Plan high schools designated by the Ministry of Education in recognition of its heritage and excellence in education.</p>
-            <p class="jc-curr"> <em>Want to find out more about their academic curriculum?</em> <button class="instiButton" onclick="window.location.href='https://rivervalleyhigh.moe.edu.sg/e-open-house/rvip/academic-programme';">Click Here!</button> </p>
+            <p class="jc-curr"> <em>Want to find out more about their academic curriculum?</em> <a class="instiButton" target="_blank" href='https://rivervalleyhigh.moe.edu.sg/e-open-house/rvip/academic-programme'>Click Here!</a> </p>
         </div>
     </div>
 
@@ -211,7 +211,7 @@
         <div class="content">
             <a target="_blank" href="https://standrewsjc.moe.edu.sg/" class="title">Saint Andrew's Junior College (SAJC)</a>
             <p>St. Andrew's Junior College is a junior college in Singapore, offering two-year pre-university courses leading up to the Singapore-Cambridge GCE Advanced Level examination. It is an Anglican mission school, part of St. Andrew's School.</p>
-            <p class="jc-curr"> <em>Want to find out more about their academic curriculum?</em> <button class="instiButton" onclick="window.location.href='https://standrewsjc.moe.edu.sg/curriculum';">Click Here!</button> </p>
+            <p class="jc-curr"> <em>Want to find out more about their academic curriculum?</em> <a class="instiButton" target="_blank" href='https://standrewsjc.moe.edu.sg/curriculum'>Click Here!</a> </p>
         </div>
     </div>
 
@@ -222,7 +222,7 @@
         <div class="content">
             <a target="_blank" href="https://www.sji.edu.sg/" class="title">St. Joseph's Institution (SJI)</a>
             <p>St. Joseph's Institution is a Catholic secondary school for boys in Singapore. Founded in 1852 by the De La Salle Brothers, it is the first Catholic school and the third-oldest secondary school in Singapore.</p>
-            <p class="jc-curr"> <em>Want to find out more about their academic curriculum?</em> <button class="instiButton" onclick="window.location.href='https://www.sji.edu.sg/programmes/academic-programmes';">Click Here!</button> </p>
+            <p class="jc-curr"> <em>Want to find out more about their academic curriculum?</em> <a class="instiButton" target="_blank" href='https://www.sji.edu.sg/programmes/academic-programmes'>Click Here!</a> </p>
         </div>
     </div>
 
@@ -233,7 +233,7 @@
         <div class="content">
             <a target="_blank" href="https://tmjc.moe.edu.sg/" class="title">  Tampines Meridian Junior College (TMJC)</a>
             <p>Meridian Junior College was a junior college in Singapore, offering two-year pre-university courses leading up to the Singapore-Cambridge GCE Advanced Level examination. Situated in the eastern residential estate of Pasir Ris, it is the sixteenth junior college established in Singapore.</p>
-            <p class="jc-curr"> <em>Want to find out more about their academic curriculum?</em> <button class="instiButton" onclick="window.location.href='https://tmjc.moe.edu.sg/our-curriculum/instructional-programmes';">Click Here!</button> </p>
+            <p class="jc-curr"> <em>Want to find out more about their academic curriculum?</em> <a class="instiButton" target="_blank" href='https://tmjc.moe.edu.sg/our-curriculum/instructional-programmes'>Click Here!</a </p>
         </div>
     </div>
 
@@ -244,7 +244,7 @@
         <div class="content">
             <a target="_blank" href="https://www.temasekjc.moe.edu.sg/" class="title">Temasek Junior College (TJC)</a>
             <p>Temasek Junior College is a Junior College located on the eastern side of Singapore that offers a 6 years Integrated Programme alongside the 2 year GCE Advanced Level curriculum.</p>
-            <p class="jc-curr"> <em>Want to find out more about their academic curriculum?</em> <button class="instiButton" onclick="window.location.href='https://www.temasekjc.moe.edu.sg/academic/subject-combinations';">Click Here!</button> </p>
+            <p class="jc-curr"> <em>Want to find out more about their academic curriculum?</em> <a class="instiButton" target="_blank" href='https://www.temasekjc.moe.edu.sg/academic/subject-combinations'>Click Here!</a> </p>
         </div>
     </div>
 
@@ -255,7 +255,7 @@
         <div class="content">
             <a target="_blank" href="https://victoriajc.moe.edu.sg/" class="title">   Victoria Junior College (VJC)</a>
             <p>Victoria Junior College is a coeducational junior college in Singapore offering pre-university education to boarding and day-students. The school was founded in 1984, although its predecessor and affiliated institution, Victoria School, was founded in 1876.</p>
-            <p class="jc-curr"> <em>Want to find out more about their academic curriculum?</em> <button class="instiButton" onclick="window.location.href='https://victoriajc.moe.edu.sg/learn-like-a-victorian/academic-disciplines/';">Click Here!</button> </p>
+            <p class="jc-curr"> <em>Want to find out more about their academic curriculum?</em> <a class="instiButton" target="_blank" href='https://victoriajc.moe.edu.sg/learn-like-a-victorian/academic-disciplines/'>Click Here!</a> </p>
         </div>
     </div>
 
@@ -266,7 +266,7 @@
         <div class="content">
             <a target="_blank" href="https://yijc.moe.edu.sg/" class="title">Yishun Innova Junior College (YIJC)</a>
             <p>Yishun Innova Junior College is one of the 14 junior colleges in Singapore, offering two-year pre-university programmes for students who graduate from secondary schools after their O-level examinations. The two-year A-Level programme prepares students for education in local or foreign universities.</p>
-            <p class="jc-curr"> <em>Want to find out more about their academic curriculum?</em> <button class="instiButton" onclick="window.location.href='https://yijc.moe.edu.sg/curriculum/yijc-prospectus-2021';">Click Here!</button> </p>
+            <p class="jc-curr"> <em>Want to find out more about their academic curriculum?</em> <a class="instiButton" target="_blank" href='https://yijc.moe.edu.sg/curriculum/yijc-prospectus-2021'>Click Here!</a> </p>
         </div>
     </div>
 
@@ -277,7 +277,7 @@
         <div class="content">
             <a target="_blank" href="https://www.millenniainstitute.moe.edu.sg/" class="title">Millennia Institute (MI)</a>
             <p>Millennia Institute is a centralised institute in Singapore offering three-year pre-university education. It is currently the only pre-university centre to offer the Commerce stream apart from the traditional arts and science streams offered by pre-university institutions.</p>
-            <p class="jc-curr"> <em>Want to find out more about their academic curriculum?</em> <button class="instiButton" onclick="window.location.href='https://www.millenniainstitute.moe.edu.sg/admission/subject-combination';">Click Here!</button> </p>
+            <p class="jc-curr"> <em>Want to find out more about their academic curriculum?</em> <a class="instiButton" target="_blank" href='https://www.millenniainstitute.moe.edu.sg/admission/subject-combination'>Click Here!</a> </p>
         </div>
     </div>
 </div>

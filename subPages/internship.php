@@ -73,7 +73,7 @@
         <img class="thumbnail" src="images/aero.jpg" alt="">
         <div class="content">
             <h3>Aerospace</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam aperiam quaerat dolor voluptas nobis voluptates illum? Inventore voluptas dolore voluptates.</p>
+            <p>Search for Aerospace Internship jobs in Singapore if you have a strong interest in pursing career in aviation, manufacturing etc.</p>
             <a href="aerospace.php"><button class="btn">Explore Now</button></a>
         </div>
     </div>
@@ -82,7 +82,7 @@
         <img class="thumbnail" src="images/it.jpg" alt="">
         <div class="content">
             <h3>Information Technology</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam aperiam quaerat dolor voluptas nobis voluptates illum? Inventore voluptas dolore voluptates.</p>
+            <p>Search for IT Internship jobs in Singapore if you have a strong interest in pursing career in Software Engineering, App design, Information Technology, etc.</p>
             <a href="it.php"><button class="btn">Explore Now</button></a>
         </div>
     </div>
@@ -91,7 +91,7 @@
         <img class="thumbnail" src="images/accounting.jpg" alt="">
         <div class="content">
             <h3>Accounting</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam aperiam quaerat dolor voluptas nobis voluptates illum? Inventore voluptas dolore voluptates.</p>
+            <p>Search for Accounting Internship jobs in Singapore if you have a strong interest in pursing career in tax, audit, investment ect.</p>
             <a href="accounting.php"><button class="btn">Explore Now</button></a>
         </div>
     </div>
