@@ -24,7 +24,7 @@
 <header>
     <div id="menu" class="fas fa-bars"></div>
     <nav class="navbar">
-        <a href="../../homepage.php" class="logo"><img src="../images/KachingLogo_nowords.png"></a>
+        <a href="../../homepage.php" class="logo"><img src="../images/KachingLogo_nowords.png">Student Planner</a>
         <ul>
             <li class="navlist"><a href="../../homepage.php">home</a></li>
             <li class="navlist"><a href="../aboutUs.php">about</a></li>
@@ -51,7 +51,7 @@
             <li class="navlist"><a href="../feedback.php">feedback</a></li>
         </ul>
         <div class="login-msg">
-            <div>Welcome <?php echo $_SESSION['username'];?></div>
+            <div>Welcome <?php echo $_SESSION['username'];?><i class="fas fa-user-circle"></i></div>
             <a href="../../logout.php"> LOGOUT</a>
         </div>
     </nav>
