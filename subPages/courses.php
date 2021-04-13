@@ -72,8 +72,8 @@
     <div class="container">
         <img class="thumbnail" src="images/jc.jpg" alt="JC Image">
         <div class="content">
-            <h3>Junior College</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam aperiam quaerat dolor voluptas nobis voluptates illum? Inventore voluptas dolore voluptates.</p>
+            <a href="jc.php"><h3>Junior College</h3>
+            <p>Click here to see the various Junior Colleges in Singapore!</p></a>
             <a href="jc.php"><button class="btn">Explore Now</button></a>
         </div>
     </div>
@@ -81,8 +81,8 @@
     <div class="container">
         <img class="thumbnail" src="images/poly.jpg" alt="">
         <div class="content">
-            <h3>Polytechnic</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam aperiam quaerat dolor voluptas nobis voluptates illum? Inventore voluptas dolore voluptates.</p>
+            <a href="poly.php"><h3>Polytechnic</h3>
+            <p>Click here to see the various Polytechnics in Singapore and the various courses they offer!</p></a>
             <a href="poly.php"><button class="btn">Explore Now</button></a>
         </div>
     </div>
@@ -90,8 +90,8 @@
     <div class="container">
         <img class="thumbnail" src="images/uni.jpg" alt="">
         <div class="content">
-            <h3>Local University</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam aperiam quaerat dolor voluptas nobis voluptates illum? Inventore voluptas dolore voluptates.</p>
+            <a href="uni.php"><h3>Local University</h3>
+            <p>Click here to see the various Univesities in Singapore and the various courses they offer!</p></a>
             <a href="uni.php"><button class="btn">Explore Now</button></a>
         </div>
     </div>

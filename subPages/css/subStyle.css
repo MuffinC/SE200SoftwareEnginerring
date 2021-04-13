@@ -11,8 +11,9 @@
 .thumbnail{
 	flex:1 1 40rem;
     padding: .5rem 3rem .5rem .5rem;
-    height:20rem;
-    width: 50%;
+    height: 20rem;
+    object-fit: fill;
+
 }
 
 .content{
@@ -29,7 +30,7 @@
 
 .content p{
 	font-size: 1.5rem;
-    color:purple;
+    color:white;
     padding:1rem 0;
 }
 

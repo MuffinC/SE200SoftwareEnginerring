@@ -74,7 +74,7 @@
         <img src="images/tp_logo.png" alt="TP Logo">
         <div class="content">
             <a href="poly/tpschool.php" class="title">Temasek Polytechnic</a>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, beatae. Modi quos excepturi id quibusdam? Molestiae quis nihil non debitis!</p>
+            <p>Temasek Polytechnic is a post-secondary academic institution located in Tampines, Singapore. It is the third polytechnic established in the country. Temasek Polytechnic teaches an industry-focused curriculum, which is an alternative to a broader based junior college/ pre-university education.</p>
         </div>
     </div>
 
@@ -82,7 +82,7 @@
         <img src="images/nyp_logo.png" alt="NYP Logo">
         <div class="content">
             <a href="poly/nypschool.php" class="title">Nanyang Polytechnic</a>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, beatae. Modi quos excepturi id quibusdam? Molestiae quis nihil non debitis!</p>
+            <p>Nanyang Polytechnic is a polytechnic located in the precinct of Yio Chu Kang in the town of Ang Mo Kio, Singapore. As an industry-oriented alternative to a broader based junior college education, polytechnic graduates in Singapore are sought after for work or many continue to complete university degrees.</p>
         </div>
     </div>
 
@@ -90,7 +90,7 @@
         <img src="images/np_logo.png" alt="NP Logo">
         <div class="content">
             <a href="poly/npschool.php" class="title">Ngee Ann Polytechnic</a>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, beatae. Modi quos excepturi id quibusdam? Molestiae quis nihil non debitis!</p>
+            <p>Ngee Ann Polytechnic is a post-secondary education institution and statutory board under the purview of the Ministry of Education, located in Clementi, Singapore. Established in 1963, it is the second oldest polytechnic in Singapore. </p>
         </div>
     </div>
 
@@ -98,7 +98,7 @@
         <img src="images/sp_logo.png" alt="SP Logo">
         <div class="content">
             <a href="poly/spschool.php" class="title">Singapore Polytechnic</a>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, beatae. Modi quos excepturi id quibusdam? Molestiae quis nihil non debitis!</p>
+            <p>Singapore Polytechnic is a post-secondary education institution in Singapore. Established on 27 October 1954, Singapore Polytechnic is the first and oldest polytechnic in Singapore.</p>
         </div>
     </div>
 
@@ -106,7 +106,7 @@
         <img src="images/rp_logo.jpg" alt="RP Logo">
         <div class="content">
             <a href="poly/rpschool.php" class="title">Republic Polytechnic</a>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, beatae. Modi quos excepturi id quibusdam? Molestiae quis nihil non debitis!</p>
+            <p>Republic Polytechnic is an institution of higher learning in Woodlands, Singapore. Founded in 2002, it was the first school system in Singapore to use the problem-based learning pedagogy for all its diploma programmes.</p>
         </div>
     </div>
 </div>

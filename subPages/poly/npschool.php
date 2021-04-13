@@ -67,14 +67,14 @@
 <!-- header section end-->
 
 <!-- poly start-->
-<section class="poly"> 
+<section class="sub-poly"> 
 <h1 class="page-header">Ngee Ann Polytechnic</h1>    
 <div class="box-container">
     <div class="box">
         <img src="images/BA-np.jpg" alt="TP Logo">
         <div class="content">
             <a href="npbacourses.php" class="title">Business & Accountancy</a>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, beatae. Modi quos excepturi id quibusdam? Molestiae quis nihil non debitis!</p>
+            <p>At Ngee Ann’s School of Business & Accountancy (BA), where some of the most sought-after business courses are housed, you will graduate with a reputable business diploma – the gateway to a promising future!</p>
             <a target="_blank" class="LearnMoreLink center" href="https://www.np.edu.sg/ba"><em>Click Here to Learn More</em></a>
         </div>
     </div>
@@ -83,7 +83,7 @@
         <img src="images/DE-np.jpg" alt="RP Logo">
         <div class="content">
             <a href="npdecourses.php" class="title">Design & Environment</a>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, beatae. Modi quos excepturi id quibusdam? Molestiae quis nihil non debitis!</p>
+            <p>Here at DE we live design, and value the spaces around us. Our design methodology applies across all our diplomas, and our belief in sustainability inspires our learning.</p>
             <a target="_blank" class="LearnMoreLink center" href="https://www.np.edu.sg/de"><em>Click Here to Learn More</em></a>
         </div>
     </div>
@@ -92,7 +92,7 @@
         <img src="images/SOE-np.jpg" alt="NYP Logo">
         <div class="content">
             <a href="npengcourses.php" class="title">Engineering</a>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, beatae. Modi quos excepturi id quibusdam? Molestiae quis nihil non debitis!</p>
+            <p>Always keeping in times with the needs of the industry, the current unified School of Engineering (SoE) offers diverse fields in engineering and multiple learning pathways to cater to the needs of the students.</p>
             <a target="_blank" class="LearnMoreLink center" href="https://www.np.edu.sg/soe"><em>Click Here to Learn More</em></a>
         </div>
     </div>
@@ -101,7 +101,7 @@
         <img src="images/LSCT-np.jpg" alt="NP Logo">
         <div class="content">
             <a href="nplsctcourses.php" class="title">Life Sciences & Chemical Technology</a>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, beatae. Modi quos excepturi id quibusdam? Molestiae quis nihil non debitis!</p>
+            <p>Established in 1989, the School of Life Sciences and Chemical Technology (LSCT)’s mission is to give students the best R&D education and training through intensive lab and field-based training, as well as project and workplace learning.</p>
             <a target="_blank" class="LearnMoreLink center" href="https://www.np.edu.sg/lsct"><em>Click Here to Learn More</em></a>
         </div>
     </div>
@@ -110,7 +110,7 @@
         <img src="images/ICT-np.jpg" alt="SP Logo">
         <div class="content">
             <a href="npictcourses.php" class="title">InfoComm Technology</a>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, beatae. Modi quos excepturi id quibusdam? Molestiae quis nihil non debitis!</p>
+            <p>Under our highly qualified and dedicated lecturers, students work on next-gen innovative solutions to real-world problems alongside industry partners, in a Smart Learning Space well-equipped with Internet of Things.</p>
             <a target="_blank" class="LearnMoreLink center" href="https://www.np.edu.sg/ict"><em>Click Here to Learn More</em></a>
         </div>
     </div>
@@ -119,7 +119,7 @@
         <img src="images/FMS-np.jpg" alt="RP Logo">
         <div class="content">
             <a href="npfmscourses.php" class="title">Film & Media Studies</a>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, beatae. Modi quos excepturi id quibusdam? Molestiae quis nihil non debitis!</p>
+            <p>FMS graduates consistently achieve stellar results in international competitions, in securing competitive media positions, and in scholastic endeavours. Many FMS graduates are prominent professionals in the various media fields.</p>
             <a target="_blank" class="LearnMoreLink center" href="https://www.np.edu.sg/fms"><em>Click Here to Learn More</em></a>
         </div>
     </div>
@@ -128,7 +128,7 @@
         <img src="images/HMS-np.jpg" alt="RP Logo">
         <div class="content">
             <a href="nphsscourses.php" class="title">Humanities & Social Sciences</a>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, beatae. Modi quos excepturi id quibusdam? Molestiae quis nihil non debitis!</p>
+            <p>Our rigorous and innovative curriculum equips students with critical thinking skills, the ability to work collaboratively, and the passion to serve the community.</p>
             <a target="_blank" class="LearnMoreLink center" href="https://www.np.edu.sg/hms"><em>Click Here to Learn More</em></a>
         </div>
     </div>
@@ -137,7 +137,7 @@
         <img src="images/HS-np.jpg" alt="RP Logo">
         <div class="content">
             <a href="nphscourses.php" class="title">Health Sciences</a>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, beatae. Modi quos excepturi id quibusdam? Molestiae quis nihil non debitis!</p>
+            <p>The School of Health Sciences (HS) has groomed com-passionate healthcare professionals since 2005. Under a highly qualified faculty, HS maintains close links with both public and private healthcare sectors to serve community needs.</p>
             <a target="_blank" class="LearnMoreLink center" href="https://www.np.edu.sg/hs"><em>Click Here to Learn More</em></a>
         </div>
     </div>

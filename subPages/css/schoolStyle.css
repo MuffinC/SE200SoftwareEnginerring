@@ -31,6 +31,23 @@
     height: 50rem;
 }
 
+.jc .box{
+    height: 50rem;
+    position: relative;
+}
+
+.sub-poly .box{
+    height: 45rem;
+}
+
+.jc-curr{
+    font-size: 1.4rem;
+    position: absolute;
+    bottom: 5px;
+    text-align: center;
+}
+
+
 .thumbnail{
     text-align: center;
 }

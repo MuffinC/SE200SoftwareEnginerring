@@ -20,7 +20,7 @@ and password='".md5($password)."'"; //md5 is encyrmption value to un wind it
      header("Location: homepage.php");
          }else{
  echo '<section>
-<h1 class="page-header">You have entered the wrong username/password</h1>
+<h1 class="page-header">You have entered the wrong username/ password</h1>
 <div style="text-align:center; margin-top:10px;"><a class="return-to-login" href="index.php">Click here to return to Login</a></div>
 </section>';
  }

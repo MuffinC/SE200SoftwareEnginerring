@@ -67,14 +67,14 @@
 <!-- header section end-->
 
 <!-- poly start-->
-<section class="poly"> <!-- Change classes of poly, jc and uni to school? -->
+<section class="sub-poly"> <!-- Change classes of poly, jc and uni to school? -->
 <h1 class="page-header">Republic Polytechnic</h1>    
 <div class="box-container">
     <div class="box">
         <img src="images/ap-rp.jpg" alt="TP Logo">
         <div class="content">
             <a href="rpascourses.php" class="title">Applied Science</a>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, beatae. Modi quos excepturi id quibusdam? Molestiae quis nihil non debitis!</p>
+            <p>RP School of Applied Science opens the door to a world of possibilities and lifelong learning.</p>
             <a target="_blank" class="LearnMoreLink center" href="https://www.rp.edu.sg/sas"><em>Click Here to Learn More</em></a>
         </div>
     </div>
@@ -83,7 +83,7 @@
         <img src="images/engineering-rp.jpg" alt="NYP Logo">
         <div class="content">
             <a href="rpengcourses.php" class="title">Engineering</a>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, beatae. Modi quos excepturi id quibusdam? Molestiae quis nihil non debitis!</p>
+            <p>At RP School of Engineering (SEG), you will learn cutting-edge technologies and smart designs that empower you to build sophisticated machinery and equipment.</p>
             <a target="_blank" class="LearnMoreLink center" href="https://www.rp.edu.sg/seg"><em>Click Here to Learn More</em></a>
         </div>
     </div>
@@ -92,7 +92,7 @@
         <img src="images/hospitality-rp.jpg" alt="NP Logo">
         <div class="content">
             <a href="rphospcourses.php" class="title">Hospitality</a>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, beatae. Modi quos excepturi id quibusdam? Molestiae quis nihil non debitis!</p>
+            <p>Learn to deliver top-notch service efficiently with passion, pride and professionalism. Let your actions transform ordinary interactions into endless possibilities for extraordinary experiences.</p>
             <a target="_blank" class="LearnMoreLink center" href="https://www.rp.edu.sg/soh"><em>Click Here to Learn More</em></a>
         </div>
     </div>
@@ -101,7 +101,7 @@
         <img src="images/info-rp.jpg" alt="SP Logo">
         <div class="content">
             <a href="rpiccourses.php" class="title">Infocomm</a>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, beatae. Modi quos excepturi id quibusdam? Molestiae quis nihil non debitis!</p>
+            <p>School of Infocomm offers 6 full-time PET ICT programmes, recognised by both local and overseas universities; and 4 CET Specialist Diplomas. We offer continuing educational programmes and executive courses for working professionals.</p>
             <a target="_blank" class="LearnMoreLink center" href="https://www.rp.edu.sg/soi"><em>Click Here to Learn More</em></a>
         </div>
     </div>
@@ -110,7 +110,7 @@
         <img src="images/MC-rp.jpg" alt="RP Logo">
         <div class="content">
             <a href="rpmccourses.php" class="title">Management and Communication</a>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, beatae. Modi quos excepturi id quibusdam? Molestiae quis nihil non debitis!</p>
+            <p>At RP School of Management and Communication (SMC), we don’t just embrace creativity and innovation – we nurture it.</p>
             <a target="_blank" class="LearnMoreLink center" href="https://www.rp.edu.sg/smc"><em>Click Here to Learn More</em></a>
         </div>
     </div>
@@ -119,7 +119,7 @@
         <img src="images/shl-rp.jpg" alt="RP Logo">
         <div class="content">
             <a href="rpshlcourses.php" class="title">Sports, Health and Leisure</a>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, beatae. Modi quos excepturi id quibusdam? Molestiae quis nihil non debitis!</p>
+            <p>Here at RP, we offer courses in sports science, sports and leisure management, outdoor and adventure learning, health management and promotion, health services management, as well as sports coaching.</p>
             <a target="_blank" class="LearnMoreLink center" href="https://www.rp.edu.sg/shl"><em>Click Here to Learn More</em></a>
     </div>
 
@@ -128,7 +128,7 @@
         <img src="images/ta-rp.jpg" alt="RP Logo">
         <div class="content">
             <a href="rptacourses.php" class="title">Technology for the Arts</a>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, beatae. Modi quos excepturi id quibusdam? Molestiae quis nihil non debitis!</p>
+            <p>Harness your imagination, hone your artistic talents, and develop your potential to prepare you for an exciting career in the creative industry.</p>
             <a target="_blank" class="LearnMoreLink center" href="https://www.rp.edu.sg/sta"><em>Click Here to Learn More</em></a>
         </div>
     </div>

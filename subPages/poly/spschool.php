@@ -67,7 +67,7 @@
 <!-- header section end-->
 
 <!-- poly start-->
-<section class="poly"> <!-- Change classes of poly, jc and uni to school? -->
+<section class="sub-poly"> <!-- Change classes of poly, jc and uni to school? -->
 <h1 class="page-header">Singapore Polytechnic</h1>    
 <div class="box-container">
     <div class="box">

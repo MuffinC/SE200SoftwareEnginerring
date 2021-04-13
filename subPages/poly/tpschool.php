@@ -67,59 +67,59 @@
 <!-- header section end-->
 
 <!-- poly start-->
-<section class="poly"> <!-- Change classes of poly, jc and uni to school? -->
+<section class="sub-poly"> <!-- Change classes of poly, jc and uni to school? -->
 <h1 class="page-header">Temasek Polytechnic</h1>    
 <div class="box-container">
     <div class="box">
-        <img src="images/BUS-tp.png" alt="TP Logo">
+        <img src="images/BUS-tp.png" alt="TP Business Logo">
         <div class="content">
             <a href="tpbizcourses.php" class="title">Business</a>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, beatae. Modi quos excepturi id quibusdam? Molestiae quis nihil non debitis!</p>
+            <p> Discover a wide range of study areas that cover key sectors such as accountancy, media, F&B, tourism, law, logistics and marketing.</p>
             <a target="_blank" class="LearnMoreLink center" href="https://www.tp.edu.sg/bus"><em>Click Here to Learn More</em></a>
         </div>
     </div>
 
     <div class="box">
-        <img src="images/engineering-tp.png" alt="NYP Logo">
+        <img src="images/engineering-tp.png" alt="TP Engineering Picture">
         <div class="content">
             <a href="tpengcourses.php" class="title">Engineering</a>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, beatae. Modi quos excepturi id quibusdam? Molestiae quis nihil non debitis!</p>
+            <p>Receive broad-based training in core engineering areas while you specialise in exciting fields such as advanced manufacturing, aerospace, aviation, sustainable energy, integrated facility management or biomedical engineering, and get the versatility that will give you an edge in today’s digital economy!</p>
             <a target="_blank" class="LearnMoreLink center" href="https://www.tp.edu.sg/eng"><em>Click Here to Learn More</em></a>
         </div>
     </div>
 
     <div class="box">
-        <img src="images/as-tp.png" alt="NP Logo">
+        <img src="images/as-tp.png" alt="TP Applied Sciences Picture">
         <div class="content">
             <a href="tpascourses.php" class="title">Applied Sciences</a>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, beatae. Modi quos excepturi id quibusdam? Molestiae quis nihil non debitis!</p>
+            <p>To ensure our students stay relevant and competitive in a rapidly global world, our ability-driven curriculum strives to develop a future-oriented creator, lifelong learner and values-centred leader.</p>
             <a target="_blank" class="LearnMoreLink center" href="https://www.tp.edu.sg/asc"><em>Click Here to Learn More</em></a>
         </div>
     </div>
 
     <div class="box">
-        <img src="images/it-tp.png" alt="SP Logo">
+        <img src="images/it-tp.png" alt="TP Informatics & IT Picture">
         <div class="content">
             <a href="tpictcourses.php" class="title">Informatics & IT</a>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, beatae. Modi quos excepturi id quibusdam? Molestiae quis nihil non debitis!</p>
+            <p>The influence of Information Technology (IT) is all around us - in mobile apps, e-Learning lessons, computer security applications and digital games. Here you will harness the power of IT to improve business processes, ensure efficiency and enrich lives.</p>
             <a target="_blank" class="LearnMoreLink center" href="https://www.tp.edu.sg/iit"><em>Click Here to Learn More</em></a>
         </div>
     </div>
 
     <div class="box">
-        <img src="images/design-tp.png" alt="RP Logo">
+        <img src="images/design-tp.png" alt="TP Design Picture">
         <div class="content">
             <a href="tpdescourses.php" class="title">Design</a>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, beatae. Modi quos excepturi id quibusdam? Molestiae quis nihil non debitis!</p>
+            <p>Discover a comprehensive range of disciplines that will expose you to the emerging trends and concepts of the design world.</p>
             <a target="_blank" class="LearnMoreLink center" href="https://www.tp.edu.sg/des"><em>Click Here to Learn More</em></a>
         </div>
     </div>
 
     <div class="box">
-        <img src="images/hss-tp.png" alt="RP Logo">
+        <img src="images/hss-tp.png" alt="TP Humanities & Social Sciences Picture">
         <div class="content">
             <a href="tphsscourses.php" class="title">Humanities & Social Sciences</a>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, beatae. Modi quos excepturi id quibusdam? Molestiae quis nihil non debitis!</p>
+            <p>From nurturing good values in our young to assisting our silver generation maintain a healthy and active lifestyle to understanding human behaviour, our focus is on people. </p>
             <a target="_blank" class="LearnMoreLink center" href="https://www.tp.edu.sg/hss"><em>Click Here to Learn More</em></a>
         </div>
     </div>

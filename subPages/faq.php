@@ -71,6 +71,7 @@
 
 <section>
 	<h1 class="page-header">Frequently Asked Questions</h1>
+    <img class="faq-bot" src="images/faq.png">
 	<div class="box">
 		<h2>1. Account</h2>
 		<p>Can I change my username/password</p>
@@ -93,7 +94,7 @@
             <li>For ... purpose</li>
         </ul>
 	</div>
-
+    
 	<div class="box">
 		<h2>2. Feedback</h2>
 		<p>How do I use the search bar?</p>
@@ -112,8 +113,6 @@
             <li> We will try to get back to you 3-5 working day. </li>
         </ul>
 	</div>
-
-	<img src="images/faq.jfif">
 
 	<div class="box">
 		<h2>4. Search</h2>
