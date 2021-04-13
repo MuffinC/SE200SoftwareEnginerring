@@ -122,7 +122,7 @@
                         var i = j[k];
                         for(key in i)
                         {
-                            $('#courseData').append('<li class="list-group-item list-group"><strong class="courseHeader">'+k+'</strong> | <strong class="courseHeader">'+key+'</strong> | <strong class="courseHeader"> Year: '+i[key].Duration+'</strong> | <strong class="courseHeader"> Type: '+i[key].Qualification+'</strong> | <p>'+i[key].Job_Description+'</p></li>');
+                            $('#courseData').append('<li class="list-group-item list-group"><strong class="courseHeader"> Company Name:'+k+'</strong> | <strong class="courseHeader"> Position Name:'+key+'</strong> | <strong class="courseHeader"> Duration: '+i[key].Duration+'</strong> | <strong class="courseHeader"> Qualification: '+i[key].Qualification+'</strong> | <p>'+i[key].Job_Description+'</p></li>');
                         }
                     
                 }
