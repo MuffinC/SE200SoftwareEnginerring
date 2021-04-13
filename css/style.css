@@ -159,7 +159,7 @@ section{
 
 .active, .navbar ul li:hover{
     background: black;
-    border-radius: .2rem;
+    border-radius: .5rem;
 }
 
 .navcourse{
