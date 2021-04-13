@@ -46,9 +46,9 @@
             <li  class="navlist"><a href="internship.php">internship</a><i class="fa fa-angle-down"></i>
                 <nav class="navcourse">
                     <ul>
-                       <li><a href="internship.php">Engineering</a></li>
-                       <li><a href="internship.php">IT</a></li>
-                       <li><a href="internship.php">Accounting</a></li>
+                       <li><a href="aerospace.php">Aerospace</a></li>
+                       <li><a href="it.php">IT</a></li>
+                       <li><a href="accounting.php">Accounting</a></li>
                     </ul>
                 </nav>
             </li>

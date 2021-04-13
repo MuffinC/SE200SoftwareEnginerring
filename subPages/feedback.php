@@ -43,9 +43,9 @@
             <li  class="navlist"><a href="internship.php">internship</a><i class="fa fa-angle-down"></i>
                 <nav class="navcourse">
                     <ul>
-                       <li><a href="internship.php">Engineering</a></li>
-                       <li><a href="internship.php">IT</a></li>
-                       <li><a href="internship.php">Accounting</a></li>
+                       <li><a href="aerospace.php">Aerospace</a></li>
+                       <li><a href="it.php">IT</a></li>
+                       <li><a href="accounting.php">Accounting</a></li>
                     </ul>
                 </nav>
             </li>
@@ -73,7 +73,7 @@
 
 <div class="row">
     <h1 class="page-header">FEEDBACK</h1>
-    <img src="images/feedback.gif" /> 
+    <img class="fb-robot" src="images/feedback.gif" /> 
     <div class="form-container">
     <form id="feedbkr" action="sendfeed.php" method="post">
         <div class="form-group">

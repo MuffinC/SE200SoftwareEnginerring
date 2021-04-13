@@ -1,5 +1,5 @@
 <?php  
-    include("../../auth.php");
+    include("../auth.php");
 ?>
 <!DOCTYPE html>
 <html>
@@ -15,8 +15,8 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css">
 
     <!-- custom css file link  -->
-    <link rel="stylesheet" href="../../css/style.css">
-    <link rel="stylesheet" href="css/polyCourseStyle.css">
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="poly/css/polyCourseStyle.css">
 
     <!-- ajax/jQuery library dependency cdn link -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
@@ -26,35 +26,35 @@
 <header>
     <div id="menu" class="fas fa-bars"></div>
     <nav class="navbar">
-        <a href="../../homepage.php" class="logo"><img src="../images/KachingLogo_nowords.png"></a>
+        <a href="../homepage.php" class="logo"><img src="images/KachingLogo_nowords.png">Student Planner</a>
         <ul>
-            <li class="navlist"><a href="../../homepage.php">home</a></li>
-            <li class="navlist"><a href="../aboutUs.php">about</a></li>
-            <li class="active"><a href="../courses.php">course</a>
+            <li class="navlist"><a href="../homepage.php">home</a></li>
+            <li class="navlist"><a href="aboutUs.php">about</a></li>
+            <li class="navlist"><a href="courses.php">course</a>
                 <i class="fa fa-angle-down"></i>
                 <nav class="navcourse">
                     <ul>
-                       <li><a href="../poly.php">Polytechnic</a></li>
-                       <li><a href="../jc.php">Junior Collegue</a></li>
-                       <li><a href="../uni.php">University</a></li>
+                       <li><a href="poly.php">Polytechnic</a></li>
+                       <li><a href="jc.php">Junior Collegue</a></li>
+                       <li><a href="uni.php">University</a></li>
                     </ul>
                 </nav>
             </li>
-            <li  class="navlist"><a href="../internship.php">internship</a><i class="fa fa-angle-down"></i>
+            <li  class="active"><a href="internship.php">internship</a><i class="fa fa-angle-down"></i>
                 <nav class="navcourse">
                     <ul>
-                       <li><a href="../internship.php">Engineering</a></li>
-                       <li><a href="../internship.php">IT</a></li>
-                       <li><a href="../internship.php">Accounting</a></li>
+                       <li><a href="aerospace.php">Aerospace</a></li>
+                       <li><a href="it.php">IT</a></li>
+                       <li><a href="accounting.php">Accounting</a></li>
                     </ul>
                 </nav>
             </li>
-            <li class="navlist"><a href="../aptitude.php">aptitude</a></li>
-            <li class="navlist"><a href="../feedback.php">feedback</a></li>
+            <li class="navlist"><a href="aptitude.php">aptitude</a></li>
+            <li class="navlist"><a href="feedback.php">feedback</a></li>
         </ul>
         <div class="login-msg">
             <div>Welcome <?php echo $_SESSION['username'];?></div>
-            <a href="../../logout.php"> LOGOUT</a>
+            <a href="../logout.php"> LOGOUT</a>
         </div>
     </nav>
     <div style="background-color: black">
@@ -84,20 +84,20 @@
     <footer>
         <div class="footer-container2">
             <div class="container-foot2">
-                    <a class="footer-button" href="../tos.php">Terms of Service</a>
-                    <a class="footer-button" href="../pp.php">Privacy Policy</a>
+                    <a class="footer-button" href="tos.php">Terms of Service</a>
+                    <a class="footer-button" href="pp.php">Privacy Policy</a>
             </div>
 
             <div class="container-foot3">
-                    <img id="footerLogo" src="../images/KachingLogo_nowords.png">
+                    <img id="footerLogo" src="images/KachingLogo_nowords.png">
                     <i class="far fa-copyright"></i>
                     <p>2021 KACHING, inc.</p> 
                     <p>Singapore</p>
             </div>
             <div class="container-foot1">
                     <a class="footer-button2 fas fa-envelope" href="mailto:kachingntu@gmail.com" title="Send us an email!"></a>
-                    <a class="footer-button2 fas fa-paper-plane" href="../feedback.php" title="Give us Feedback!"></a>
-                    <a class="footer-button2 fas fa-question-circle" href="../faq.php" title="FAQ"></a>
+                    <a class="footer-button2 fas fa-paper-plane" href="feedback.php" title="Give us Feedback!"></a>
+                    <a class="footer-button2 fas fa-question-circle" href="faq.php" title="FAQ"></a>
             </div>
         </div>
     </footer>

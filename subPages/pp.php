@@ -41,9 +41,9 @@
             <li  class="navlist"><a href="internship.php">internship</a><i class="fa fa-angle-down"></i>
                 <nav class="navcourse">
                     <ul>
-                       <li><a href="internship.php">Engineering</a></li>
-                       <li><a href="internship.php">IT</a></li>
-                       <li><a href="internship.php">Accounting</a></li>
+                       <li><a href="aerospace.php">Aerospace</a></li>
+                       <li><a href="it.php">IT</a></li>
+                       <li><a href="accounting.php">Accounting</a></li>
                     </ul>
                 </nav>
             </li>
@@ -151,7 +151,7 @@
             </div>
             <div class="container-foot1">
                     <a class="footer-button2 fas fa-envelope" href="mailto:kachingntu@gmail.com" title="Send us an email!"></a>
-                    <a class="footer-button2 fas fa-paper-plane" href="subPages/feedback.php" title="Give us Feedback!"></a>
+                    <a class="footer-button2 fas fa-paper-plane" href="feedback.php" title="Give us Feedback!"></a>
                     <a class="footer-button2 fas fa-question-circle" href="faq.php" title="FAQ"></a>
             </div>
         </div>
