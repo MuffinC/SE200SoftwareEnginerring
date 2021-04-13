@@ -1,0 +1,1096 @@
+{
+"TP":{
+      "School of Humanities & Social Sciences":{
+      "Diploma in Early Childhood Development & Education": {
+        "year": 2020,
+        "course_code": "T68",
+        "elr2b2_type": "ELR2B2-B",
+        "elr2b2": "3 to 10",
+        "planned_intake": 140,
+        "course_description": "Get ready to be a part of Singapore’s next generation of early childhood educators. Conducted by the National Institute of Early Childhood Development (NIEC), in collaboration with Temasek Polytechnic at the NIEC (TP) Campus, this course will equip you with the necessary skills and knowledge to excel as an early childhood educator. You’ll gain insight into the complexities of child development while mastering the art of curriculum planning. You’ll also learn how to implement your skills in early childhood settings such as preschools. A practice-oriented approach to learning will see you pick up real-time industry experience as you conduct lessons side-by-side trained early childhood professionals. Graduate with the Diploma in Early Childhood Development & Education (ECDE) in the Visual Arts Track when you choose relevant electives^ in your final year. With your diploma recognised by the Early Childhood Development Agency (ECDA), you’ll be all set to enter the workforce upon your graduation.^ Subject to prevailing terms and conditions",
+        "reference": "https://www.tp.edu.sg/schools/hss/early-childhood-development-and-education"
+      },
+      "Diploma in Social Sciences in Gerontology": {
+        "year": 2020,
+        "course_code": "T53",
+        "elr2b2_type": "ELR2B2-B",
+        "elr2b2": "3 to 10",
+        "planned_intake": 140,
+        "course_description": "People are living longer these days, and the challenge for our seniors is to stay healthy, engaged and active. This also means that employers need staff with in-depth understanding of ageing to support the demands and aspirations of this sector.You can play a crucial role in helping seniors achieve active ageing by coming up with exciting programmes, initiatives and services to assist their physical, cognitive and socio-emotional well-being.",
+        "reference": "https://www.tp.edu.sg/schools/hss/social-sciences-in-gerontology"
+      },
+      "Diploma in Psychology Studies": {
+        "year": 2020,
+        "course_code": "T48",
+        "elr2b2_type": "ELR2B2-B",
+        "elr2b2": "3 to 10",
+        "planned_intake": 140,
+        "course_description": "This course gives you the perfect platform to delve deep into the human mind and discover what makes people tick. A broad foundation in the study of human behaviour and mental processes will see you learn more about how individuals think, communicate and interact with one another. With a strong focus on people, your curriculum will prepare you for a rewarding career in the social service and special needs education sectors, where psychology concepts are applied to better the lives of many. Flexibility to select electives in your areas of personal interest will also ensure your core skillset is well supplemented when you enter the workforce.",
+        "reference": "http://www.tp.edu.sg/schools/hss/psychology-studies"  
+      }
+      },
+      "School of Business":{
+      "Diploma in Marketing": {
+        "year": 2020,
+        "course_code": "T67",
+        "elr2b2_type": "ELR2B2-B",
+        "elr2b2": "3 to 10",
+        "planned_intake": 140,
+        "course_description": "The course provides students with a strong foundation in business and key competencies in marketing analytics, consumer insights & integrated marketing communications. Students will have the opportunity to specialise in either Branding & Digital Marketing or E-commerce & Retail Marketing.",
+        "reference": "http://www.tp.edu.sg/schools/bus/marketing"
+      },
+      "Diploma in Communications & Media Management": {
+        "year": 2020,
+        "course_code": "T40",
+        "elr2b2_type": "ELR2B2-B",
+        "elr2b2": "3 to 10",
+        "planned_intake": 140,
+        "course_description": "The course aims to equip students with key skills demanded by the media and media-related industry such as digital content creation and management, journalism and media production. The curriculum incorporates business elements for students to gain holistic insights into media sector business and operations.",
+        "reference": "http://www.tp.edu.sg/schools/bus/communications-and-media-management"
+      },
+      "Diploma in Culinary & Catering Management": {
+        "year": 2020,
+        "course_code": "T18",
+        "elr2b2_type": "ELR2B2-B",
+        "elr2b2": "3 to 10",
+        "planned_intake": 140,
+        "course_description": "This pioneer culinary diploma is offered in collaboration with the reputed Culinary Institute of America (CIA). The course provides students with strong business fundamentals in food & beverage (F&B) before specialising in either Baking & Pastry or Culinary Arts. This prepares them for the F&B industry including hotels, independent restaurants, bars, catering companies, beverage distributors, food and ingredient suppliers and more.",
+        "reference": "http://www.tp.edu.sg/schools/bus/culinary-and-catering-management"  
+      },
+      "Diploma in Business": {
+        "year": 2020,
+        "course_code": "T10",
+        "elr2b2_type": "ELR2B2-B",
+        "elr2b2": "3 to 10",
+        "planned_intake": 140,
+        "course_description": "This course will enhance students’ competitiveness in today’s ever-changing digitalised and interconnected world through a digitally transformative and broad-based holistic curriculum which is aligned with skills competencies and knowledge across various sectorial Skills Frameworks. Students will attain a firm foundation in business, an international business outlook, cutting-edge digital skills and an entrepreneurial mind-set. Deepening of knowledge and skills will be acquired through the choice of one of four elective clusters: Banking & Finance, Digital Business Innovation, Human Resource Management with Psychology and International Business & Entrepreneurship.",
+        "reference": "http://www.tp.edu.sg/schools/bus/business"     
+      },
+      "Diploma in Law & Management": {
+        "year": 2020,
+        "course_code": "T09",
+        "elr2b2_type": "ELR2B2-B",
+        "elr2b2": "3 to 10",
+        "planned_intake": 140,
+        "course_description": "The Diploma in Law & Management is the only law related polytechnic diploma in Singapore. With both business management subjects and law subjects, it aims to prepare students to join the legal industry as paralegals, administrators and law office managers.",
+        "reference": "http://www.tp.edu.sg/schools/bus/law-and-management"     
+      },
+      "Diploma in Hospitality & Tourism Management": {
+        "year": 2020,
+        "course_code": "T08",
+        "elr2b2_type": "ELR2B2-B",
+        "elr2b2": "3 to 10",
+        "planned_intake": 140,
+        "course_description": "The course aims to cultivate in students a service oriented mindset and refine their skills in one of 3 tracks - Hotel & Accommodation, Travel & Tourism, or MICE & Events. Student will be equipped with industry-relevant skills and innovative qualities to meet the challenges of the dynamic hospitality and tourism sector.",
+        "reference": "http://www.tp.edu.sg/schools/bus/hospitality-and-tourism-management"     
+      },
+      "Diploma in Logistics & Operations Management": {
+        "year": 2020,
+        "course_code": "T07",
+        "elr2b2_type": "ELR2B2-B",
+        "elr2b2": "3 to 10",
+        "planned_intake": 140,
+        "course_description": "This pioneer polytechnic course in Logistics provides students with a strong foundation in business studies and specialised training in essential supply chain functions such as freight forwarding operations and supply chain management to meet the challenges in a technology-driven and globalised world.",
+        "reference": "http://www.tp.edu.sg/schools/bus/logistics-and-operations-management"     
+      },
+      "Diploma in Accountancy & Finance": {
+        "year": 2020,
+        "course_code": "T02",
+        "elr2b2_type": "ELR2B2-B",
+        "elr2b2": "3 to 10",
+        "planned_intake": 140,
+        "course_description": "The course will provide you with a dual specialisation in both accountancy and finance so that you have more career choices and further education options. You will be equipped with the core business competencies and professional training to excel in high-growth areas in the accounting and financial services industries.",
+        "reference": "https://www.tp.edu.sg/schools/bus/accountancy-and-finance"     
+      },
+      "Common Business Programme": {
+        "year": 2020,
+        "course_code": "T01",
+        "elr2b2_type": "ELR2B2-B",
+        "elr2b2": "3 to 10",
+        "planned_intake": 140,
+        "course_description": "The Common Business Programme (CBP) is designed to enable students to gain a good understanding of business fundamentals. Students will get to study various core business subjects to discover their strengths, aptitudes, interests and career aspirations before they make an informed decision on their preferred diploma at the end of the first semester.",
+        "reference": "https://www.tp.edu.sg/schools/bus/common-business-programme"     
+      }
+      },
+      "School of Engineering":{
+      "Diploma in Mechatronics": {
+        "year": 2020,
+        "course_code": "T66",
+        "elr2b2_type": "ELR2B2-B",
+        "elr2b2": "3 to 10",
+        "planned_intake": 140,
+        "course_description": "This course begins with a solid foundation in fundamental engineering knowledge and skills, which will then expand into core competency area such as automation, robotics, mechatronics design, programmable logic controllers, electromechanical, pneumatics, vision systems, computer numerical control, sensors integration, microcontroller programming and control engineering. The aims of this course are to produce competent and conscientious Mechatronics technologists who will be able to meet the demands of the industries, and have the ability to acquire knowledge and skills relevant to their profession.",
+        "reference": "http://www.tp.edu.sg/schools/eng/mechatronics"
+      },
+      "Diploma in Electronics": {
+        "year": 2020,
+        "course_code": "T65",
+        "elr2b2_type": "ELR2B2-B",
+        "elr2b2": "3 to 10",
+        "planned_intake": 140,
+        "course_description": "The course trains young professionals to support continuing growth in the important electronics industry as well as the wide application of electronics across various other industries. It is a structured diploma course that provides broad-based training with specialised electives, covering areas such as analogue and digital applications, software, embedded system control and data analytics to address the growing needs of the industry. With the emergence of industry 4.0 and technologies such as smart systems, robotics, automation, artificial intelligence and the Internet of Things (IoT) in applications related to not only manufacturing but also fields such as aerospace and healthcare, this course will groom professionals who can offer the multi-disciplinary solutions that will be required in today’s new economy.",
+        "reference": "http://www.tp.edu.sg/schools/eng/electronics"
+      },
+      "Common Engineering Programme": {
+        "year": 2020,
+        "course_code": "T56",
+        "elr2b2_type": "ELR2B2-B",
+        "elr2b2": "3 to 10",
+        "planned_intake": 140,
+        "course_description": "The Common Engineering Programme is a common entry point for eight engineering diploma courses at School of Engineering in Temasek Polytechnic. Students select the diploma of your choice during their first year.",
+        "reference": "http://www.tp.edu.sg/schools/eng/common-engineering-programme"  
+      },
+      "Diploma in Clean Energy": {
+        "year": 2020,
+        "course_code": "T52",
+        "elr2b2_type": "ELR2B2-B",
+        "elr2b2": "3 to 10",
+        "planned_intake": 140,
+        "course_description": "With worldwide concerns on the huge impacts of climate change, the adoption of modern technological solutions in sustainable city development has become extremely urgent today. This course aims to equip the students with industry relevant skills in the modern electrification, automation and data analytics. Our graduates will be able to work competently in dynamic sectors related to urban sustainability such as modern electricity, green transportation, smart infrastructure and advanced manufacturing.",
+        "reference": "http://www.tp.edu.sg/schools/eng/clean-energy"     
+      },
+      "Diploma in Aerospace Engineering": {
+        "year": 2020,
+        "course_code": "T51",
+        "elr2b2_type": "ELR2B2-B",
+        "elr2b2": "3 to 10",
+        "planned_intake": 140,
+        "course_description": "The desired outcomes of this course are that gradates should be able to 1. Understand legislation and human factors in the aviation industry, 2. Demonstrate knowledge and skills relevant to common aircraft maintenance, repair and overhaul (MRO) practices and procedures, 3. Demonstrate knowledge and skills required in the MRO of aircraft engine and airframe, 4. Understand and apply fundamental electrical, electronics and mathematics knowledge and skills in basic avionics system, 5. Understand basic aircraft aerodynamics principles, 6. Demonstrate such lifelong skills as problem solving, effective communication skills, team and independent work skills, and adaptability to changing technologies, and 7. Demonstrate positive attitudes such as a desire for continuous upgrading of knowledge and skills, initiative, integrity, and responsibility.",
+        "reference": "https://www.tp.edu.sg/schools/eng/aerospace-engineering"     
+      },
+      "Diploma in Aerospace Electronics": {
+        "year": 2020,
+        "course_code": "T50",
+        "elr2b2_type": "ELR2B2-B",
+        "elr2b2": "3 to 10",
+        "planned_intake": 140,
+        "course_description": "The desired outcomes of the course are that graduates should be able to:1.         Understand aviation legislations, human factors and their impacts on the aviation industry. 2.         Demonstrate knowledge and practical skills relevant to common aircraft maintenance, repair and overhaul (MRO) practices and procedures. 3.         Demonstrate knowledge and skills in relation to the operation of aircraft electrical and avionic systems.4.         Understand and apply fundamental Electrical, Electronics and Mathematics knowledge and skills in avionic systems.5.         Understand basic aircraft aerodynamic principles and its applications in the operation of an aircraft.6.         Demonstrate lifelong skills such as problem solving, effective communication skills, team and independent work skills, and adaptability to changing technologies.7.         Demonstrate positive attitudes such as a desire for continuous upgrading of knowledge and skills, initiative, integrity, and responsibility.",
+        "reference": "http://www.tp.edu.sg/schools/eng/aerospace-electronics"     
+      },
+      "Diploma in Business Process & Systems Engineering": {
+        "year": 2020,
+        "course_code": "T43",
+        "elr2b2_type": "ELR2B2-B",
+        "elr2b2": "3 to 10",
+        "planned_intake": 140,
+        "course_description": "The diploma aims to equip graduates with the knowledge and skills to support the manufacturing and service industries.The program is designed to prepare our students for diverse careers, from opportunities in systems engineering to opportunities in manufacturing, logistics and service oriented industries.",
+        "reference": "http://www.tp.edu.sg/schools/eng/business-process-and-systems-engineering"     
+      },
+      "Diploma in Biomedical Engineering": {
+        "year": 2020,
+        "course_code": "T38",
+        "elr2b2_type": "ELR2B2-B",
+        "elr2b2": "3 to 10",
+        "planned_intake": 140,
+        "course_description": "The course curriculum was designed and developed to meet the needs of the industry and to be aligned with TP Desired Graduate Profile.The diploma aims to equip graduates with the knowledge and skills to support the biomedical sciences industry in Singapore.The 3-year program is designed to prepare our students for diverse careers, from opportunities in biomedical sciences to opportunities in electronics industries.",
+        "reference": "http://www.tp.edu.sg/schools/eng/biomedical-engineering"     
+      },
+      "Diploma in Green Building & Sustainability": {
+        "year": 2020,
+        "course_code": "T29",
+        "elr2b2_type": "ELR2B2-B",
+        "elr2b2": "3 to 10",
+        "planned_intake": 140,
+        "course_description": "The course will equip students with the fundamental building services knowledge and practical skills to meet the needs of the emerging green building industry locally and globally. The rigorous academic training, conducted by highly qualified professionals such as architects, engineers, project managers and facility managers, will groom competent and industry-ready graduates who will be able to make a mark in the built environment sector, particularly in the areas of Green Building Assessment, Simulation and Modelling as well as Energy Management and Audit.",
+        "reference": "http://www.tp.edu.sg/schools/eng/green-building-and-sustainability"     
+      },
+      "Diploma in Integrated Facility Management": {
+        "year": 2020,
+        "course_code": "T28",
+        "elr2b2_type": "ELR2B2-B",
+        "elr2b2": "3 to 10",
+        "planned_intake": 140,
+        "course_description": "The course team has designed and developed the course curriculum with a balance of industry needs and alignment with the TP Desired Graduate Profile and the International Facility Management Association (IFMA) competencies. This Diploma focuses on bringing students into the multi-disciplinary FM profession by equipping them with Technical and Management Skills to integrate people, place and process in a built environment.In October 2010, the Diploma became the first Diploma in the world to be awarded the International Facility Management Association (IFMA) Foundation Accredited Degree Program – a testimonial of the high standard of our diploma program. The objective is therefore to train a group of Para-professionals who will meet the needs of the Facility Management industry, and who in turn would have a good head start if they were to pursue the certification of an FM Professional, mapping them against the eleven competencies defined by IFMA.",
+        "reference": "http://www.tp.edu.sg/schools/eng/integrated-facility-management"     
+      },
+      "Diploma in Computer Engineering": {
+        "year": 2020,
+        "course_code": "T13",
+        "elr2b2_type": "ELR2B2-B",
+        "elr2b2": "3 to 10",
+        "planned_intake": 140,
+        "course_description": "The diploma aims to equip students with the knowledge and skills in computer systems, embedded systems, networking, enterprise and web-based development in order to meet the demand for graduates with hardware, software and system integration skills brought about by the rapid growth of the emerging trends such as internet of things, wireless sensor networks and cloud computing, as well as the Smart Nation Initiative in Singapore and beyond.",
+        "reference": "http://www.tp.edu.sg/schools/eng/computer-engineering"     
+      },
+      "Diploma in Aviation Management": {
+        "year": 2020,
+        "course_code": "T04",
+        "elr2b2_type": "ELR2B2-B",
+        "elr2b2": "3 to 10",
+        "planned_intake": 140,
+        "course_description": "The desired outcomes of the course are that graduates should be able to 1. Synthesize basic aviation knowledge in related aviation domains, 2. Develop and implement aviation operational processes, 3. Manage safety and security in aviation operations, 4. Integrate project management methodology in aviation, 5. Use IT productivity tools to evaluate and enhance aviation operations, 6.Demonstrate effective communication and interpersonal skills in related aviation domains, 7. Apply problem solving and critical thinking skills in aviation related issues, 8. Demonstrate teamwork and dispositions of integrity, resilience, and attention to details, and 9.Display drive for continuous learning, improvement, and knowledge of aviation trends.",
+        "reference": "https://www.tp.edu.sg/schools/eng/aviation-management"     
+      }
+      },
+      "School of Applied Science":{
+      "Diploma in Medical Biotechnology": {
+        "year": 2020,
+        "course_code": "T64",
+        "elr2b2_type": "ELR2B2-B",
+        "elr2b2": "3 to 10",
+        "planned_intake": 140,
+        "course_description": "This diploma trains you to play a part in medical doctors’ diagnoses through performing a range of laboratory tests to help identify diseases, and in the research and development that leads to new biological discoveries for improving healthcare and our everyday lives. This course provides detailed knowledge of key concepts in cell technology, molecular analysis, microbiology technology, biochemical analysis, clinical diagnostics, and how these approaches are applied in areas relevant to medical applications such as restoring functions of tissues or organs that are injured or diseased, using stem cells to treat diseases, developing customised treatment to individual patient, performing tests to assist medical doctors’ diagnosis, etc. Not only does this course equip you with broad theoretical knowledge and critical understanding of principles in biotechnology and clinical diagnostics, it also helps you to gain the practical skills required to underpin a career within a research or clinical environment. You will also be exposed to new emerging technologies, such as stem cell therapy, point-of-care diagnostic testing, and personalised medicine research that would transform medicine and revolutionise the healthcare system.",
+        "reference": "http://www.tp.edu.sg/schools/asc/medical-biotechnology"
+      },
+      "Diploma in Veterinary Technology": {
+        "year": 2020,
+        "course_code": "T45",
+        "elr2b2_type": "ELR2B2-B",
+        "elr2b2": "3 to 10",
+        "planned_intake": 140,
+        "course_description": "Achieve your life-long dream of working with animals! This course focuses on establishing a solid foundation in the basic and applied animal sciences, with a strong emphasis on skills-based and hands-on training that will equip you well to work in the veterinary, aquaculture, wildlife conservation and scientific research industries. As the only polytechnic with a licensed animal clinic and the Centre for Aquaculture and Veterinary Science (CAVS), there will be ample opportunities for you to assist in actual procedures in the TP Animal and Wellness Clinic or participate in research projects at CAVS. With our extensive network of industrial training partners and authentic pre-internship on-the-job training at animal hospitals and clinics, this course encourages you to relate academic learning to the relevant work environment and stay abreast with emerging veterinary skills. Choose to hone industry-recognised skills in veterinary practice and research or aquaculture through our final year elective subjects, and get a headstart in your career through our intensive six-month internship programme in relevant animal- or aquaculture-related industries, both locally or overseas",
+        "reference": "https://www.tp.edu.sg/schools/asc/veterinary-technology"
+      },
+      "Diploma in Chemical Engineering": {
+        "year": 2020,
+        "course_code": "T33",
+        "elr2b2_type": "ELR2B2-B",
+        "elr2b2": "3 to 10",
+        "planned_intake": 140,
+        "course_description": "Oil refinery giants, major manufacturers of petrochemicals and specialty chemicals, semiconductor industry and pharmaceutical giants all have a strong presence in Singapore. These companies, rooted in such diverse fields, have one thing in common — they rely on chemical engineers in all aspects of their operations. Chemical engineers are involved in the manufacture of products such as fuel, petrochemicals, cosmetics, plastics, microelectronic chips, processed foods and medicine so that we can enjoy and reap the benefits of scientific discoveries. They hold crucial responsibilities in the process industry such as running plant operations, designing reactors and process equipment, improving efficiency as well as looking into the safety and environmental aspects of processes. This course will equip you with skills and knowledge in chemical process technology, environmental technology and occupational safety and health, so that you will be able operate and optimise manufacturing systems that produces the various products that we use in our daily lives. Moreover, you will be trained in analytical chemistry and laboratory techniques so that you will be well trained to do research and testing for the Chemical and Pharmaceutical Industry. You will have opportunities for local or overseas internships at MNCs and reputable institutions.",
+        "reference": "http://www.tp.edu.sg/schools/asc/chemical-engineering"  
+      },
+      "Diploma in Food, Nutrition & Culinary Science": {
+        "year": 2020,
+        "course_code": "T26",
+        "elr2b2_type": "ELR2B2-B",
+        "elr2b2": "3 to 10",
+        "planned_intake": 140,
+        "course_description": "What aspects of food really intrigue you? Experimenting with time-honoured recipes of our heritage cuisine to give them an updated healthy makeover? Exploring factors affecting the sensory characteristics of food such as wok hei? The health-promoting, disease-preventing nutrients and non-nutrient compounds? How do food manufacturers produce items with such high quality and consistency time after time?When you undertake this course, you will have opportunities to explore all the areas above....and MORE! With a strong emphasis on hands-on experience to ground you in basic culinary, lab and nutrition assessment skills, to embracing new technologies in our food processing facilities, innovative pedagogies such as problem-based learning and the flipped classroom approach, and industry internships, you are in for some powerful learning! When you graduate, your industry-ready skills will give you a strong edge for careers in nutrition and the food industries.",
+        "reference": "https://www.tp.edu.sg/schools/asc/food-nutrition-and-culinary-science"  
+      },
+      "Diploma in Pharmaceutical Science": {
+        "year": 2020,
+        "course_code": "T25",
+        "elr2b2_type": "ELR2B2-B",
+        "elr2b2": "3 to 10",
+        "planned_intake": 140,
+        "course_description": "Do you have a passion to safeguard health by making quality drugs and imparting knowledge on the safe use of medicines? If so, this course is for you! You will learn about the effects of medicines on the human body and how they work to cure diseases, and acquire the knowledge and skills required to design, analyse, manufacture and market new therapies.With a rapidly growing ageing population and higher incidence of lifestyle-related illnesses such as Type 2 diabetes and heart diseases, there an increase demand for healthcare services, pharmaceutical and biologic drugs. In addition, with new hospitals, polyclinics and nursing homes in the pipeline, there will also be an unprecedented need for pharmacy technicians and pharmacists in Singapore to work in this industry.This course will build your foundation in chemistry and biology, and equip you with the knowledge and core skills in pharmacy practice, pharmaceutical and biopharmaceutical technologies and analysis. You will learn specialised subjects related to drug action on diseases, medicine legislation and patient counselling to prepare you for work in pharmacies. You will also learn about pharmaceutical manufacturing and bioprocessing technologies and good manufacturing practice. In your third year of study, you can choose to specialize either in the Pharmacy Practice or Pharmaceuticals and Biologics elective cluster, where you will deepen your knowledge in these areas and apply your skills in the relevant fields during the six-month enhanced internship programme. You will be able to take up an internship position at hospitals, retail pharmacies, pharmaceutical manufacturing industry, or QC and research laboratories in Singapore or overseas.",
+        "reference": "http://www.tp.edu.sg/schools/asc/pharmaceutical-science"  
+      }
+      },
+      "School of Informatics & IT":{
+      "Common ICT Programme": {
+        "year": 2020,
+        "course_code": "T63",
+        "elr2b2_type": "ELR2B2-B",
+        "elr2b2": "3 to 10",
+        "planned_intake": 140,
+        "course_description": "The Common ICT Programme provides you with the time you need to learn more about IT fundamentals and the various ICT courses TP offers.The strong foundation you will gain in your first year is also the experience you can tap on to make an informed decision on the path you wish to pursue.",
+        "reference": "https://www.tp.edu.sg/schools/iit/common-ict-programme"
+      },
+      "Diploma in Cybersecurity & Digital Forensics": {
+        "year": 2020,
+        "course_code": "T62",
+        "elr2b2_type": "ELR2B2-B",
+        "elr2b2": "3 to 10",
+        "planned_intake": 140,
+        "course_description": "The Diploma in Cybersecurity & Digital Forensics trains students with skills to meet the huge demand in industry for cybersecurity and digital forensics professionals in a wide range of business and organisations. With the acute manpower shortages in the cybersecurity workforce, organisations expect their security staff to possess not just the traditional cybersecurity skills, but also incident response and forensic investigation skills.",
+        "reference": "https://www.tp.edu.sg/schools/iit/cybersecurity-and-digital-forensics"
+      },
+      "Diploma in Big Data & Analytics": {
+        "year": 2020,
+        "course_code": "T60",
+        "elr2b2_type": "ELR2B2-B",
+        "elr2b2": "3 to 10",
+        "planned_intake": 140,
+        "course_description": "This Diploma will help you harness the real power of data analytics and turn you into the go-to person organisations consult to unlock their true potential. With Singapore’s emergence as an international Data and Analytics hub, you will be in the best position to land a rewarding career as a big data professional.",
+        "reference": "https://www.tp.edu.sg/schools/iit/big-data-and-analytics"  
+      },
+      "Diploma in Game Design & Development": {
+        "year": 2020,
+        "course_code": "T58",
+        "elr2b2_type": "ELR2B2-B",
+        "elr2b2": "3 to 10",
+        "planned_intake": 140,
+        "course_description": "The course meets industry demands for professionals with the skills to develop games that would be used in industry for training, teaching, simulations and leisure. The course equips students with foundation skills in computer science, as well as the fundamental skills of game design and game development. The course takes a student-centred approach that encourages students to explore existing and new technologies in depth, and to translate what they learn into the social, workplace, and national contexts. In addition to understanding current technology, the pace of digital game development requires students to be able to learn new skills quickly and independently.",
+        "reference": "http://www.tp.edu.sg/schools/iit/game-design-and-development-t58"  
+      },
+      "Diploma in Information Technology": {
+        "year": 2020,
+        "course_code": "T30",
+        "elr2b2_type": "ELR2B2-B",
+        "elr2b2": "3 to 10",
+        "planned_intake": 140,
+        "course_description": "This course helps meet the demand in industry for strong software developers. It emphasises broad-based training with opportunities to develop deep skills through the projects that students undertake. The course encourages students to explore existing and new technologies in depth, and to translate what they learn into the social, workplace, and national contexts. In addition to understanding current technology, the pace of IT development requires students to be able to learn new skills quickly and independently. Besides providing a strong computer science foundation, up-to-date topics in software engineering, object-oriented analysis and design, web-based and enterprise application development, software system security, software testing, communication skills and team work are incorporated into the curriculum to provide students the depth and breadth of knowledge and skills required of IT professionals.",
+        "reference": "http://www.tp.edu.sg/schools/iit/information-technology"  
+      },
+      "Diploma in Financial Business Informatics": {
+        "year": 2020,
+        "course_code": "T17",
+        "elr2b2_type": "ELR2B2-B",
+        "elr2b2": "3 to 10",
+        "planned_intake": 140,
+        "course_description": "The Diploma in Financial Business Informatics (FBI) was launched to develop professionals to meet the manpower needs of the Information Technology (IT) and Financial Services Industry (FSI). Students in this course undertake a broad-based curriculum in information technology while at the same time deepening their skills in the areas of Fintech and the financial services industry. This enables students to see the link between subjects and enables them to integrate their skills to develop real applications from their first year, within the financial domain.",
+        "reference": "http://www.tp.edu.sg/schools/iit/financial-business-informatics"  
+      }
+      },
+      "School of Design":{
+      "Diploma in Communication Design": {
+        "year": 2020,
+        "course_code": "T59",
+        "elr2b2_type": "ELR2B2-B",
+        "elr2b2": "3 to 10",
+        "planned_intake": 140,
+        "course_description": "The Diploma in Communication Design grooms design professionals who can design and communicate creatively and effectively in the areas of advertising, graphic design, image-making and digital design.The curriculum encompasses design studies in and beyond the area of communication design. Through the rigor of a practice-based curriculum developed with feedback from the creative community, students are constantly challenged to develop strong skills in creative and conceptual thinking, multi-disciplinary capability and technological competency. Essential skills covered include creative ideation, print and publication, digital skills and professional practice. Students are trained in all aspects of graphic design while specialising in one of three specialisations; namely: Branding Design, Image Design and Integrated Communication.",
+        "reference": "https://www.tp.edu.sg/schools/des/communication-design"
+      },
+      "Diploma in Product & Industrial Design": {
+        "year": 2020,
+        "course_code": "T35",
+        "elr2b2_type": "ELR2B2-B",
+        "elr2b2": "3 to 10",
+        "planned_intake": 140,
+        "course_description": "The ability to blend ideation, technology and craftsmanship is a 21st century skill that is very much valued by industry today. The Diploma in Product & Industrial Design's project-driven curriculum places strong emphasis on creating better products and experiences through human-centred design. Underpinning the technical and creative skillsets provided by the course is a strong synergistic partnership with industry. Through many 'live' industry projects with actual clients and real briefs, students are exposed to current industry trends and practices. The TP Product & Industrial Design graduate is highly sought-after by startups and established firms in space-making, consumer electronics, communication, fashion, technology and even in non-traditional sectors such as banks, government agencies and hospitals.",
+        "reference": "https://www.tp.edu.sg/schools/des/product-and-industrial-design"
+      },
+      "Diploma in Digital Film & Television": {
+        "year": 2020,
+        "course_code": "T23",
+        "elr2b2_type": "ELR2B2-B",
+        "elr2b2": "3 to 10",
+        "planned_intake": 140,
+        "course_description": "The Diploma in Digital Film & Television focuses on the development of creative skills in content creation for the motion picture and television mediums. Students are trained to create content that is commercially viable and exportable, in the non-fictional areas of factual and entertainment programmes as well as in fictional films. Subjects cover creative and technical skills and knowledge that are commonly required in the pre and post-production process of video creation. Graduates will be able to conceptualize projects and develop strong stories that will resonate with viewers. The exposure to client-based projects will familiarise them with current industry practices, allowing them to fit seamlessly into production teams upon graduation.",
+        "reference": "https://www.tp.edu.sg/schools/des/digital-film-and-television"  
+      },
+      "Diploma in Interior Architecture & Design": {
+        "year": 2020,
+        "course_code": "T22",
+        "elr2b2_type": "ELR2B2-B",
+        "elr2b2": "3 to 10",
+        "planned_intake": 140,
+        "course_description": "The Diploma in Interior Architecture & Design trains students to be versatile designers of interior spaces that adapt to people’s needs while considering location, cultural and socio-economic factors. Students are encouraged to explore contemporary social issues and constraints that affect the design of spaces. They will study global trends in lifestyle, culture, sustainability and social change and gain a more holistic perspective of design which will help them provide thoughtful, human-centric and balanced solutions to complex design problems.The course works closely with the industry through ‘live’ collaborative projects, mentorship and internship opportunities. We partner with reputable design studios and clients such as Ong & Ong, SCDA, FARM, DP Architects, DBS, Google Asia, and many more. Study trips, competitions, exchange programmes and a rigorous project-led curriculum will help shape your critical thinking skills and the technical skillsets needed for good design work, and in doing so, prepare you for a successful career in the design field.",
+        "reference": "https://www.tp.edu.sg/schools/des/interior-architecture-and-design"  
+      },
+      "Diploma in Apparel Design & Merchandising": {
+        "year": 2020,
+        "course_code": "T20",
+        "elr2b2_type": "ELR2B2-B",
+        "elr2b2": "3 to 10",
+        "planned_intake": 140,
+        "course_description": "The Diploma in Apparel Design & Merchandising provides a holistic overview of the fashion industry, giving students broad-based knowledge and fundamental skillsets in the technical aspects of design conceptualisation, garment construction and merchandising before inviting them to specialise in either Fashion Design or Retail Merchandising. Graduates will develop a keen sense of fashion industry trends and be familiar with the business and production processes of the apparel manufacturing industry. Fundamentally strong in broad core technical skills, they also have depth of expertise in a specialized area. The practice-based curriculum ensures that graduates will fit easily into key roles in the fashion industry's production chain, from creative design conceptualisation, technical production to the front end business roles of buying, strategic marketing and branding.",
+        "reference": "https://www.tp.edu.sg/schools/des/apparel-design-and-merchandising"  
+      }
+      }
+  },
+  "RP":{
+      "School of InfoComm":{
+      "Diploma in Information Technology": {
+        "year": 2020,
+        "course_code": "R12",
+        "elr2b2_type": "ELR2B2-B",
+        "elr2b2": "3 to 10",
+        "planned_intake": 140,
+        "course_description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quo ex doloremque exercitationem cupiditate voluptate vel doloribus eligendi possimus, qui alias veritatis neque nesciunt, incidunt, aliquid rem excepturi quasi velit labore? Explicabo autem accusantium dolore harum quos nulla in itaque, provident rerum velit officiis veritatis eligendi commodi? Soluta nam consequatur quod?",
+        "reference": "https://www.rp.edu.sg/SOI/full-time-diplomas/Details/diploma-in-information-technology"
+      },
+      "Diploma in Business Information Systems": {
+        "year": 2020,
+        "course_code": "R13",
+        "elr2b2_type": "ELR2B2-B",
+        "elr2b2": "3 to 10",
+        "planned_intake": 140,
+        "course_description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quo ex doloremque exercitationem cupiditate voluptate vel doloribus eligendi possimus, qui alias veritatis neque nesciunt, incidunt, aliquid rem excepturi quasi velit labore? Explicabo autem accusantium dolore harum quos nulla in itaque, provident rerum velit officiis veritatis eligendi commodi? Soluta nam consequatur quod?",
+        "reference": "https://www.rp.edu.sg/SOI/full-time-diplomas/Details/diploma-in-business-information-systems"
+      },
+      "Diploma in Financial Technology": {
+        "year": 2020,
+        "course_code": "R18",
+        "elr2b2_type": "ELR2B2-B",
+        "elr2b2": "3 to 10",
+        "planned_intake": 140,
+        "course_description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quo ex doloremque exercitationem cupiditate voluptate vel doloribus eligendi possimus, qui alias veritatis neque nesciunt, incidunt, aliquid rem excepturi quasi velit labore? Explicabo autem accusantium dolore harum quos nulla in itaque, provident rerum velit officiis veritatis eligendi commodi? Soluta nam consequatur quod?",
+        "reference": "https://www.rp.edu.sg/SOI/full-time-diplomas/Details/diploma-in-financial-technology"  
+      },
+      "Diploma in Digital Design & Development": {
+        "year": 2020,
+        "course_code": "R47",
+        "elr2b2_type": "ELR2B2-B",
+        "elr2b2": "3 to 10",
+        "planned_intake": 140,
+        "course_description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quo ex doloremque exercitationem cupiditate voluptate vel doloribus eligendi possimus, qui alias veritatis neque nesciunt, incidunt, aliquid rem excepturi quasi velit labore? Explicabo autem accusantium dolore harum quos nulla in itaque, provident rerum velit officiis veritatis eligendi commodi? Soluta nam consequatur quod?",
+        "reference": "https://www.rp.edu.sg/SOI/full-time-diplomas/Details/diploma-in-digital-design-and-development"  
+      },
+      "Diploma in Infocomm Security Management": {
+        "year": 2020,
+        "course_code": "R55",
+        "elr2b2_type": "ELR2B2-B",
+        "elr2b2": "3 to 10",
+        "planned_intake": 140,
+        "course_description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quo ex doloremque exercitationem cupiditate voluptate vel doloribus eligendi possimus, qui alias veritatis neque nesciunt, incidunt, aliquid rem excepturi quasi velit labore? Explicabo autem accusantium dolore harum quos nulla in itaque, provident rerum velit officiis veritatis eligendi commodi? Soluta nam consequatur quod?",
+        "reference": "https://www.rp.edu.sg/SOI/full-time-diplomas/Details/diploma-in-infocomm-security-management"  
+      }
+      },
+      "School of Applied Science":{
+      "Diploma in Biomedical Science": {
+        "year": 2020,
+        "course_code": "R14",
+        "elr2b2_type": "ELR2B2-B",
+        "elr2b2": "3 to 10",
+        "planned_intake": 140,
+        "course_description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quo ex doloremque exercitationem cupiditate voluptate vel doloribus eligendi possimus, qui alias veritatis neque nesciunt, incidunt, aliquid rem excepturi quasi velit labore? Explicabo autem accusantium dolore harum quos nulla in itaque, provident rerum velit officiis veritatis eligendi commodi? Soluta nam consequatur quod?",
+        "reference": "https://www.rp.edu.sg/SAS/full-time-diplomas/Details/diploma-in-biomedical-science"
+      },
+      "Diploma in Biotechnology": {
+        "year": 2020,
+        "course_code": "R16",
+        "elr2b2_type": "ELR2B2-B",
+        "elr2b2": "3 to 10",
+        "planned_intake": 140,
+        "course_description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quo ex doloremque exercitationem cupiditate voluptate vel doloribus eligendi possimus, qui alias veritatis neque nesciunt, incidunt, aliquid rem excepturi quasi velit labore? Explicabo autem accusantium dolore harum quos nulla in itaque, provident rerum velit officiis veritatis eligendi commodi? Soluta nam consequatur quod?",
+        "reference": "https://www.rp.edu.sg/SAS/full-time-diplomas/Details/diploma-in-biotechnology"
+      },
+      "Diploma in Materials Science": {
+        "year": 2020,
+        "course_code": "R17",
+        "elr2b2_type": "ELR2B2-B",
+        "elr2b2": "3 to 10",
+        "planned_intake": 140,
+        "course_description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quo ex doloremque exercitationem cupiditate voluptate vel doloribus eligendi possimus, qui alias veritatis neque nesciunt, incidunt, aliquid rem excepturi quasi velit labore? Explicabo autem accusantium dolore harum quos nulla in itaque, provident rerum velit officiis veritatis eligendi commodi? Soluta nam consequatur quod?",
+        "reference": "https://www.rp.edu.sg/SAS/full-time-diplomas/Details/diploma-in-materials-science"  
+      },
+      "Diploma in Pharmaceutical Science": {
+        "year": 2020,
+        "course_code": "R22",
+        "elr2b2_type": "ELR2B2-B",
+        "elr2b2": "3 to 10",
+        "planned_intake": 140,
+        "course_description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quo ex doloremque exercitationem cupiditate voluptate vel doloribus eligendi possimus, qui alias veritatis neque nesciunt, incidunt, aliquid rem excepturi quasi velit labore? Explicabo autem accusantium dolore harum quos nulla in itaque, provident rerum velit officiis veritatis eligendi commodi? Soluta nam consequatur quod?",
+        "reference": "https://www.rp.edu.sg/SAS/full-time-diplomas/Details/diploma-in-pharmaceutical-science"     
+      },
+      "Diploma in Environmental Science": {
+        "year": 2020,
+        "course_code": "R29",
+        "elr2b2_type": "ELR2B2-B",
+        "elr2b2": "3 to 10",
+        "planned_intake": 140,
+        "course_description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quo ex doloremque exercitationem cupiditate voluptate vel doloribus eligendi possimus, qui alias veritatis neque nesciunt, incidunt, aliquid rem excepturi quasi velit labore? Explicabo autem accusantium dolore harum quos nulla in itaque, provident rerum velit officiis veritatis eligendi commodi? Soluta nam consequatur quod?",
+        "reference": "https://www.rp.edu.sg/SAS/full-time-diplomas/Details/diploma-in-environmental-science"     
+      },
+      "Diploma in Marine Science & Aquaculture": {
+        "year": 2020,
+        "course_code": "R53",
+        "elr2b2_type": "ELR2B2-B",
+        "elr2b2": "3 to 10",
+        "planned_intake": 140,
+        "course_description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quo ex doloremque exercitationem cupiditate voluptate vel doloribus eligendi possimus, qui alias veritatis neque nesciunt, incidunt, aliquid rem excepturi quasi velit labore? Explicabo autem accusantium dolore harum quos nulla in itaque, provident rerum velit officiis veritatis eligendi commodi? Soluta nam consequatur quod?",
+        "reference": "https://www.rp.edu.sg/SAS/full-time-diplomas/Details/diploma-in-marine-science-and-aquaculture"     
+      },
+      "Common Science Programme": {
+        "year": 2020,
+        "course_code": "R59",
+        "elr2b2_type": "ELR2B2-B",
+        "elr2b2": "3 to 10",
+        "planned_intake": 140,
+        "course_description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quo ex doloremque exercitationem cupiditate voluptate vel doloribus eligendi possimus, qui alias veritatis neque nesciunt, incidunt, aliquid rem excepturi quasi velit labore? Explicabo autem accusantium dolore harum quos nulla in itaque, provident rerum velit officiis veritatis eligendi commodi? Soluta nam consequatur quod?",
+        "reference": "https://www.rp.edu.sg/SAS/full-time-diplomas/Details/common-science-programme"     
+      }
+      },
+      "School of Technology for the Arts":{
+      "Diploma in Media Production & Design": {
+        "year": 2020,
+        "course_code": "R19",
+        "elr2b2_type": "ELR2B2-B",
+        "elr2b2": "3 to 10",
+        "planned_intake": 140,
+        "course_description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quo ex doloremque exercitationem cupiditate voluptate vel doloribus eligendi possimus, qui alias veritatis neque nesciunt, incidunt, aliquid rem excepturi quasi velit labore? Explicabo autem accusantium dolore harum quos nulla in itaque, provident rerum velit officiis veritatis eligendi commodi? Soluta nam consequatur quod?",
+        "reference": "https://www.rp.edu.sg/STA/full-time-diplomas/Details/diploma-in-media-production-and-design"
+      },
+      "Diploma in Sonic Arts": {
+        "year": 2020,
+        "course_code": "R24",
+        "elr2b2_type": "ELR2B2-B",
+        "elr2b2": "3 to 10",
+        "planned_intake": 140,
+        "course_description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quo ex doloremque exercitationem cupiditate voluptate vel doloribus eligendi possimus, qui alias veritatis neque nesciunt, incidunt, aliquid rem excepturi quasi velit labore? Explicabo autem accusantium dolore harum quos nulla in itaque, provident rerum velit officiis veritatis eligendi commodi? Soluta nam consequatur quod?",
+        "reference": "https://www.rp.edu.sg/STA/full-time-diplomas/Details/diploma-in-sonic-arts"
+      },
+      "Diploma in Arts & Theatre Management": {
+        "year": 2020,
+        "course_code": "R25",
+        "elr2b2_type": "ELR2B2-B",
+        "elr2b2": "3 to 10",
+        "planned_intake": 140,
+        "course_description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quo ex doloremque exercitationem cupiditate voluptate vel doloribus eligendi possimus, qui alias veritatis neque nesciunt, incidunt, aliquid rem excepturi quasi velit labore? Explicabo autem accusantium dolore harum quos nulla in itaque, provident rerum velit officiis veritatis eligendi commodi? Soluta nam consequatur quod?",
+        "reference": "https://www.rp.edu.sg/STA/full-time-diplomas/Details/diploma-in-arts-and-theatre-management"  
+      },
+      "Diploma in Game Design": {
+        "year": 2020,
+        "course_code": "R35",
+        "elr2b2_type": "ELR2B2-B",
+        "elr2b2": "3 to 10",
+        "planned_intake": 140,
+        "course_description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quo ex doloremque exercitationem cupiditate voluptate vel doloribus eligendi possimus, qui alias veritatis neque nesciunt, incidunt, aliquid rem excepturi quasi velit labore? Explicabo autem accusantium dolore harum quos nulla in itaque, provident rerum velit officiis veritatis eligendi commodi? Soluta nam consequatur quod?",
+        "reference": "https://www.rp.edu.sg/STA/full-time-diplomas/Details/diploma-in-game-design"     
+      },
+      "Diploma in Design for User Experience": {
+        "year": 2020,
+        "course_code": "R36",
+        "elr2b2_type": "ELR2B2-B",
+        "elr2b2": "3 to 10",
+        "planned_intake": 140,
+        "course_description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quo ex doloremque exercitationem cupiditate voluptate vel doloribus eligendi possimus, qui alias veritatis neque nesciunt, incidunt, aliquid rem excepturi quasi velit labore? Explicabo autem accusantium dolore harum quos nulla in itaque, provident rerum velit officiis veritatis eligendi commodi? Soluta nam consequatur quod?",
+        "reference": "https://www.rp.edu.sg/STA/full-time-diplomas/Details/diploma-in-design-for-user-experience"     
+      }
+      },
+      "School of Engineering":{
+      "Diploma in Supply Chain Management": {
+        "year": 2020,
+        "course_code": "R21",
+        "elr2b2_type": "ELR2B2-B",
+        "elr2b2": "3 to 10",
+        "planned_intake": 140,
+        "course_description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quo ex doloremque exercitationem cupiditate voluptate vel doloribus eligendi possimus, qui alias veritatis neque nesciunt, incidunt, aliquid rem excepturi quasi velit labore? Explicabo autem accusantium dolore harum quos nulla in itaque, provident rerum velit officiis veritatis eligendi commodi? Soluta nam consequatur quod?",
+        "reference": "https://www.rp.edu.sg/SEG/full-time-diplomas/Details/diploma-in-supply-chain-management"
+      },
+      "Diploma in Aviation Management": {
+        "year": 2020,
+        "course_code": "R39",
+        "elr2b2_type": "ELR2B2-B",
+        "elr2b2": "3 to 10",
+        "planned_intake": 140,
+        "course_description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quo ex doloremque exercitationem cupiditate voluptate vel doloribus eligendi possimus, qui alias veritatis neque nesciunt, incidunt, aliquid rem excepturi quasi velit labore? Explicabo autem accusantium dolore harum quos nulla in itaque, provident rerum velit officiis veritatis eligendi commodi? Soluta nam consequatur quod?",
+        "reference": "https://www.rp.edu.sg/SEG/full-time-diplomas/Details/diploma-in-aviation-management"
+      },
+      "Diploma in Aerospace Engineering": {
+        "year": 2020,
+        "course_code": "R40",
+        "elr2b2_type": "ELR2B2-B",
+        "elr2b2": "3 to 10",
+        "planned_intake": 140,
+        "course_description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quo ex doloremque exercitationem cupiditate voluptate vel doloribus eligendi possimus, qui alias veritatis neque nesciunt, incidunt, aliquid rem excepturi quasi velit labore? Explicabo autem accusantium dolore harum quos nulla in itaque, provident rerum velit officiis veritatis eligendi commodi? Soluta nam consequatur quod?",
+        "reference": "https://www.rp.edu.sg/SEG/full-time-diplomas/Details/diploma-in-aerospace-engineering"  
+      },
+      "Diploma in Green Building Energy Management": {
+        "year": 2020,
+        "course_code": "R41",
+        "elr2b2_type": "ELR2B2-B",
+        "elr2b2": "3 to 10",
+        "planned_intake": 140,
+        "course_description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quo ex doloremque exercitationem cupiditate voluptate vel doloribus eligendi possimus, qui alias veritatis neque nesciunt, incidunt, aliquid rem excepturi quasi velit labore? Explicabo autem accusantium dolore harum quos nulla in itaque, provident rerum velit officiis veritatis eligendi commodi? Soluta nam consequatur quod?",
+        "reference": "https://www.rp.edu.sg/SEG/full-time-diplomas/Details/diploma-in-green-building-energy-management"  
+      },
+      "Common Engineering Programme": {
+        "year": 2020,
+        "course_code": "R42",
+        "elr2b2_type": "ELR2B2-B",
+        "elr2b2": "3 to 10",
+        "planned_intake": 140,
+        "course_description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quo ex doloremque exercitationem cupiditate voluptate vel doloribus eligendi possimus, qui alias veritatis neque nesciunt, incidunt, aliquid rem excepturi quasi velit labore? Explicabo autem accusantium dolore harum quos nulla in itaque, provident rerum velit officiis veritatis eligendi commodi? Soluta nam consequatur quod?",
+        "reference": "https://www.rp.edu.sg/SEG/full-time-diplomas/Details/common-engineering-programme"  
+      }
+      },
+      "School of Sports, Health and Leisure":{
+      "Diploma in Sport & Exercise Science": {
+        "year": 2020,
+        "course_code": "R26",
+        "elr2b2_type": "ELR2B2-B",
+        "elr2b2": "3 to 10",
+        "planned_intake": 140,
+        "course_description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quo ex doloremque exercitationem cupiditate voluptate vel doloribus eligendi possimus, qui alias veritatis neque nesciunt, incidunt, aliquid rem excepturi quasi velit labore? Explicabo autem accusantium dolore harum quos nulla in itaque, provident rerum velit officiis veritatis eligendi commodi? Soluta nam consequatur quod?",
+        "reference": "https://www.rp.edu.sg/Shl/full-time-diplomas/Details/diploma-in-sport-and-exercise-science"
+      },
+      "Diploma in Outdoor & Adventure Learning": {
+        "year": 2020,
+        "course_code": "R33",
+        "elr2b2_type": "ELR2B2-B",
+        "elr2b2": "3 to 10",
+        "planned_intake": 140,
+        "course_description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quo ex doloremque exercitationem cupiditate voluptate vel doloribus eligendi possimus, qui alias veritatis neque nesciunt, incidunt, aliquid rem excepturi quasi velit labore? Explicabo autem accusantium dolore harum quos nulla in itaque, provident rerum velit officiis veritatis eligendi commodi? Soluta nam consequatur quod?",
+        "reference": "https://www.rp.edu.sg/Shl/full-time-diplomas/Details/diploma-in-outdoor-and-adventure-learning"
+      },
+      "Diploma in Health Management & Promotion": {
+        "year": 2020,
+        "course_code": "R43",
+        "elr2b2_type": "ELR2B2-B",
+        "elr2b2": "3 to 10",
+        "planned_intake": 140,
+        "course_description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quo ex doloremque exercitationem cupiditate voluptate vel doloribus eligendi possimus, qui alias veritatis neque nesciunt, incidunt, aliquid rem excepturi quasi velit labore? Explicabo autem accusantium dolore harum quos nulla in itaque, provident rerum velit officiis veritatis eligendi commodi? Soluta nam consequatur quod?",
+        "reference": "https://www.rp.edu.sg/Shl/full-time-diplomas/Details/diploma-in-health-management-and-promotion"  
+      },
+      "Diploma in Health Services Management": {
+        "year": 2020,
+        "course_code": "R45",
+        "elr2b2_type": "ELR2B2-B",
+        "elr2b2": "3 to 10",
+        "planned_intake": 140,
+        "course_description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quo ex doloremque exercitationem cupiditate voluptate vel doloribus eligendi possimus, qui alias veritatis neque nesciunt, incidunt, aliquid rem excepturi quasi velit labore? Explicabo autem accusantium dolore harum quos nulla in itaque, provident rerum velit officiis veritatis eligendi commodi? Soluta nam consequatur quod?",
+        "reference": "https://www.rp.edu.sg/Shl/full-time-diplomas/Details/diploma-in-health-services-management"  
+      },
+      "Diploma in Sport Coaching": {
+        "year": 2020,
+        "course_code": "R49",
+        "elr2b2_type": "ELR2B2-B",
+        "elr2b2": "3 to 10",
+        "planned_intake": 140,
+        "course_description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quo ex doloremque exercitationem cupiditate voluptate vel doloribus eligendi possimus, qui alias veritatis neque nesciunt, incidunt, aliquid rem excepturi quasi velit labore? Explicabo autem accusantium dolore harum quos nulla in itaque, provident rerum velit officiis veritatis eligendi commodi? Soluta nam consequatur quod?",
+        "reference": "https://www.rp.edu.sg/Shl/full-time-diplomas/Details/diploma-in-sport-coaching"  
+      }
+      },
+      "School of Management and Communication":{
+      "Diploma in Mass Communication": {
+        "year": 2020,
+        "course_code": "R32",
+        "elr2b2_type": "ELR2B2-B",
+        "elr2b2": "3 to 10",
+        "planned_intake": 140,
+        "course_description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quo ex doloremque exercitationem cupiditate voluptate vel doloribus eligendi possimus, qui alias veritatis neque nesciunt, incidunt, aliquid rem excepturi quasi velit labore? Explicabo autem accusantium dolore harum quos nulla in itaque, provident rerum velit officiis veritatis eligendi commodi? Soluta nam consequatur quod?",
+        "reference": "https://www.rp.edu.sg/SMC/full-time-diplomas/Details/diploma-in-mass-communication"
+      },
+      "Diploma in Consumer Behaviour & Research": {
+        "year": 2020,
+        "course_code": "R48",
+        "elr2b2_type": "ELR2B2-B",
+        "elr2b2": "3 to 10",
+        "planned_intake": 140,
+        "course_description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quo ex doloremque exercitationem cupiditate voluptate vel doloribus eligendi possimus, qui alias veritatis neque nesciunt, incidunt, aliquid rem excepturi quasi velit labore? Explicabo autem accusantium dolore harum quos nulla in itaque, provident rerum velit officiis veritatis eligendi commodi? Soluta nam consequatur quod?",
+        "reference": "https://www.rp.edu.sg/SMC/full-time-diplomas/Details/diploma-in-consumer-behaviour-and-research"
+      },
+      "Diploma in Human Resource Management with Psychology": {
+        "year": 2020,
+        "course_code": "R52",
+        "elr2b2_type": "ELR2B2-B",
+        "elr2b2": "3 to 10",
+        "planned_intake": 140,
+        "course_description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quo ex doloremque exercitationem cupiditate voluptate vel doloribus eligendi possimus, qui alias veritatis neque nesciunt, incidunt, aliquid rem excepturi quasi velit labore? Explicabo autem accusantium dolore harum quos nulla in itaque, provident rerum velit officiis veritatis eligendi commodi? Soluta nam consequatur quod?",
+        "reference": "https://www.rp.edu.sg/SMC/full-time-diplomas/Details/diploma-in-human-resource-management-with-psychology"  
+      },
+      "Common Business Programme": {
+        "year": 2020,
+        "course_code": "R57",
+        "elr2b2_type": "ELR2B2-B",
+        "elr2b2": "3 to 10",
+        "planned_intake": 140,
+        "course_description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quo ex doloremque exercitationem cupiditate voluptate vel doloribus eligendi possimus, qui alias veritatis neque nesciunt, incidunt, aliquid rem excepturi quasi velit labore? Explicabo autem accusantium dolore harum quos nulla in itaque, provident rerum velit officiis veritatis eligendi commodi? Soluta nam consequatur quod?",
+        "reference": "https://www.rp.edu.sg/SMC/full-time-diplomas/Details/common-business-programme"  
+      },
+      "Diploma in Business": {
+        "year": 2020,
+        "course_code": "R60",
+        "elr2b2_type": "ELR2B2-B",
+        "elr2b2": "3 to 10",
+        "planned_intake": 140,
+        "course_description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quo ex doloremque exercitationem cupiditate voluptate vel doloribus eligendi possimus, qui alias veritatis neque nesciunt, incidunt, aliquid rem excepturi quasi velit labore? Explicabo autem accusantium dolore harum quos nulla in itaque, provident rerum velit officiis veritatis eligendi commodi? Soluta nam consequatur quod?",
+        "reference": "https://www.rp.edu.sg/smc/full-time-diplomas/details/diploma-in-business"  
+      }
+      },
+      "School of Hospitality":{
+      "Diploma in Integrated Events Management": {
+        "year": 2020,
+        "course_code": "R28",
+        "elr2b2_type": "ELR2B2-B",
+        "elr2b2": "3 to 10",
+        "planned_intake": 140,
+        "course_description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quo ex doloremque exercitationem cupiditate voluptate vel doloribus eligendi possimus, qui alias veritatis neque nesciunt, incidunt, aliquid rem excepturi quasi velit labore? Explicabo autem accusantium dolore harum quos nulla in itaque, provident rerum velit officiis veritatis eligendi commodi? Soluta nam consequatur quod?",
+        "reference": "https://www.rp.edu.sg/Soh/full-time-diplomas/Details/diploma-in-integrated-events-management"
+      },
+      "Diploma in Customer Experience Management with Business": {
+        "year": 2020,
+        "course_code": "R34",
+        "elr2b2_type": "ELR2B2-B",
+        "elr2b2": "3 to 10",
+        "planned_intake": 140,
+        "course_description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quo ex doloremque exercitationem cupiditate voluptate vel doloribus eligendi possimus, qui alias veritatis neque nesciunt, incidunt, aliquid rem excepturi quasi velit labore? Explicabo autem accusantium dolore harum quos nulla in itaque, provident rerum velit officiis veritatis eligendi commodi? Soluta nam consequatur quod?",
+        "reference": "https://www.rp.edu.sg/SOH/full-time-diplomas/Details/diploma-in-customer-experience-management-with-business"
+      },
+      "Diploma in Hotel & Hospitality Management": {
+        "year": 2020,
+        "course_code": "R37",
+        "elr2b2_type": "ELR2B2-B",
+        "elr2b2": "3 to 10",
+        "planned_intake": 140,
+        "course_description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quo ex doloremque exercitationem cupiditate voluptate vel doloribus eligendi possimus, qui alias veritatis neque nesciunt, incidunt, aliquid rem excepturi quasi velit labore? Explicabo autem accusantium dolore harum quos nulla in itaque, provident rerum velit officiis veritatis eligendi commodi? Soluta nam consequatur quod?",
+        "reference": "https://www.rp.edu.sg/Soh/full-time-diplomas/Details/diploma-in-hotel-and-hospitality-management"  
+      },
+      "Diploma in Wellness & Hospitality Business": {
+        "year": 2020,
+        "course_code": "R44",
+        "elr2b2_type": "ELR2B2-B",
+        "elr2b2": "3 to 10",
+        "planned_intake": 140,
+        "course_description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quo ex doloremque exercitationem cupiditate voluptate vel doloribus eligendi possimus, qui alias veritatis neque nesciunt, incidunt, aliquid rem excepturi quasi velit labore? Explicabo autem accusantium dolore harum quos nulla in itaque, provident rerum velit officiis veritatis eligendi commodi? Soluta nam consequatur quod?",
+        "reference": "https://www.rp.edu.sg/Soh/full-time-diplomas/Details/diploma-in-wellness-and-hospitality-business"  
+      },
+      "Diploma in Restaurant & Culinary Operations": {
+        "year": 2020,
+        "course_code": "R46",
+        "elr2b2_type": "ELR2B2-B",
+        "elr2b2": "3 to 10",
+        "planned_intake": 140,
+        "course_description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quo ex doloremque exercitationem cupiditate voluptate vel doloribus eligendi possimus, qui alias veritatis neque nesciunt, incidunt, aliquid rem excepturi quasi velit labore? Explicabo autem accusantium dolore harum quos nulla in itaque, provident rerum velit officiis veritatis eligendi commodi? Soluta nam consequatur quod?",
+        "reference": "https://www.rp.edu.sg/soh/full-time-diplomas/Details/diploma-in-restaurant-and-culinary-operations"  
+      }
+      }
+  },
+  "NP":{
+      "School of Business & Accountancy":{
+      "Diploma in Accountancy": {
+        "year": 2020,
+        "course_code": "N51",
+        "elr2b2_type": "ELR2B2-B",
+        "elr2b2": "3 to 10",
+        "planned_intake": 140,
+        "course_description": "You get to study modules on financial, cost & managerial accounting, auditing, taxation; learn accounting software and get hands-on learning experience through a six-month internship programme.",
+        "reference": "https://www.np.edu.sg/ba/Pages/acc.aspx"
+      },
+      "Diploma in Banking & Finance": {
+        "year": 2020,
+        "course_code": "N53",
+        "elr2b2_type": "ELR2B2-B",
+        "elr2b2": "4 to 10",
+        "planned_intake": 75,
+        "course_description": "The course equips students with foundation modules like Financial Markets and Services, Corporate Finance, Credit Management, Finance of International Trade,  Financial Planning, Consumer Banking, Investments, Treasury, Marketing of Financial Services, Risk Management, Settlements and Operations Management and Wealth Management, Business Law and Financial Analytics.",
+        "reference": "https://www.np.edu.sg/ba/Pages/bf.aspx"
+      },
+      "Diploma in Business Studies": {
+        "year": 2020,
+        "course_code": "N45",
+        "elr2b2_type": "ELR2B2-B",
+        "elr2b2": "3 to 9",
+        "planned_intake": 150,
+        "course_description": "The course enables students to acquire foundational skills in key functional areas of business management in the first three semesters of study.  From the fourth semester, students can choose to specialize in Entrepreneurship, Human Capital Management or Marketing.  During their specialization, students will have opportunity to manage industry-based projects and embark on a 6-month local or overseas internship programme for authentic workplace learning.",
+        "reference": "https://www.np.edu.sg/ba/Pages/bs.aspx"  
+      },
+      "Common Business Programme": {
+        "year": 2020,
+        "course_code": "N97",
+        "elr2b2_type": "ELR2B2-B",
+        "elr2b2": "6 to 11",
+        "planned_intake": 225,
+        "course_description": "CBP lays a strong foundation in these key business domains: accounting and finance,  business communications, business  statistics, business law, macroeconomics and microeconomics, information design in business, decision support applications, management and organisation and international and business environment.",
+        "reference": "https://www.np.edu.sg/ba/Pages/cbp.aspx"  
+      },
+      "Diploma in International Trade & Business": {
+        "year": 2020,
+        "course_code": "N85",
+        "elr2b2_type": "ELR2B2-B",
+        "elr2b2": "6 to 11",
+        "planned_intake": 75,
+        "course_description": "The Diploma in International Trade & Business (N85) provides foundational business in the first year, including economics and international business environment.  The second year will see a scaffolding of more detailed coverage in international trade and supply chain management; and in the application of disruptive technologies in these areas. The third year further strengthens and enhances the students knowledge and culminates in an industry-relevant capstone project and a six-month internship.",
+        "reference": "https://www.np.edu.sg/ba/Pages/itb.aspx"  
+      },
+      "Diploma in Tourism & Resort Management": {
+        "year": 2020,
+        "course_code": "N72",
+        "elr2b2_type": "ELR2B2-B",
+        "elr2b2": "4 to 12",
+        "planned_intake": 75,
+        "course_description": "As a TRM student, you will get acquainted with skills and knowledge which are in demand in the tourism industry, such as tourism analytics, digital marketing and service experience management. The course also provides a strong business foundation with a global and entrepreneurial focus. To complete your learning journey in TRM, students work on mini-consultancy projects with industry partners, for an authentic understanding of the tourism industry.",
+        "reference": "https://www.np.edu.sg/ba/Pages/trm.aspx"  
+      }
+      },
+      "School of Design & Environment":{
+      "Diploma in Design": {
+        "year": 2020,
+        "course_code": "N12",
+        "elr2b2_type": "ELR2B2-D",
+        "elr2b2": "8 to 15",
+        "planned_intake": 75,
+        "course_description": "You will be exposed to the broadest design diploma in the polytechnics. Having a choice to specialize in either Architecture or Product Innovation means you can develop innovative and critical design solutions for buildings and spaces OR products and experiences.",
+        "reference": "https://www.np.edu.sg/de/Pages/des.aspx"
+      },
+      "Diploma in Hotel & Leisure Facilities Management": {
+        "year": 2020,
+        "course_code": "N40",
+        "elr2b2_type": "ELR2B2-C",
+        "elr2b2": "6 to 13",
+        "planned_intake": 100,
+        "course_description": "You will learn to operate and manage modern facilities such as 'green' hotels, commercial complexes and shopping malls that use green building technology, building automation and performance simulation. You will also learn hospitality skills to support the front office and back-of-the-house operations. Supported by site visits and experiential learning activities, you will take learning out of the classroom and into the real world. These activities also develop your skills in management and service delivery. After getting a good foundation, you can go on a six-month internship or dual internship during your final year. HLFM graduates will also be awarded a Fire Safety Manager Certificate that allows them to be registered as Qualified Fire Safety Managers which usually command an additional allowance as well as bizSAFE certification.",
+        "reference": "https://www.np.edu.sg/de/Pages/hlfm.aspx"
+      },
+      "Diploma in Real Estate Business": {
+        "year": 2020,
+        "course_code": "N48",
+        "elr2b2_type": "ELR2B2-C",
+        "elr2b2": "10 to 14",
+        "planned_intake": 75,
+        "course_description": "This course will equip you with the necessary skillsets to help property owners, investors and tenants to maximise the use of their properties to achieve the highest possible financial returns. You will also be trained on how to give a value to the property, determine which marketing strategies to employ and establish efficient management to preserve the capital value of residential, commercial and industrial properties.",
+        "reference": "https://www.np.edu.sg/de/Pages/reb.aspx"  
+      }
+      },
+      "School of Engineering":{
+      "Diploma in Aerospace Engineering": {
+        "year": 2020,
+        "course_code": "N65",
+        "elr2b2_type": "ELR2B2-C",
+        "elr2b2": "6 to 11",
+        "planned_intake": 100,
+        "course_description": "The course is aligned to Civil Aviation Authority of Singapore (CAAS) Singapore Airworthiness Requirements Part 66 (SAR-66) and mapped to Singapore Skills Framework (SFw) for Aerospace.",
+        "reference": "https://www.np.edu.sg/soe/Pages/aeg.aspx"
+      },
+      "Diploma in Automation & Mechatronic Systems": {
+        "year": 2020,
+        "course_code": "N50",
+        "elr2b2_type": "ELR2B2-C",
+        "elr2b2": "8 to 17",
+        "planned_intake": 50,
+        "course_description": "The course has a broad-based curriculum that combines mechanics, electronics and programming to design and create smart products and systems. Students will be exposed to automation Technology, integration and application of industrial robots in industries.",
+        "reference": "https://www.np.edu.sg/soe/Pages/ams.aspx"
+      },
+      "Diploma in Biomedical Engineering": {
+        "year": 2020,
+        "course_code": "N60",
+        "elr2b2_type": "ELR2B2-C",
+        "elr2b2": "6 to 10",
+        "planned_intake": 50,
+        "course_description": "You will learn about the skills and knowledge to bridge the gap between engineering and life sciences. The course not only covers in areas of electrical, electronics and computer engineering but also in foundational life sciences modules such as physiology and cell biology.",
+        "reference": "https://www.np.edu.sg/soe/Pages/bme.aspx"  
+      },
+      "Common Engineering Programme": {
+        "year": 2020,
+        "course_code": "N71",
+        "elr2b2_type": "ELR2B2-C",
+        "elr2b2": "7 to 19",
+        "planned_intake": 400,
+        "course_description": "The CEP modules include Mechanical Engineering Fundamentals, Electrical Engineering Fundamentals, Engineering Mathematics 1, Programming, Integrated Real-world Project 1, Career & Professional Preparation I, Innovation Made Possible, Engineering Mathematics 2, Analogue Electronics, AC Circuits, Digital Fundamentals, Integrated Real-world Project 2, Engineering & Society, Sports and Wellness, Communication Essentials, Thermofluids, Electrical & Electronic Technology, Materials & Manufacturing Technology.",
+        "reference": "https://www.np.edu.sg/soe/Pages/cep.aspx"     
+      },
+      "Diploma in Electrical Engineering": {
+        "year": 2020,
+        "course_code": "N43",
+        "elr2b2_type": "ELR2B2-C",
+        "elr2b2": "11 to 21",
+        "planned_intake": 125,
+        "course_description": "The course provides broad-based training in the areas of electricity & power systems, energy management and smart systems and specialised training in either the clean energy or power engineering domain. The clean energy management specialisation prepares graduates for the sustainable energy sector with a strong focus on energy management and clean energy technologies while the power engineering specialisation prepares graduates for exciting careers in diverse sectors such as the power & energy, land transport and marine & offshore as well as offers them a head start to practice licensed electrical work.",
+        "reference": "https://www.np.edu.sg/soe/Pages/ee.aspx"     
+      },
+      "Diploma in Electronic & Computer Engineering": {
+        "year": 2020,
+        "course_code": "N44",
+        "elr2b2_type": "ELR2B2-C",
+        "elr2b2": "5 to 15",
+        "planned_intake": 125,
+        "course_description": "The course covers important aspects of electronic & computer engineering such as electrical technology, analogue & digital circuit/system design, software programming, communication engineering and basic internetworking.",
+        "reference": "https://www.np.edu.sg/soe/Pages/ece.aspx"     
+      },
+      "Diploma in Engineering Science": {
+        "year": 2020,
+        "course_code": "N93",
+        "elr2b2_type": "ELR2B2-C",
+        "elr2b2": "4 to 11",
+        "planned_intake": 40,
+        "course_description": "The Diploma in Engineering Science builds a good foundation in science, technology, engineering and mathematics (STEM). It exposes students to R&D early through R&D Immersion in Year 2 and Final-Year Projects in Year 3. Students have opportunities of being attached to local universities and research institutes in R&D Immersion or Final-Year Projects.",
+        "reference": "https://www.np.edu.sg/soe/Pages/es.aspx"     
+      },
+      "Diploma in Marine & Offshore Technology": {
+        "year": 2020,
+        "course_code": "N42",
+        "elr2b2_type": "ELR2B2-C",
+        "elr2b2": "11 to 18",
+        "planned_intake": 50,
+        "course_description": "Training in naval architecture and offshore technology, designing and building your own ship models, and testing them in Singapore's only towing tank located in our campus. Also frequent study trips to gain industry exposure. You can expect in-depth industry training that will equip you with job-relevant skills and knowledge and stand you in good stead when you join the industry upon graduation!",
+        "reference": "https://www.np.edu.sg/soe/Pages/mot.aspx"     
+      },
+      "Diploma in Mechanical Engineering": {
+        "year": 2020,
+        "course_code": "N41",
+        "elr2b2_type": "ELR2B2-C",
+        "elr2b2": "8 to 18",
+        "planned_intake": 125,
+        "course_description": "In ME, student will learn the fundamentals of mechanical engineering with a focus on manufacturing, materials and design skills. Subsequently, student will be introduced to core mechanical engineering modules such as Thermodynamics, Fluid Mechanics and Strength of Materials. Student will continue to hone their skills in applied design through modules such as Engineering Design Thinking and Mechanical Design Practice.",
+        "reference": "https://www.np.edu.sg/soe/Pages/me.aspx"     
+      }
+      },
+      "School of Film & Media Studies":{
+      "Diploma in Film, Sound & Video": {
+        "year": 2020,
+        "course_code": "N82",
+        "elr2b2_type": "ELR2B2-D",
+        "elr2b2": "4 to 8",
+        "planned_intake": 50,
+        "course_description": "You get to hone the art and craft of filmmaking in areas like scriptwriting (Storytelling Techniques & Scriptwriting modules), sound (Audio Technology & Sound Design modules), production (Photography, Location Filmmaking, Directing, TV Production, Producing, Documentary Production, Cinematography, Intermediate Filmmaking, Advanced TV Production & Advanced Filmmaking modules) and post-production (Editing and Post Production & Motion Graphics modules). You will also build your theoretical foundation by learning from the masters of cinema in our cinema studies classes (Introduction to Film, Film History & Asian Cinema modules). You will get real world exposure through our internship program and capstone project.",
+        "reference": "https://www.np.edu.sg/fms/Pages/fsv.aspx"
+      },
+      "Diploma in Mass Communication": {
+        "year": 2020,
+        "course_code": "N67",
+        "elr2b2_type": "ELR2B2-A",
+        "elr2b2": "3 to 8",
+        "planned_intake": 115,
+        "course_description": "You will learn about the fundamentals of media writing, digital media, reporting and communications, and pick up skills on radio and video production. Areas of exposure include digital journalism and marketing, content marketing, research and user experience design. You will also be learning the skills of managing a media business, including identifying business opportunities, and understanding applications of data analysis and visualisation. Students will be developing your skills in top-notch purpose-built facilities that include TV and radio studios, and media labs. You will get real world exposure through our internship program and capstone project.",
+        "reference": "https://www.np.edu.sg/fms/Pages/mcm.aspx"
+      },
+      "Diploma in Media Post-Production": {
+        "year": 2020,
+        "course_code": "N13",
+        "elr2b2_type": "ELR2B2-D",
+        "elr2b2": "8 to 12",
+        "planned_intake": 60,
+        "course_description": "You get to hone the art and craft of post-production by experiencing all areas of the field including color correction and editing, creating cutting-edge motion graphics and computer graphics and doing post-production and mixing for audio. You will also get hands-on experience with working on single and multi-camera productions, doing audio recording and engineering as well as learning the art of visual storytelling. On top of that, you will be exposed to emerging areas such as creating immersive experiences through live show projections, AR/VR, dramatic lighting design as well as sound design and live sound engineering. In the third year, you will get real world exposure through our internship program, media entrepreneurship module and capstone project.",
+        "reference": "https://www.np.edu.sg/fms/Pages/mpp.aspx"  
+      }
+      },
+      "School of Health Sciences":{
+      "Diploma in Nursing": {
+        "year": 2020,
+        "course_code": "N69",
+        "elr2b2_type": "ELR2B2-C",
+        "elr2b2": "4 to 28",
+        "planned_intake": 600,
+        "course_description": "The nursing course provides comprehensive training and has 41 weeks of clinical attachment throughout the 3-year course to enable students to put theory into practice.  In addition to core nursing modules, students will also learn about pharmacology, behavioural and life sciences and nursing research.",
+        "reference": "https://www.np.edu.sg/hs/Pages/nsg.aspx"
+      },
+      "Diploma in Optometry": {
+        "year": 2020,
+        "course_code": "N83",
+        "elr2b2_type": "ELR2B2-C",
+        "elr2b2": "4 to 12",
+        "planned_intake": 40,
+        "course_description": "The optometry student will gain an in depth knowledge of how the human eye functions and acquire the skills to detect abnormal eye conditions. The students will learn how to test the eyesight of patients, as well as fit and prescribe appropriate eye wear such as spectacles and contact lenses.",
+        "reference": "https://www.np.edu.sg/hs/Pages/opt.aspx"
+      }
+      },
+      "School of Humanities & Social Sciences":{
+      "Diploma in Arts Business Management": {
+        "year": 2020,
+        "course_code": "N91",
+        "elr2b2_type": "ELR2B2-B",
+        "elr2b2": "4 to 8",
+        "planned_intake": 45,
+        "course_description": "You get to study a range of subjects, such as arts management and financial management and gain industry exposure through volunteering, field trips and real world projects.",
+        "reference": "https://www.np.edu.sg/hms/Pages/abm.aspx"
+      },
+      "Diploma in Chinese Media & Communication": {
+        "year": 2020,
+        "course_code": "N88",
+        "elr2b2_type": "ELR2B2-A",
+        "elr2b2": "5 to 12",
+        "planned_intake": 45,
+        "course_description": "You will learn how to produce content, such as video and radio production and writing for the media as well as design collaterals and manage events.",
+        "reference": "https://www.np.edu.sg/hms/Pages/cmc.aspx"
+      },
+      "Diploma in Chinese Studies": {
+        "year": 2020,
+        "course_code": "N70",
+        "elr2b2_type": "ELR2B2-A",
+        "elr2b2": "7 to 10",
+        "planned_intake": 45,
+        "course_description": "You will gain a solid foundation in the Chinese language, culture and history. In Year 2, you can choose from one of three specialisations: Education, Business Chinese or Early Childhood Teaching. You will get to learn about child development, curriculum design, or business communication, translation and cultural heritage tourism, or early childhood education and curriculum planning.",
+        "reference": "https://www.np.edu.sg/hms/Pages/chs.aspx"  
+      },
+      "Diploma in Community Development": {
+        "year": 2020,
+        "course_code": "N11",
+        "elr2b2_type": "ELR2B2-A",
+        "elr2b2": "4 to 9",
+        "planned_intake": 75,
+        "course_description": "You will have a more in-depth understanding of the social service sector and its communities, and be equipped with management and entrepreneurship skills so as to create quality, innovative and sustainable solutions to serve and empower communities. You will develop abilities such as managing individual casework, group facilitation, project and volunteer management and marketing strategies.",
+        "reference": "https://www.np.edu.sg/hms/Pages/cdt.aspx"  
+      },
+      "Diploma in Early Childhood Development & Education": {
+        "year": 2020,
+        "course_code": "N96",
+        "elr2b2_type": "ELR2B2-A",
+        "elr2b2": "3 to 17",
+        "planned_intake": 500,
+        "course_description": "From the first year of study, you will go on weekly attachments at childcare centres, and you get to build your knowledge with foundational modules such as Child Development and Child Safety, Health & Socio-emotional Well-Being.",
+        "reference": "https://www.np.edu.sg/hms/Pages/ecde.aspx"  
+      },
+      "Diploma in Tamil Studies with Early Education": {
+        "year": 2020,
+        "course_code": "N95",
+        "elr2b2_type": "ELR2B2-A",
+        "elr2b2": "11 to 22",
+        "planned_intake": 30,
+        "course_description": "You will be exposed to a range of modules that will equip you with the needed skills and knowledge to work with children. Along with that, you will learn more about the rich Tamil culture while strengthening your abilities to communicate in Tamil effectively.",
+        "reference": "https://www.np.edu.sg/hms/Pages/tse.aspx"  
+      }
+      },
+      "School of InfoComm Technology":{
+      "Common ICT Programme": {
+        "year": 2020,
+        "course_code": "N98",
+        "elr2b2_type": "ELR2B2-C",
+        "elr2b2": "5 to 11",
+        "planned_intake": 100,
+        "course_description": "You will gain an introduction to the field of IT by understanding the roles, practices and career paths of IT professionals. You will also learn the fundamentals of programming and cyber security, as well as an overview of enterprise information systems that use data analytics for decision making.",
+        "reference": "https://www.rp.edu.sg/Soh/full-time-diplomas/Details/diploma-in-integrated-events-management"
+      },
+      "Diploma in Cybersecurity & Digital Forensics": {
+        "year": 2020,
+        "course_code": "N94",
+        "elr2b2_type": "ELR2B2-C",
+        "elr2b2": "4 to 8",
+        "planned_intake": 50,
+        "course_description": "You will build a strong foundation in basic IT and security and develop skills in the areas of network security, software security and digital forensics in your second year. You will set up secure web servers, develop secure software applications, investigate cybercrimes, perform penetration tests on software, systems and networks, conducting in-depth forensic investigations on digital devices and networks, and analysing malicious software or malware and work on information security projects in our cutting-edge CSF labs in your final year.",
+        "reference": "https://www.rp.edu.sg/SOH/full-time-diplomas/Details/diploma-in-customer-experience-management-with-business"
+      },
+      "Diploma in Financial Informatics": {
+        "year": 2020,
+        "course_code": "N81",
+        "elr2b2_type": "ELR2B2-C",
+        "elr2b2": "4 to 12",
+        "planned_intake": 50,
+        "course_description": "You will receive a strong foundation of IT knowledge, focusing on coding, databases, computer operating systems and networks as well as Accounting.  You will start building your digital portfolio in your first year, continue your portfolio in your second year and gain real-world experience through an internship in your third year.",
+        "reference": "https://www.rp.edu.sg/Soh/full-time-diplomas/Details/diploma-in-hotel-and-hospitality-management"  
+      },
+      "Diploma in Immersive Media": {
+        "year": 2020,
+        "course_code": "N55",
+        "elr2b2_type": "ELR2B2-C",
+        "elr2b2": "7 to 13",
+        "planned_intake": 50,
+        "course_description": "You will receive a broad-based training in design and development of immersive  and interactive media content. Buliding a strong foundational training   through modules such as Applied Design, Interactive Development and Programming. You will learn how to create compelling interactive media content and applications with great user-experience.",
+        "reference": "https://www.rp.edu.sg/Soh/full-time-diplomas/Details/diploma-in-wellness-and-hospitality-business"  
+      },
+      "Diploma in Information Technology": {
+        "year": 2020,
+        "course_code": "N54",
+        "elr2b2_type": "ELR2B2-C",
+        "elr2b2": "5 to 12",
+        "planned_intake": 85,
+        "course_description": "You will focus on core computing skills in programming, networking, databases, enterprise information systems but can start investigating IT-related topics and developing your digital portfolio in your first year. In your second and third year, you are free to choose from a myriad of electives that suit your interests and passion. In your final year, you will pursue a six-month local or overseas internship, launch your own IT business ideas at our technology hubs or work on a capstone project which will beef up your digital portfolio.",
+        "reference": "https://www.rp.edu.sg/soh/full-time-diplomas/Details/diploma-in-restaurant-and-culinary-operations"  
+      }
+      },
+      "School of Life Sciences & Chemical Technology":{
+      "Diploma in Biomedical Science": {
+        "year": 2020,
+        "course_code": "N98",
+        "elr2b2_type": "ELR2B2-C",
+        "elr2b2": "3 to 8",
+        "planned_intake": 90,
+        "course_description": "In year 1, you get to study a range of subjects such as Anatomy & Physiology, Cell Biology & Genetics, Biostatistics, Chemistry and Microbiology whereas in year 2, you are expected to choose one of our two specialisation options which will further build up your knowledge and skills in biomedical sciences. In the final year, students take on Capstone Projects and internships with local or overseas research institutes and healthcare organisations.",
+        "reference": "https://www.np.edu.sg/lsct/Pages/bms.aspx"
+      },
+      "Diploma in Chemical & Biomolecular Engineering": {
+        "year": 2020,
+        "course_code": "N59",
+        "elr2b2_type": "ELR2B2-C",
+        "elr2b2": "4 to 11",
+        "planned_intake": 80,
+        "course_description": "You get to study a broad range of modules covering chemical processing, biopharmaceutical technology, environment science, engineering and life sciences.",
+        "reference": "https://www.np.edu.sg/lsct/Pages/cbe.aspx"
+      },
+      "Diploma in Environmental & Water Technology": {
+        "year": 2020,
+        "course_code": "N56",
+        "elr2b2_type": "ELR2B2-C",
+        "elr2b2": "10 to 14",
+        "planned_intake": 45,
+        "course_description": "You get to learn about sustainable technologies and solutions for management and mitigation of environmental issues. You will also acquire the skills and knowledge on management and communication of environmental and workplace safety & health issues.",
+        "reference": "https://www.np.edu.sg/lsct/Pages/ewt.aspx"  
+      },
+      "Diploma in Landscape Design & Horticulture": {
+        "year": 2020,
+        "course_code": "N57",
+        "elr2b2_type": "ELR2B2-D",
+        "elr2b2": "7 to 15",
+        "planned_intake": 45,
+        "course_description": "You will develop skills in landscape design, project management and park management. You will study various subjects including plant anatomy, biochemistry, plant pathology, and propagation of plants.",
+        "reference": "https://www.np.edu.sg/lsct/Pages/ldh.aspx"  
+      },
+      "Diploma in Pharmaceutical Science": {
+        "year": 2020,
+        "course_code": "N73",
+        "elr2b2_type": "ELR2B2-C",
+        "elr2b2": "3 to 9",
+        "planned_intake": 45,
+        "course_description": "You will be equipped with the skills and knowledge in pharmaceutical sciences, including drug manufacturing and pharmacology. The course's broad-based training includes an internship and the unique Pharmacy Training Programme, designed to engage you in learning directly from working professionals.",
+        "reference": "https://www.np.edu.sg/lsct/Pages/pharm.aspx"  
+      }
+      }
+  }
+}
+
+    
