@@ -1,0 +1,29 @@
+{
+"Aerospace":{
+      "Rolls Royce":{
+      "Associate Engineering Intern": {
+        "Duration": "3-6 months",
+        "Qualification": "Diploma in Associated Mechanical Engineering",
+        "Job_Description": "We're currently looking for graduates and interns from STEM and STEM joint honours disciplines, with internships seen as a direct route into our graduate development programmes. Based in either Civil Aerospace, Defence or Power Systems businesses, or in our central Innovation and Digital hubs, these new learning-orientated programmes focus on giving you real-world experiences and the chance to work on live projects across our engineering, digital and business functions. You’ll have the chance to work with different teams, explore where your own skills and interests lie and consider where you could focus in the future - either as a business leader or a technical specialist. Wherever you are, you'll be working in a collaborative and digitally-enabled environment with the most advanced technology, alongside industry leaders and experts."
+      }
+    }
+},
+"Accounting":{
+      "OCBC":{
+      "Intern, Accounting": {
+        "Duration": "4-6 months",
+        "Qualification": "Diploma in Accounting. The interns must have knowledge of the basic principles and practices of accounting and financial analysis.",
+        "Job_Description": "Migrate legacy Microsoft Access programs to new applications via Business Intelligence tool in QlikView. Requires one to understand the programming logic in old MS access programs and to reprogram them in QlikView. Design dashboards to show daily health checks on all QlikView applications & other appropriate scorecards that is in our solutioning pipeline."
+      }
+    }
+},
+"IT":{
+      "Shopee":{
+      "Software Engineer Intern": {
+        "Duration": "4-6 months",
+        "Qualification": "Diploma in Computer Engineering / Computer Science",
+        "Job_Description": "As a software engineer intern, you will gain first-hand experience working on Shopee’s leading platform to enhance the user experience. You will also have the opportunity to work alongside top engineers to gain invaluable insights on how to build a scalable and high performance software platform. This is a highly rewarding role as your contributions will directly impact the lives of millions of people in the region. Interns with outstanding performance will be invited for a full-time position at Shopee."
+      }
+    }
+}
+}

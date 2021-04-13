@@ -74,7 +74,7 @@
         <div class="content">
             <h3>Aerospace</h3>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam aperiam quaerat dolor voluptas nobis voluptates illum? Inventore voluptas dolore voluptates.</p>
-            <a href="#aero"><button class="btn">Explore Now</button></a>
+            <a href="aerospace.php"><button class="btn">Explore Now</button></a>
         </div>
     </div>
 
@@ -83,7 +83,7 @@
         <div class="content">
             <h3>Information Technology</h3>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam aperiam quaerat dolor voluptas nobis voluptates illum? Inventore voluptas dolore voluptates.</p>
-            <a href="#it"><button class="btn">Explore Now</button></a>
+            <a href="it.php"><button class="btn">Explore Now</button></a>
         </div>
     </div>
 
@@ -92,7 +92,7 @@
         <div class="content">
             <h3>Accounting</h3>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam aperiam quaerat dolor voluptas nobis voluptates illum? Inventore voluptas dolore voluptates.</p>
-            <a href="#acc"><button class="btn">Explore Now</button></a>
+            <a href="accounting.php"><button class="btn">Explore Now</button></a>
         </div>
     </div>
 </section>
