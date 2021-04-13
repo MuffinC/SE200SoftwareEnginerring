@@ -41,6 +41,7 @@ section{
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
+    max-width: 100%;
 }
 
 #livesearch
@@ -556,6 +557,10 @@ section{
 
 .form-select{
     background-color: #D3D3D3;
+}
+
+#return-to-login{
+    text-align: center;
 }
 
 @media (max-width:768px){

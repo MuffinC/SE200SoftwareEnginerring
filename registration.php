@@ -20,10 +20,13 @@ VALUES ('$username', '".md5($password)."', '$email', '$trn_date')";
         $result = mysqli_query($con,$query);
 
         if($result){
-            echo "<div class='form'>
-<h3>You are registered successfully.</h3>
-<br/>Click here to <a href='index.php'>Login</a></div>";
+            echo '<section>
+<h1 class="page-header">You have registered successfully.</h1>
+<div style="text-align:center; margin-top:10px;"><a class="return-to-login" href="index.php">Click here to return to Login</a></div>
+</section>';
         }
     }
 ?>
 
+<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="css/loginStyle.css">

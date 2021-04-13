@@ -1,14 +1,14 @@
 <?php  
     include("auth.php");
 ?>
-<html lang="en">
+<!DOCTYPE html>
+<html>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kaching Website</title>
 
 <!--Login + register-->
-    <link rel="stylesheet" type="text/css" href="style.css">
     <!-- google fonts cdn link  -->
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600&display=swap" rel="stylesheet">
@@ -16,18 +16,14 @@
     <!-- font awesome cdn link  -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css">
 
-    
-  	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
-  	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  	<!-- <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script> -->
 
     <!-- custom css file link  -->
     <link rel="stylesheet" href="css/style.css">
-
-
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
 
 </head>
 <body>
-
 
 <!-- header section starts  -->
 <header>
@@ -138,13 +134,47 @@
 
 <!-- Footer section end -->
 
-<script src="js/searchBar.js"></script>
-
-<!-- jquery cdn link  -->
-<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script> -->
+<!-- <script src="js/searchBar.js"></script> -->
+<script>
+    $(document).ready(function(){
+ $.ajaxSetup({ cache: false });
+ $('#search').keyup(function(){
+  $('#result').html('');
+  $('#state').val('');
+  var searchField = $('#search').val();
+  var expression = new RegExp(searchField, "i");
+  $.getJSON('subPages/poly/polydata.json', function(polydata) {
+   var resp = polydata;
+        for(kk in resp)
+        {
+                var j = resp[kk];
+                for(k in j)
+                {
+                        var i = j[k];
+                        for(key in i)
+                        {
+                            if (key.search(expression) != -1 || i[key].course_code.search(expression) != -1 || k.search(expression) != -1 || kk.search(expression) != -1) {
+                                $('#result').append('<li class="list-group-item list-group"><strong class="courseHeader">'+kk+'</strong> | <strong class="courseHeader">'+k+'</strong> | <strong class="courseHeader">'+key+'</strong> | <strong class="courseHeader"> Year: '+i[key].year+'</strong> | <strong class="courseHeader"> Type: '+i[key].elr2b2_type+'</strong> | <strong class="courseHeader"> ELR2B2: '+i[key].elr2b2+'</strong> | <strong class="courseHeader"> Planned Intake: '+i[key].planned_intake+'</strong> | <span><strong class="courseHeader"> Course Code: '+i[key].course_code+'</strong></span> | <p>'+i[key].course_description+'</p> <a target="_blank" href = "'+i[key].reference+'"><em>Click Here to Learn More</em></a></li>');
+                            }
+                        }
+                    
+                }
+            
+        }
+       
+  });
+ });
+ 
+ $('#result').on('click', 'li', function() {
+  var click_text = $(this).text().split('|');
+  $('#search').val($.trim(click_text[0]));
+  $("#result").html('');
+ });
+});
+</script>
 
 <!-- custom js file link  -->
-<script src="js/script.js"></script>
+<!-- <script src="js/script.js"></script> -->
 
 <script src="//code.tidio.co/k6sjn4zehamzr5plcq2lwzebmaktdfsk.js" async></script>
 </body>

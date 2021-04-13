@@ -1,6 +1,4 @@
 *{
-	margin: 0; 
-	padding: 0;
 	font-family: sans-serif;
 
 }
@@ -112,4 +110,16 @@ span{
 }
 #register{
 	left:450px;
+}
+
+.return-to-login{
+	color: black;
+	font-size: 2rem;
+	background-color: white;
+	border: solid 1px black;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	border-radius: 20px;
 }

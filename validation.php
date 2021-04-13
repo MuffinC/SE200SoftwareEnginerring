@@ -19,10 +19,13 @@ and password='".md5($password)."'"; //md5 is encyrmption value to un wind it
             // Redirect user to index.php
      header("Location: homepage.php");
          }else{
- echo "<div class='form'>
-<h3>Username/password is incorrect.</h3>
-<br/>Click here to  <a href='index.php'>try again.</a></div>";
+ echo '<section>
+<h1 class="page-header">You have entered the wrong username/password</h1>
+<div style="text-align:center; margin-top:10px;"><a class="return-to-login" href="index.php">Click here to return to Login</a></div>
+</section>';
  }
 }
 ?>
 
+<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="css/loginStyle.css">
