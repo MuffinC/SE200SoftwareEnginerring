@@ -73,13 +73,13 @@
 
 <div class="row">
     <h1 class="page-header">FEEDBACK</h1>
-
+    <img src="images/feedback.gif" /> 
+    <div class="form-container">
     <form id="feedbkr" action="sendfeed.php" method="post">
         <div class="form-group">
         <h3>Email: </h3>
-        <input type="email" name="email" placeholder="your email" class="box input-field" required>
+        <input type="email" name="email" placeholder="Email" class="box input-field" required>
         </div>
-
         <div class="form-group">
         <h3>Title: </h3>
         <input type="text" name="subject" placeholder="Subject" class="box input-field" required>
@@ -87,16 +87,11 @@
 
         <div class="form-group">
         <h3>Feedback: </h3>
-        <textarea type= "text" name="feedback" cols="30" rows="10" class="box input-field"required></textarea>
+        <textarea type= "text" name="feedback" cols="30" rows="10" placeholder="Input text" class="box input-field"required></textarea>
         </div>
-        <input type="submit" class="btn" value="Send it!">
-
     </form>
-<!--
-    <div class="image">
-        <img src="images/contact-img.png" alt="">
     </div>
--->
+    <input type="submit" class="btn" value="Send it!">
 
 </div>
 

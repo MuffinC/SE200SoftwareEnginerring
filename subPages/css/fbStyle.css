@@ -6,7 +6,7 @@
 
 .box:focus,
 .box:hover{
-    border:purple solid .2rem;
+    border:white solid .2rem;
 }
 
 
@@ -34,5 +34,25 @@ h3{
 }
 
 .btn{
-    margin: 0;
+    margin-left: 50rem;
+}
+
+input{
+    padding:.5rem;
+    border-radius: .5rem;
+}
+
+.input-field{
+    font-size: 1.8rem;
+}
+
+img {
+    float: left;
+    margin-top: 10rem;
+}
+
+form{
+    border: white solid .3rem;
+    padding: 0 2rem 2rem 2rem;
+    background: black;
 }
