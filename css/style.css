@@ -206,14 +206,19 @@ section{
     margin-left: .5rem;
 }
 
+.fa-user-circle{
+    margin-left: 5px; 
+}
+
 .login-msg div{
     font-size: 2rem;
+    color: white;
 }
 
 .login-msg a{
     position: relative;
     float: right;
-    color: #0366d6;
+    color: #BFBFBF;
 }
 
 .login-msg a:hover{
@@ -225,6 +230,12 @@ section{
     width: 40px;
     margin-top: 5px;
     margin-left: 20px;
+    margin-right: 10px;
+}
+
+.logo{
+    font-size: 3rem;
+    color: white;
 }
 
 .page-header{
