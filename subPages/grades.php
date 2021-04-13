@@ -80,25 +80,15 @@
             <button type="button" class="toggle-btn" onclick="l1r4()">L1R4</button>
             <button type="button" class="toggle-btn" onclick="l1r5()">L1R5</button>
         </div>
+
 		<form id="l1r4" class="input-group">
             <h1 class="grade-head"> Enter L1R4 Results </h1>
             <div class="subject-box">
                 <select class="form-select s1" aria-label="Default select example" style="border: 1px solid black;">
-                    <option selected>Subject</option>
-                    <option value="1">English</option>
-                    <option value="2">Mathematics</option>
-                    <option value="3">Additional Mathematics</option>
-                    <option value="4">Physics</option>
-                    <option value="5">Chemistry</option>
-                    <option value="6">Biology</option>
-                    <option value="7">Geography</option>
-                    <option value="8">History</option>
-                    <option value="9">Social Studies</option>
-                    <option value="10">Chinese</option>
+                    <option selected value="1">English</option>
                 </select>
                 <select class="form-select s2" aria-label="Default select example" style="border: 1px solid black;">
                     <option selected>Subject</option>
-                    <option value="1">English</option>
                     <option value="2">Mathematics</option>
                     <option value="3">Additional Mathematics</option>
                     <option value="4">Physics</option>
@@ -111,7 +101,6 @@
                 </select>
                 <select class="form-select s3" aria-label="Default select example" style="border: 1px solid black;">
                     <option selected>Subject</option>
-                    <option value="1">English</option>
                     <option value="2">Mathematics</option>
                     <option value="3">Additional Mathematics</option>
                     <option value="4">Physics</option>
@@ -124,7 +113,6 @@
                 </select>
                 <select class="form-select s4" aria-label="Default select example" style="border: 1px solid black;">
                     <option selected>Subject</option>
-                    <option value="1">English</option>
                     <option value="2">Mathematics</option>
                     <option value="3">Additional Mathematics</option>
                     <option value="4">Physics</option>
@@ -182,27 +170,17 @@
                     <option value="8">F</option>
                 </select>
             </div>
+            <button type="submit" class="submit-btn">Submit</button>
         </form>
 
         <form id="l1r5" class="input-group">
             <h1 class="grade-head"> Enter L1R5 Results </h1>
             <div class="subject-box">
                 <select class="form-select s1" aria-label="Default select example" style="border: 1px solid black;">
-                    <option selected>Subject</option>
-                    <option value="1">English</option>
-                    <option value="2">Mathematics</option>
-                    <option value="3">Additional Mathematics</option>
-                    <option value="4">Physics</option>
-                    <option value="5">Chemistry</option>
-                    <option value="6">Biology</option>
-                    <option value="7">Geography</option>
-                    <option value="8">History</option>
-                    <option value="9">Social Studies</option>
-                    <option value="10">Chinese</option>
+                    <option selected value="1">English</option>
                 </select>
                 <select class="form-select s2" aria-label="Default select example" style="border: 1px solid black;">
                     <option selected>Subject</option>
-                    <option value="1">English</option>
                     <option value="2">Mathematics</option>
                     <option value="3">Additional Mathematics</option>
                     <option value="4">Physics</option>
@@ -215,7 +193,6 @@
                 </select>
                 <select class="form-select s3" aria-label="Default select example" style="border: 1px solid black;">
                     <option selected>Subject</option>
-                    <option value="1">English</option>
                     <option value="2">Mathematics</option>
                     <option value="3">Additional Mathematics</option>
                     <option value="4">Physics</option>
@@ -228,7 +205,6 @@
                 </select>
                 <select class="form-select s4" aria-label="Default select example" style="border: 1px solid black;">
                     <option selected>Subject</option>
-                    <option value="1">English</option>
                     <option value="2">Mathematics</option>
                     <option value="3">Additional Mathematics</option>
                     <option value="4">Physics</option>
@@ -241,7 +217,6 @@
                 </select>
                 <select class="form-select s5" aria-label="Default select example" style="border: 1px solid black;">
                     <option selected>Subject</option>
-                    <option value="1">English</option>
                     <option value="2">Mathematics</option>
                     <option value="3">Additional Mathematics</option>
                     <option value="4">Physics</option>
@@ -310,7 +285,9 @@
                     <option value="8">F</option>
                 </select>
             </div>
+            <button type="submit" class="submit-btn">Submit</button>
         </form>
+        
 	</div>
 
 </section>
