@@ -16,6 +16,7 @@
 
     <!-- custom css file link  -->
     <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="../css/loginStyle.css">
     <link rel="stylesheet" href="css/subStyle.css">
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
@@ -71,111 +72,222 @@
 <!-- header section end-->
 
 <!-- ABOUT US section starts  (need to shift the image to the right, also take group photo)-->
-<section class="about">
-	<div class="about-container grades-container" style="border: 2px solid purple;">
-		<h1 class="page-header">Enter Result</h1>
+<section>
+	<div class="form-box grades-container" style="border: 2px solid purple;">
 		
-        <div class="subject-box">
-            <select class="form-select s1" aria-label="Default select example" style="border: 1px solid black;">
-                <option selected>Subject</option>
-                <option value="1">English</option>
-                <option value="2">Mathematics</option>
-                <option value="3">Additional Mathematics</option>
-                <option value="4">Physics</option>
-                <option value="5">Chemistry</option>
-                <option value="6">Biology</option>
-                <option value="7">Geography</option>
-                <option value="8">History</option>
-                <option value="9">Social Studies</option>
-                <option value="10">Chinese</option>
-            </select>
-            <select class="form-select s2" aria-label="Default select example" style="border: 1px solid black;">
-                <option selected>Subject</option>
-                <option value="1">English</option>
-                <option value="2">Mathematics</option>
-                <option value="3">Additional Mathematics</option>
-                <option value="4">Physics</option>
-                <option value="5">Chemistry</option>
-                <option value="6">Biology</option>
-                <option value="7">Geography</option>
-                <option value="8">History</option>
-                <option value="9">Social Studies</option>
-                <option value="10">Chinese</option>
-            </select>
-            <select class="form-select s3" aria-label="Default select example" style="border: 1px solid black;">
-                <option selected>Subject</option>
-                <option value="1">English</option>
-                <option value="2">Mathematics</option>
-                <option value="3">Additional Mathematics</option>
-                <option value="4">Physics</option>
-                <option value="5">Chemistry</option>
-                <option value="6">Biology</option>
-                <option value="7">Geography</option>
-                <option value="8">History</option>
-                <option value="9">Social Studies</option>
-                <option value="10">Chinese</option>
-            </select>
-            <select class="form-select s4" aria-label="Default select example" style="border: 1px solid black;">
-                <option selected>Subject</option>
-                <option value="1">English</option>
-                <option value="2">Mathematics</option>
-                <option value="3">Additional Mathematics</option>
-                <option value="4">Physics</option>
-                <option value="5">Chemistry</option>
-                <option value="6">Biology</option>
-                <option value="7">Geography</option>
-                <option value="8">History</option>
-                <option value="9">Social Studies</option>
-                <option value="10">Chinese</option>
-            </select>
+        <div class="button-box">
+            <div id="btn"></div>
+            <button type="button" class="toggle-btn" onclick="l1r4()">L1R4</button>
+            <button type="button" class="toggle-btn" onclick="l1r5()">L1R5</button>
         </div>
 
-        <div class="grade-box">
-            <select class="form-select g1" aria-label="Default select example" style="border: 1px solid black;">
-                <option selected>Grade</option>
-                <option value="1">A1</option>
-                <option value="2">A2</option>
-                <option value="3">B3</option>
-                <option value="4">B4</option>
-                <option value="5">C5</option>
-                <option value="6">C6</option>
-                <option value="7">D7</option>
-                <option value="8">F</option>
-            </select>
-            <select class="form-select g2" aria-label="Default select example" style="border: 1px solid black;">
-                <option selected>Grade</option>
-                <option value="1">A1</option>
-                <option value="2">A2</option>
-                <option value="3">B3</option>
-                <option value="4">B4</option>
-                <option value="5">C5</option>
-                <option value="6">C6</option>
-                <option value="7">D7</option>
-                <option value="8">F</option>
-            </select>
-            <select class="form-select g3" aria-label="Default select example" style="border: 1px solid black;">
-                <option selected>Grade</option>
-                <option value="1">A1</option>
-                <option value="2">A2</option>
-                <option value="3">B3</option>
-                <option value="4">B4</option>
-                <option value="5">C5</option>
-                <option value="6">C6</option>
-                <option value="7">D7</option>
-                <option value="8">F</option>
-            </select>
-            <select class="form-select g4" aria-label="Default select example" style="border: 1px solid black;">
-                <option selected>Grade</option>
-                <option value="1">A1</option>
-                <option value="2">A2</option>
-                <option value="3">B3</option>
-                <option value="4">B4</option>
-                <option value="5">C5</option>
-                <option value="6">C6</option>
-                <option value="7">D7</option>
-                <option value="8">F</option>
-            </select>
-        </div>
+		<form id="l1r4" class="input-group">
+            <h1 class="grade-head"> Enter L1R4 Results </h1>
+            <div class="subject-box">
+                <select class="form-select s1" aria-label="Default select example" style="border: 1px solid black;">
+                    <option selected value="1">English</option>
+                </select>
+                <select class="form-select s2" aria-label="Default select example" style="border: 1px solid black;">
+                    <option selected>Subject</option>
+                    <option value="2">Mathematics</option>
+                    <option value="3">Additional Mathematics</option>
+                    <option value="4">Physics</option>
+                    <option value="5">Chemistry</option>
+                    <option value="6">Biology</option>
+                    <option value="7">Geography</option>
+                    <option value="8">History</option>
+                    <option value="9">Social Studies</option>
+                    <option value="10">Chinese</option>
+                </select>
+                <select class="form-select s3" aria-label="Default select example" style="border: 1px solid black;">
+                    <option selected>Subject</option>
+                    <option value="2">Mathematics</option>
+                    <option value="3">Additional Mathematics</option>
+                    <option value="4">Physics</option>
+                    <option value="5">Chemistry</option>
+                    <option value="6">Biology</option>
+                    <option value="7">Geography</option>
+                    <option value="8">History</option>
+                    <option value="9">Social Studies</option>
+                    <option value="10">Chinese</option>
+                </select>
+                <select class="form-select s4" aria-label="Default select example" style="border: 1px solid black;">
+                    <option selected>Subject</option>
+                    <option value="2">Mathematics</option>
+                    <option value="3">Additional Mathematics</option>
+                    <option value="4">Physics</option>
+                    <option value="5">Chemistry</option>
+                    <option value="6">Biology</option>
+                    <option value="7">Geography</option>
+                    <option value="8">History</option>
+                    <option value="9">Social Studies</option>
+                    <option value="10">Chinese</option>
+                </select>
+            </div>
+            <div class="grade-box">
+                <select class="form-select g1" aria-label="Default select example" style="border: 1px solid black;">
+                    <option selected>Grade</option>
+                    <option value="1">A1</option>
+                    <option value="2">A2</option>
+                    <option value="3">B3</option>
+                    <option value="4">B4</option>
+                    <option value="5">C5</option>
+                    <option value="6">C6</option>
+                    <option value="7">D7</option>
+                    <option value="8">F</option>
+                </select>
+                <select class="form-select g2" aria-label="Default select example" style="border: 1px solid black;">
+                    <option selected>Grade</option>
+                    <option value="1">A1</option>
+                    <option value="2">A2</option>
+                    <option value="3">B3</option>
+                    <option value="4">B4</option>
+                    <option value="5">C5</option>
+                    <option value="6">C6</option>
+                    <option value="7">D7</option>
+                    <option value="8">F</option>
+                </select>
+                <select class="form-select g3" aria-label="Default select example" style="border: 1px solid black;">
+                    <option selected>Grade</option>
+                    <option value="1">A1</option>
+                    <option value="2">A2</option>
+                    <option value="3">B3</option>
+                    <option value="4">B4</option>
+                    <option value="5">C5</option>
+                    <option value="6">C6</option>
+                    <option value="7">D7</option>
+                    <option value="8">F</option>
+                </select>
+                <select class="form-select g4" aria-label="Default select example" style="border: 1px solid black;">
+                    <option selected>Grade</option>
+                    <option value="1">A1</option>
+                    <option value="2">A2</option>
+                    <option value="3">B3</option>
+                    <option value="4">B4</option>
+                    <option value="5">C5</option>
+                    <option value="6">C6</option>
+                    <option value="7">D7</option>
+                    <option value="8">F</option>
+                </select>
+            </div>
+            <button type="submit" class="submit-btn">Submit</button>
+        </form>
+
+        <form id="l1r5" class="input-group">
+            <h1 class="grade-head"> Enter L1R5 Results </h1>
+            <div class="subject-box">
+                <select class="form-select s1" aria-label="Default select example" style="border: 1px solid black;">
+                    <option selected value="1">English</option>
+                </select>
+                <select class="form-select s2" aria-label="Default select example" style="border: 1px solid black;">
+                    <option selected>Subject</option>
+                    <option value="2">Mathematics</option>
+                    <option value="3">Additional Mathematics</option>
+                    <option value="4">Physics</option>
+                    <option value="5">Chemistry</option>
+                    <option value="6">Biology</option>
+                    <option value="7">Geography</option>
+                    <option value="8">History</option>
+                    <option value="9">Social Studies</option>
+                    <option value="10">Chinese</option>
+                </select>
+                <select class="form-select s3" aria-label="Default select example" style="border: 1px solid black;">
+                    <option selected>Subject</option>
+                    <option value="2">Mathematics</option>
+                    <option value="3">Additional Mathematics</option>
+                    <option value="4">Physics</option>
+                    <option value="5">Chemistry</option>
+                    <option value="6">Biology</option>
+                    <option value="7">Geography</option>
+                    <option value="8">History</option>
+                    <option value="9">Social Studies</option>
+                    <option value="10">Chinese</option>
+                </select>
+                <select class="form-select s4" aria-label="Default select example" style="border: 1px solid black;">
+                    <option selected>Subject</option>
+                    <option value="2">Mathematics</option>
+                    <option value="3">Additional Mathematics</option>
+                    <option value="4">Physics</option>
+                    <option value="5">Chemistry</option>
+                    <option value="6">Biology</option>
+                    <option value="7">Geography</option>
+                    <option value="8">History</option>
+                    <option value="9">Social Studies</option>
+                    <option value="10">Chinese</option>
+                </select>
+                <select class="form-select s5" aria-label="Default select example" style="border: 1px solid black;">
+                    <option selected>Subject</option>
+                    <option value="2">Mathematics</option>
+                    <option value="3">Additional Mathematics</option>
+                    <option value="4">Physics</option>
+                    <option value="5">Chemistry</option>
+                    <option value="6">Biology</option>
+                    <option value="7">Geography</option>
+                    <option value="8">History</option>
+                    <option value="9">Social Studies</option>
+                    <option value="10">Chinese</option>
+                </select>
+            </div>
+            <div class="grade-box">
+                <select class="form-select g1" aria-label="Default select example" style="border: 1px solid black;">
+                    <option selected>Grade</option>
+                    <option value="1">A1</option>
+                    <option value="2">A2</option>
+                    <option value="3">B3</option>
+                    <option value="4">B4</option>
+                    <option value="5">C5</option>
+                    <option value="6">C6</option>
+                    <option value="7">D7</option>
+                    <option value="8">F</option>
+                </select>
+                <select class="form-select g2" aria-label="Default select example" style="border: 1px solid black;">
+                    <option selected>Grade</option>
+                    <option value="1">A1</option>
+                    <option value="2">A2</option>
+                    <option value="3">B3</option>
+                    <option value="4">B4</option>
+                    <option value="5">C5</option>
+                    <option value="6">C6</option>
+                    <option value="7">D7</option>
+                    <option value="8">F</option>
+                </select>
+                <select class="form-select g3" aria-label="Default select example" style="border: 1px solid black;">
+                    <option selected>Grade</option>
+                    <option value="1">A1</option>
+                    <option value="2">A2</option>
+                    <option value="3">B3</option>
+                    <option value="4">B4</option>
+                    <option value="5">C5</option>
+                    <option value="6">C6</option>
+                    <option value="7">D7</option>
+                    <option value="8">F</option>
+                </select>
+                <select class="form-select g4" aria-label="Default select example" style="border: 1px solid black;">
+                    <option selected>Grade</option>
+                    <option value="1">A1</option>
+                    <option value="2">A2</option>
+                    <option value="3">B3</option>
+                    <option value="4">B4</option>
+                    <option value="5">C5</option>
+                    <option value="6">C6</option>
+                    <option value="7">D7</option>
+                    <option value="8">F</option>
+                </select>
+                <select class="form-select g5" aria-label="Default select example" style="border: 1px solid black;">
+                    <option selected>Grade</option>
+                    <option value="1">A1</option>
+                    <option value="2">A2</option>
+                    <option value="3">B3</option>
+                    <option value="4">B4</option>
+                    <option value="5">C5</option>
+                    <option value="6">C6</option>
+                    <option value="7">D7</option>
+                    <option value="8">F</option>
+                </select>
+            </div>
+            <button type="submit" class="submit-btn">Submit</button>
+        </form>
+        
 	</div>
 
 </section>
@@ -207,10 +319,30 @@
     </footer>
 </div>
 
-<!-- Footer section end -->
-<script src="js/searchBar.js"></script>
+<script>
+    var x = document.getElementById("l1r4");
+    var y = document.getElementById("l1r5");
+    var z = document.getElementById("btn");
 
-<script src="js/script.js"></script>
+    function l1r5(){
+        x.style.left="-400px";
+        y.style.left="50px";
+        z.style.left="110px";
+    }
+    function l1r4(){
+        x.style.left="50px";
+        y.style.left="450px";
+        z.style.left="0px";
+    }
+
+</script>
+
+<!-- Footer section end -->
+<script src="../js/searchBar.js"></script>
+
+<script src="../js/script.js"></script>
+
+<script src="../js/jquery-3.6.0.js"></script>
 
 <!-- Help bot -->
 <script src="//code.tidio.co/k6sjn4zehamzr5plcq2lwzebmaktdfsk.js" async></script>
