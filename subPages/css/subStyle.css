@@ -86,3 +86,7 @@
     margin-bottom: 1rem;
 }
 
+.teamphoto{
+    height: 200px;
+    object-fit: contain;
+}

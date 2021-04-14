@@ -75,7 +75,7 @@
 	<div class="about-container">
 		<h1 class="page-header">ABOUT US!</h1>
 		<div id="grp-img">
-			<img src="images/team.jpeg" alt="placeholder">
+			<img class="teamphoto" src="images/team.jpg" alt="placeholder">
 		</div>
 		
 		<div>
