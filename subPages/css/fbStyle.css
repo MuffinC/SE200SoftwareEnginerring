@@ -56,3 +56,9 @@ form{
     padding: 0 2rem 2rem 2rem;
     background: black;
 }
+
+@media (max-width: 768px){
+    .fb-robot{
+        display: none;
+    }
+}

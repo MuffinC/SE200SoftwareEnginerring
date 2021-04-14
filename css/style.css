@@ -596,4 +596,8 @@ section{
         height: 50%;
         width:50%;
     }   
+
+    .container{
+    	flex-wrap: wrap;
+    }
 }
