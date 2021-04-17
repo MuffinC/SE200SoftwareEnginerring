@@ -91,7 +91,7 @@
 
         <p>Why do we have to create an account?</p>
         <ul>
-            <li>For ... purpose</li>
+            <li>For future implementation</li>
         </ul>
 	</div>
     
