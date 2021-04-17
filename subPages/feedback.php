@@ -89,9 +89,10 @@
         <h3>Feedback: </h3>
         <textarea type= "text" name="feedback" cols="30" rows="10" placeholder="Input text" class="box input-field"required></textarea>
         </div>
+        <input type="submit" class="btn" value="Send it!">
     </form>
     </div>
-    <input type="submit" class="btn" value="Send it!">
+
 
 </div>
 

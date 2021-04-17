@@ -153,6 +153,7 @@
         <img src="images/suss_logo.jpg" alt="SUSS Logo">
         <div class="content">
             <a target="_blank" href="https://www.suss.edu.sg/" class="title">Singapore University of Social Sciences (SUSS)</a>
+            <div class="subcontent">
 	          <ul>
 	            <li><a target="_blank" class="programme" href="https://www.suss.edu.sg/programmes/detail/bachelor-of-accountancy-ftacc">Bachelor of Accountancy</a></li>
 	            <li><a target="_blank" class="programme" href="https://www.suss.edu.sg/programmes/detail/bachelor-of-early-childhood-education-with-minor-ftece">Bachelor of Early Childhood Education with Minor</a></li>
@@ -166,6 +167,7 @@
 	            <li><a target="_blank" class="programme" href="https://www.suss.edu.sg/programmes/detail/bachelor-of-social-work-with-minor-ftswk">Bachelor of Social Work with Minor</a></li>
 	            <li><a target="_blank" class="programme" href="https://www.suss.edu.sg/part-time-undergraduate?utm_source=suss_website&utm_medium=homepage&utm_campaign=homepage_card_part_time_undergraduate&utm_content=part_time_undergraduate">Part-Time Programmes</a></li>
 	        </ul>
+            </div>
         </div>
     </div>
 
